@@ -1,1 +1,52 @@
-
+{{
+  "LITE": {
+    "level": "NEWS",
+    "label": "Nasdaq 100 inclusion — forced index fund buying all week",
+    "date": "2026-05-11"
+  },
+  "MU": {
+    "level": "ELEVATED",
+    "label": "DA Davidson Buy PT$1000 — 52wk high +5.4% pre",
+    "date": "2026-05-11"
+  },
+  "CRDO": {
+    "level": "NEWS",
+    "label": "+9.6% today — momentum continuation watch",
+    "date": "2026-05-11"
+  },
+  "NBIS": {
+    "level": "NEWS",
+    "label": "Earnings Wed — $2B NVIDIA deal + Meta + MSFT agreements",
+    "date": "2026-05-11"
+  },
+  "CRCL": {
+    "level": "NEWS",
+    "label": "Earnings tonight — +14.8% premarket, size small",
+    "date": "2026-05-11"
+  },
+  "NVDA": {
+    "level": "ELEVATED",
+    "label": "Goldman major re-rating ahead May 20 earnings — new 52wk high",
+    "date": "2026-05-11"
+  },
+  "AMD": {
+    "level": "ELEVATED",
+    "label": "New 52wk high — Bernstein PT$525, Keybanc PT$530",
+    "date": "2026-05-11"
+  },
+  "INTC": {
+    "level": "ELEVATED",
+    "label": "Goldman + Bernstein upgraded Buy — Apple chip deal confirmed",
+    "date": "2026-05-09"
+  },
+  "IREN": {
+    "level": "NEWS",
+    "label": "NVIDIA $3.4B AI contract — JPMorgan PT raised $39 to $46",
+    "date": "2026-05-08"
+  },
+  "DELL": {
+    "level": "DOWN",
+    "label": "UBS downgraded Neutral PT$243 — stock trading above target",
+    "date": "2026-05-11"
+  }
+}}
