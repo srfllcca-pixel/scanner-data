@@ -43,12 +43,12 @@
     "level": "DOWN",
     "label": "Future Stack Investment downgraded today",
     "date": "2026-05-11"
-    
+  },  
  "CRCL": {
     "level": "ALERT",
     "label": "JPMorgan PT $112→$155 TODAY + Needham reaffirms Buy — earnings beat Q1",
     "date": "2026-05-12"
-}
+  },
   "INTC": {
     "level": "ELEVATED",
     "label": "Goldman + Bernstein upgraded Buy May 6 — Apple chip deal confirmed",
