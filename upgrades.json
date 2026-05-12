@@ -1,67 +1,15 @@
 {
-  "LITE": {
-    "level": "NEWS",
-    "label": "Nasdaq 100 inclusion — forced index fund buying all week",
-    "date": "2026-05-11"
-  },
-  "NVDA": {
-    "level": "ELEVATED",
-    "label": "Goldman major re-rating ahead May 20 earnings — new 52wk high $222",
-    "date": "2026-05-11"
-  },
-  "AMD": {
-    "level": "NEWS",
-    "label": "Bernstein PT$525 bullish BUT Citi PT$358 bearish — split street, stock at $461",
-    "date": "2026-05-11"
-  },
-  "MU": {
-    "level": "ELEVATED",
-    "label": "DA Davidson Buy PT$1000 — 30 Buys 0 Sells — 52wk high",
-    "date": "2026-05-11"
-  },
-  "CRDO": {
-    "level": "ELEVATED",
-    "label": "Rothschild initiated Buy PT$206 May 1 — stock above consensus target $147",
-    "date": "2026-05-11"
-  },
-  "IREN": {
-    "level": "NEWS",
-    "label": "JPMorgan PT $39→$46 but keeps Underweight — stock -4% despite $5.5B NVDA deal",
-    "date": "2026-05-11"
-  },
-  "NBIS": {
-    "level": "NEWS",
-    "label": "Earnings Tues May 13 — $2B NVDA deal, Eigen AI $643M, 52wk high $197",
-    "date": "2026-05-11"
-  },
-  "CRWD": {
-    "level": "ELEVATED",
-    "label": "Gary Alexander upgraded today — 2% market penetration, vast TAM",
-    "date": "2026-05-11"
-  },
-  "SNDK": {
-    "level": "DOWN",
-    "label": "Future Stack Investment downgraded today",
-    "date": "2026-05-11"
-  },  
- "CRCL": {
-    "level": "ALERT",
-    "label": "JPMorgan PT $112→$155 TODAY + Needham reaffirms Buy — earnings beat Q1",
-    "date": "2026-05-12"
-  },
-  "INTC": {
-    "level": "ELEVATED",
-    "label": "Goldman + Bernstein upgraded Buy May 6 — Apple chip deal confirmed",
-    "date": "2026-05-09"
-  },
-  "DELL": {
-    "level": "DOWN",
-    "label": "UBS downgraded Neutral PT$243 — stock trading above target at $260",
-    "date": "2026-05-11"
-  },
-  "GLW": {
-    "level": "NEWS",
-    "label": "NVDA investing $3.2B — AI fiber optic demand surge",
-    "date": "2026-05-11"
-  }
-}}
+  "LITE": {"level": "NEWS", "label": "Nasdaq 100 inclusion — forced index fund buying", "date": "2026-05-12"},
+  "NVDA": {"level": "ELEVATED", "label": "Goldman major re-rating ahead May 20 earnings", "date": "2026-05-11"},
+  "AMD": {"level": "NEWS", "label": "Bernstein PT$525 bullish BUT Citi PT$358 bearish — split street", "date": "2026-05-11"},
+  "MU": {"level": "ELEVATED", "label": "DA Davidson Buy PT$1000 — 30 Buys 0 Sells", "date": "2026-05-11"},
+  "CRDO": {"level": "ELEVATED", "label": "Rothschild initiated Buy PT$206 May 1", "date": "2026-05-11"},
+  "IREN": {"level": "NEWS", "label": "JPMorgan PT $39 to $46 keeps Underweight — stock -4% despite $5.5B NVDA deal", "date": "2026-05-11"},
+  "NBIS": {"level": "NEWS", "label": "Earnings Tues May 13 — $2B NVDA deal, 52wk high $197", "date": "2026-05-11"},
+  "CRWD": {"level": "ELEVATED", "label": "Gary Alexander upgraded today — 2% market penetration", "date": "2026-05-11"},
+  "SNDK": {"level": "DOWN", "label": "Future Stack Investment downgraded today", "date": "2026-05-11"},
+  "CRCL": {"level": "ALERT", "label": "JPMorgan PT $155 + Needham Buy + Wells Fargo OW PT$142 today", "date": "2026-05-12"},
+  "INTC": {"level": "ELEVATED", "label": "Goldman + Bernstein upgraded Buy — Apple chip deal confirmed", "date": "2026-05-09"},
+  "DELL": {"level": "DOWN", "label": "UBS downgraded Neutral PT$243 — stock above target", "date": "2026-05-11"},
+  "GLW": {"level": "NEWS", "label": "NVDA investing $3.2B — AI fiber optic demand surge", "date": "2026-05-11"}
+}
