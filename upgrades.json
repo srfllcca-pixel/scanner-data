@@ -1,14 +1,14 @@
 {
-  "NBIS": {"level": "ALERT", "label": "Q1 +684% revenue BEAT $399M — new 52wk high $212 premarket", "date": "2026-05-13"},
-  "NVDA": {"level": "ALERT", "label": "Wells Fargo PT $265→$315 + Susquehanna raise + Jensen joins China trip", "date": "2026-05-13"},
-  "ORCL": {"level": "ELEVATED", "label": "Oppenheimer PT $210→$235", "date": "2026-05-13"},
-  "MU": {"level": "ELEVATED", "label": "Stock split speculation + DA Davidson Buy PT$1000 — 30 Buys 0 Sells", "date": "2026-05-13"},
-  "AMD": {"level": "ELEVATED", "label": "Bernstein PT$525 — chip sector momentum, Jensen China trip", "date": "2026-05-13"},
-  "CRDO": {"level": "ELEVATED", "label": "Rothschild initiated Buy PT$206 May 1", "date": "2026-05-13"},
-  "CRWD": {"level": "ELEVATED", "label": "Gary Alexander upgraded — 2% market penetration, vast TAM", "date": "2026-05-13"},
-  "LITE": {"level": "NEWS", "label": "Nasdaq 100 inclusion — index fund buying continues", "date": "2026-05-11"},
-  "INTC": {"level": "ELEVATED", "label": "Goldman + Bernstein upgraded Buy — Apple chip deal", "date": "2026-05-09"},
+  "AMAT": {"level": "ALERT", "label": "Earnings tonight after close — Citi PT $420→$520 | Tesla/SpaceX Terafab wildcard | Q2 guide $7.65B", "date": "2026-05-14"},
+  "NVDA": {"level": "ALERT", "label": "Jensen Huang joins Trump China trip — export relief hopes | BofA Buy PT$320 | earnings May 20", "date": "2026-05-14"},
+  "AMD": {"level": "DOWN", "label": "Daiwa downgraded Outperform — valuation after 150% run | RSI 77 overbought | Mizuho PT$515", "date": "2026-05-14"},
+  "LRCX": {"level": "ELEVATED", "label": "WFE spending surge — AMAT halo effect | BofA top pick 2026", "date": "2026-05-14"},
+  "ASML": {"level": "ELEVATED", "label": "WFE tailwind — TSMC $56B capex 2026 flows through ASML", "date": "2026-05-14"},
+  "MU": {"level": "ELEVATED", "label": "AI DRAM demand confirmed — 31% of AMAT revenue | DA Davidson Buy PT$1000", "date": "2026-05-14"},
+  "TSM": {"level": "ELEVATED", "label": "TSMC $56B capex 2026 — AMAT largest customer, WFE beneficiary", "date": "2026-05-14"},
+  "INTC": {"level": "ELEVATED", "label": "Goldman + Bernstein upgraded Buy — Apple chip deal confirmed", "date": "2026-05-09"},
+  "NBIS": {"level": "NEWS", "label": "Q1 +684% revenue beat $399M — new 52wk high | BofA PT $205", "date": "2026-05-13"},
+  "CRWD": {"level": "ELEVATED", "label": "Gary Alexander upgraded — 2% market penetration, vast TAM", "date": "2026-05-11"},
   "DELL": {"level": "DOWN", "label": "UBS downgraded Neutral PT$243 — stock above target", "date": "2026-05-11"},
-  "SNDK": {"level": "DOWN", "label": "Future Stack Investment downgraded", "date": "2026-05-11"},
-  "QCOM": {"level": "NEWS", "label": "Down 13% Tuesday on CPI — oversold bounce candidate today", "date": "2026-05-13"}
+  "SNDK": {"level": "DOWN", "label": "Future Stack Investment downgraded", "date": "2026-05-11"}
 }
