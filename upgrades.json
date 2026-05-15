@@ -1,14 +1,14 @@
 {
-  "AMAT": {"level": "ALERT", "label": "Earnings tonight after close — Citi PT $420→$520 | Tesla/SpaceX Terafab wildcard | Q2 guide $7.65B", "date": "2026-05-14"},
-  "NVDA": {"level": "ALERT", "label": "Jensen Huang joins Trump China trip — export relief hopes | BofA Buy PT$320 | earnings May 20", "date": "2026-05-14"},
-  "AMD": {"level": "DOWN", "label": "Daiwa downgraded Outperform — valuation after 150% run | RSI 77 overbought | Mizuho PT$515", "date": "2026-05-14"},
-  "LRCX": {"level": "ELEVATED", "label": "WFE spending surge — AMAT halo effect | BofA top pick 2026", "date": "2026-05-14"},
-  "ASML": {"level": "ELEVATED", "label": "WFE tailwind — TSMC $56B capex 2026 flows through ASML", "date": "2026-05-14"},
-  "MU": {"level": "ELEVATED", "label": "AI DRAM demand confirmed — 31% of AMAT revenue | DA Davidson Buy PT$1000", "date": "2026-05-14"},
-  "TSM": {"level": "ELEVATED", "label": "TSMC $56B capex 2026 — AMAT largest customer, WFE beneficiary", "date": "2026-05-14"},
-  "INTC": {"level": "ELEVATED", "label": "Goldman + Bernstein upgraded Buy — Apple chip deal confirmed", "date": "2026-05-09"},
-  "NBIS": {"level": "NEWS", "label": "Q1 +684% revenue beat $399M — new 52wk high | BofA PT $205", "date": "2026-05-13"},
-  "CRWD": {"level": "ELEVATED", "label": "Gary Alexander upgraded — 2% market penetration, vast TAM", "date": "2026-05-11"},
-  "DELL": {"level": "DOWN", "label": "UBS downgraded Neutral PT$243 — stock above target", "date": "2026-05-11"},
-  "SNDK": {"level": "DOWN", "label": "Future Stack Investment downgraded", "date": "2026-05-11"}
+  "AMAT": {"level": "ALERT", "label": "Q2 BEAT — EPS $2.86 vs $2.66 est | Rev $7.91B vs $7.65B est | shares surging premarket", "date": "2026-05-15"},
+  "AVGO": {"level": "ALERT", "label": "PT raise from top analyst today — holding up vs semi selloff", "date": "2026-05-15"},
+  "MU": {"level": "NEWS", "label": "CNBC: AI bull market obsession shifting to memory — MU in focus | DA Davidson PT$1000", "date": "2026-05-15"},
+  "NVDA": {"level": "ELEVATED", "label": "Down 2% premarket — consolidating ahead of May 20 earnings | PT raised to $350 yesterday", "date": "2026-05-15"},
+  "AMD": {"level": "DOWN", "label": "Retreating premarket — Daiwa downgrade + insider/Cathie Wood selling + RSI 77 overbought", "date": "2026-05-15"},
+  "INTC": {"level": "DOWN", "label": "Growing competition concerns — UBS server processor report negative | down premarket", "date": "2026-05-15"},
+  "CBRS": {"level": "NEWS", "label": "Cerebras IPO +68% yesterday — new AI sentiment indicator, not on watchlist but sector read", "date": "2026-05-15"},
+  "LRCX": {"level": "ELEVATED", "label": "AMAT halo — WFE spend confirmed strong | BofA top pick 2026", "date": "2026-05-15"},
+  "ASML": {"level": "ELEVATED", "label": "AMAT beat confirms WFE cycle intact — TSMC $56B capex 2026", "date": "2026-05-15"},
+  "TSM": {"level": "ELEVATED", "label": "Cathie Wood sold at record high yesterday — monitor for weakness", "date": "2026-05-15"},
+  "NBIS": {"level": "NEWS", "label": "FTD D+2 — Q1 +684% revenue beat | BofA PT $205 | watch for follow-through", "date": "2026-05-15"},
+  "CRWD": {"level": "ELEVATED", "label": "Gary Alexander upgraded — 2% market penetration, vast TAM", "date": "2026-05-15"}
 }
