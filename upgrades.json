@@ -1,28 +1,21 @@
 {
-  "AMAT": {"level": "ALERT", "label": "Q2 BEAT — EPS $2.86 vs $2.66 est | Rev $7.91B vs $7.65B est | shares surging premarket", "date": "2026-05-15"},
-  "AVGO": {"level": "ALERT", "label": "PT raise from top analyst today — holding up vs semi selloff", "date": "2026-05-15"},
-  "MU": {"level": "NEWS", "label": "CNBC: AI bull market obsession shifting to memory — MU in focus | DA Davidson PT$1000", "date": "2026-05-15"},
-  "NVDA": {"level": "ELEVATED", "label": "Down 2% premarket — consolidating ahead of May 20 earnings | PT raised to $350 yesterday", "date": "2026-05-15"},
-  "AMD": {"level": "DOWN", "label": "Retreating premarket — Daiwa downgrade + insider/Cathie Wood selling + RSI 77 overbought", "date": "2026-05-15"},
-  "INTC": {"level": "DOWN", "label": "Growing competition concerns — UBS server processor report negative | down premarket", "date": "2026-05-15"},
-  "CBRS": {"level": "NEWS", "label": "Cerebras IPO +68% yesterday — new AI sentiment indicator, not on watchlist but sector read", "date": "2026-05-15"},
-  "LRCX": {"level": "ELEVATED", "label": "AMAT halo — WFE spend confirmed strong | BofA top pick 2026", "date": "2026-05-15"},
-  "ASML": {"level": "ELEVATED", "label": "AMAT beat confirms WFE cycle intact — TSMC $56B capex 2026", "date": "2026-05-15"},
-  "TSM": {"level": "ELEVATED", "label": "Cathie Wood sold at record high yesterday — monitor for weakness", "date": "2026-05-15"},
-  "NBIS": {"level": "NEWS", "label": "FTD D+2 — Q1 +684% revenue beat | BofA PT $205 | watch for follow-through", "date": "2026-05-15"},
-  "CRWD": {"level": "ELEVATED", "label": "Gary Alexander upgraded — 2% market penetration, vast TAM", "date": "2026-05-15"}
-}
-{
+  "AMAT": {"level": "ALERT", "label": "Q2 BEAT — EPS $2.86 Rev $7.91B", "note": "Beat on both lines | WFE cycle confirmed strong | Citi PT $520", "date": "2026-05-15"},
+  "AVGO": {"level": "ALERT", "label": "PT raise today — holding up vs semi selloff", "date": "2026-05-15"},
+  "NVDA": {"level": "ELEVATED", "label": "Consolidating ahead of May 20 earnings | PT $350", "date": "2026-05-15"},
+  "AMD": {"level": "DOWN", "label": "Distribution pattern", "note": "3 selling spikes Friday | Daiwa downgrade + Cathie Wood selling + RSI overbought — institutional exit signals confirmed.", "date": "2026-05-15"},
+  "INTC": {"level": "DOWN", "label": "Competition concerns — UBS negative", "date": "2026-05-15"},
+  "LRCX": {"level": "ELEVATED", "label": "AMAT halo — WFE spend confirmed strong", "date": "2026-05-15"},
+  "ASML": {"level": "ELEVATED", "label": "WFE cycle intact — TSMC $56B capex 2026", "date": "2026-05-15"},
+  "TSM": {"level": "ELEVATED", "label": "Cathie Wood sold at record high — monitor", "date": "2026-05-15"},
+  "NBIS": {"level": "NEWS", "label": "FTD D+5", "note": "Q1 +684% revenue beat | BofA PT$205 | watch for follow-through Monday.", "date": "2026-05-15"},
+  "CRWD": {"level": "ELEVATED", "label": "Gary Alexander upgraded — vast TAM", "date": "2026-05-15"},
+  "MU": {"level": "ELEVATED", "label": "AI memory focus shift", "note": "CNBC flagging MU as new AI focus | DA Davidson PT$1000 | 4 buying spikes Friday into weakness.", "date": "2026-05-15"},
+  "AXTI": {"level": "ALERT", "label": "Q1 beat + Q2 first profit guided", "note": "EPS $0.06-0.08 vs loss expected | $100M+ AI datacenter backlog | Wedbush PT$93 | new 2x ETF AXTX launched | +9.25% Friday.", "date": "2026-05-15"},
   "ON": {"level": "NEWS", "label": "① STRONG accum", "note": "9 spikes | 5 buying 4 selling | peak 12.4x | smart money buying into -5% weakness all day | 100% rising intensity — classic institutional loading. Closed -2.86% — someone was accumulating all day despite the selloff.", "date": "2026-05-15"},
   "ONDS": {"level": "NEWS", "label": "② STRONG accum", "note": "4 spikes | 3 buying 1 selling | peak 6.5x | smart money with stock negative | FTD D+5 from May 13 catalyst — institutional follow-through confirmed.", "date": "2026-05-15"},
   "INOD": {"level": "NEWS", "label": "③ BUILDING accum", "note": "12 spikes | 8 buying 4 selling | peak 9.7x | 57% rising intensity | closed +6.59% on a down tape — accumulation worked, stock finished strong.", "date": "2026-05-15"},
   "DELL": {"level": "NEWS", "label": "④ BUILDING accum", "note": "7 spikes | 6 buying 1 selling | strongest buy dominance of the day | accumulating despite UBS downgrade — someone disagrees with the downgrade.", "date": "2026-05-15"},
   "SNOW": {"level": "NEWS", "label": "⑤ BUILDING accum", "note": "8 spikes | 5 buying 3 selling | peak 6.3x | closed +4.48% on down tape — accumulation confirmed by positive close on a red day.", "date": "2026-05-15"},
   "ALAB": {"level": "NEWS", "label": "⑥ BUILDING accum", "note": "6 spikes | 5 buying 1 selling | peak 5.7x | very clean buy dominant pattern | closed +2.04% on a down semi tape.", "date": "2026-05-15"},
-  "GEV": {"level": "NEWS", "label": "⑦ BUILDING accum", "note": "6 spikes | 5 buying 1 selling | 75% rising intensity | institutional pattern on a down day — very clean setup.", "date": "2026-05-15"},
-  "AXTI": {"level": "ALERT", "label": "Q1 beat + Q2 first profit guided", "note": "EPS $0.06-0.08 vs loss expected | $100M+ AI datacenter backlog | Wedbush PT$93 | new 2x ETF AXTX launched | closed +9.25% Friday.", "date": "2026-05-15"},
-  "AMAT": {"level": "ALERT", "label": "Q2 BEAT — EPS $2.86 Rev $7.91B", "note": "Beat on both lines | WFE cycle confirmed strong | Citi PT $520 | shares up premarket.", "date": "2026-05-15"},
-  "NBIS": {"level": "NEWS", "label": "FTD D+5", "note": "Q1 +684% revenue beat | BofA PT$205 | watch for follow-through Monday.", "date": "2026-05-15"},
-  "AMD": {"level": "DOWN", "label": "Distribution pattern", "note": "3 selling spikes Friday | Daiwa downgrade + Cathie Wood selling + RSI overbought — institutional exit signals confirmed.", "date": "2026-05-15"},
-  "MU": {"level": "ELEVATED", "label": "AI memory focus shift", "note": "CNBC flagging MU as new AI focus stock | DA Davidson PT$1000 | 4 buying spikes Friday into weakness.", "date": "2026-05-15"}
+  "GEV": {"level": "NEWS", "label": "⑦ BUILDING accum", "note": "6 spikes | 5 buying 1 selling | 75% rising intensity | institutional pattern on a down day — very clean setup.", "date": "2026-05-15"}
 }
