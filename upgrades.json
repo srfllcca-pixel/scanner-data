@@ -1,4 +1,10 @@
-{
+{ "SNOW": {
+  "level": "ALERT",
+  "label": "Pre-earnings momentum — May 27",
+  "note": "Up +4.45% on down tape | +25.9% past month | earnings May 27 | $400M record contract | AI workloads driving revenue | 44 analysts Buy | PT $229 avg | watch for pre-earnings base building",
+  "date": "2026-05-18",
+  "expires": "2026-05-27"
+},
   "NBIS": {"level": "ALERT", "label": "FTD earnings momentum", "note": "Q1 +684% revenue | $27B Meta contract | second gigawatt PA facility | capex raised $20-25B | BofA PT$205 | D+5 consolidating", "date": "2026-05-13", "expires": "2026-05-27"},
   "CSCO": {"level": "ALERT", "label": "FTD Lane A watch — AI orders", "note": "Record rev $15.8B +12% | AI orders raised to $9B | EPS $1.06 | +16% May 14 | Friday pullback day — check volume", "date": "2026-05-14", "expires": "2026-05-23"},
   "NVDA": {"level": "ALERT", "label": "Earnings Wednesday May 20 — binary", "note": "KeyBanc PT $300 | Blackwell 150-200K units est | H200 China sales cleared but stalled | If 15%+ move Wed → Lane A starts Thu", "date": "2026-05-18", "expires": "2026-05-21"},
