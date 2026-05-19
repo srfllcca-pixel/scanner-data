@@ -1,29 +1,58 @@
-{ "NOW": {
-  "level": "ALERT",
-  "label": "BofA reinstated Buy — AI workflow",
-  "note": "BofA Buy PT$130 | +8.9% today | AI partnerships Experian/Accenture/FedEx | Q1 beat + raised guidance | agentic AI into production | FTD Day 0 May 18 — watch tomorrow for follow-through",
-  "date": "2026-05-18",
-  "expires": "2026-05-28"
-},
-  "SNOW": {
-  "level": "ALERT",
-  "label": "Pre-earnings momentum — May 27",
-  "note": "Up +4.45% on down tape | +25.9% past month | earnings May 27 | $400M record contract | AI workloads driving revenue | 44 analysts Buy | PT $229 avg | watch for pre-earnings base building",
-  "date": "2026-05-18",
-  "expires": "2026-05-27"
-},
-  "NBIS": {"level": "ALERT", "label": "FTD earnings momentum", "note": "Q1 +684% revenue | $27B Meta contract | second gigawatt PA facility | capex raised $20-25B | BofA PT$205 | D+5 consolidating", "date": "2026-05-13", "expires": "2026-05-27"},
-  "CSCO": {"level": "ALERT", "label": "FTD Lane A watch — AI orders", "note": "Record rev $15.8B +12% | AI orders raised to $9B | EPS $1.06 | +16% May 14 | Friday pullback day — check volume", "date": "2026-05-14", "expires": "2026-05-23"},
-  "NVDA": {"level": "ALERT", "label": "Earnings Wednesday May 20 — binary", "note": "KeyBanc PT $300 | Blackwell 150-200K units est | H200 China sales cleared but stalled | If 15%+ move Wed → Lane A starts Thu", "date": "2026-05-18", "expires": "2026-05-21"},
-  "ALAB": {"level": "NEWS", "label": "COIL — accum watch", "note": "+40% base move | RS99 | VS-WEAKNESS multi-day | holding near peak on down tape | range contracting — watch for vol expansion", "date": "2026-05-13", "expires": "2026-05-22"},
-  "AVGO": {"level": "NEWS", "label": "COIL — relative strength", "note": "+16% base | RS99 | VS-WEAKNESS confirmed | held better than peers Friday | PT raise last week", "date": "2026-05-09", "expires": "2026-05-22"},
-  "RKLB": {"level": "ELEVATED", "label": "Premarket +4.1% — momentum", "note": "Up $129.86 premarket May 18 | watch opening DV", "date": "2026-05-18", "expires": "2026-05-20"},
-  "AMAT": {"level": "ALERT", "label": "Q2 BEAT — WFE confirmed", "note": "EPS $2.86 vs $2.66 | Rev $7.91B vs $7.65B | Citi PT $520 | Tesla Terafab wildcard", "date": "2026-05-15", "expires": "2026-05-22"},
-  "ON": {"level": "NEWS", "label": "Accum watch", "note": "9 spikes | 5 buying 4 selling | peak 12.4x | smart money buying into -5% weakness all day | 100% rising intensity", "date": "2026-05-15", "expires": "2026-05-21"},
-  "AXTI": {"level": "NEWS", "label": "FTD D+3 — earnings beat", "note": "Q2 guides first profit $0.06-0.08 EPS | $100M+ AI datacenter backlog | Wedbush PT$93 | 2x ETF AXTX launched", "date": "2026-05-15", "expires": "2026-05-22"},
-  "MU": {"level": "ELEVATED", "label": "AI memory focus", "note": "AI memory demand confirmed | DA Davidson PT$1000 | 4 buying spikes Friday into weakness", "date": "2026-05-15", "expires": "2026-05-22"},
-  "AMD": {"level": "DOWN", "label": "Distribution — avoid", "note": "23 buying vs 18 dist spikes | heavy distribution | Daiwa downgrade | Cathie Wood selling | RSI overbought", "date": "2026-05-15", "expires": "2026-05-22"},
-  "INTC": {"level": "DOWN", "label": "Competition concerns", "note": "UBS server processor report negative | Arm/AMD taking share | down premarket", "date": "2026-05-15", "expires": "2026-05-22"},
-  "LRCX": {"level": "ELEVATED", "label": "AMAT halo — WFE confirmed", "note": "AMAT Q2 beat confirms WFE cycle | BofA top pick | watch for distribution to calm", "date": "2026-05-15", "expires": "2026-05-22"},
-  "INOD": {"level": "NEWS", "label": "BUILDING accum", "note": "12 spikes | 8 buying 4 selling | peak 9.7x | closed +6.59% on down tape last week", "date": "2026-05-15", "expires": "2026-05-20"}
+{
+  "NVDA": {
+    "level": "ALERT",
+    "label": "Earnings tonight — binary",
+    "note": "EPS est $1.78 +120% | Rev est $79.2B +79.5% | Morgan Stanley PT$285 | Options pricing 8.65% move | H200 China approval pending | if 15%+ move → Lane A D+0 May 20",
+    "date": "2026-05-20",
+    "expires": "2026-05-21"
+  },
+  "CSCO": {
+    "level": "ALERT",
+    "label": "Lane A D+4 — AI orders",
+    "note": "ATH $119.36 May 14 | Lane A consolidation | stop $114 | NVDA earnings tonight sector catalyst | next earnings Aug 19",
+    "date": "2026-05-14",
+    "expires": "2026-05-24"
+  },
+  "NOW": {
+    "level": "ALERT",
+    "label": "BofA Buy — FTD D+2",
+    "note": "BofA Buy PT$130 | Bernstein PT$236 | FTD D+2 | 2 consecutive up days | Q1 rev $3.77B +22% | cRPO 20%+ 5 quarters | watch Pre DV for confirmation",
+    "date": "2026-05-18",
+    "expires": "2026-05-28"
+  },
+  "NBIS": {
+    "level": "DOWN",
+    "label": "Thesis weakening",
+    "note": "D.A. Davidson neutral | Director sold $2.25M May 13 | distribution spikes dominant | FTD D+8 fading — reduce or exit on weakness",
+    "date": "2026-05-13",
+    "expires": "2026-05-23"
+  },
+  "ALAB": {
+    "level": "NEWS",
+    "label": "Accum watch — insider selling risk",
+    "note": "CEO + COO sold ~430K shares | VS buying returning | Q2 guide $355-365M +15% seq | watch for clean VS pattern without insider overhead",
+    "date": "2026-05-13",
+    "expires": "2026-05-22"
+  },
+  "AMD": {
+    "level": "DOWN",
+    "label": "Distribution — avoid",
+    "note": "Heavy distribution ongoing | Daiwa downgrade | Cathie Wood selling | wait for resolution before any entry",
+    "date": "2026-05-15",
+    "expires": "2026-05-25"
+  },
+  "MU": {
+    "level": "ELEVATED",
+    "label": "AI memory — NVDA halo",
+    "note": "If NVDA beats big tonight MU gets sector tailwind | DA Davidson PT$1000 | VS buying into weakness last week",
+    "date": "2026-05-15",
+    "expires": "2026-05-22"
+  },
+  "AXTI": {
+    "level": "TODAY",
+    "label": "Q1 beat + Q2 first profit",
+    "note": "FTD D+5 | First profit guidance $0.06-0.08 EPS | $100M+ AI datacenter backlog | Wedbush PT$93",
+    "date": "2026-05-15",
+    "expires": "2026-05-23"
+  }
 }
