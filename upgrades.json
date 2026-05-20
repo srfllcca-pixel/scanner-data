@@ -1,57 +1,71 @@
 {
-  "NVDA": {
+  "ALAB": {
     "level": "ALERT",
-    "label": "Earnings tonight — binary",
-    "note": "EPS est $1.78 +120% | Rev est $79.2B +79.5% | Morgan Stanley PT$285 | Options pricing 8.65% move | H200 China approval pending | if 15%+ move → Lane A D+0 May 20",
-    "date": "2026-05-20",
-    "expires": "2026-05-21"
+    "label": "NEW CAT — +13% breakout",
+    "note": "NEW CAT D+0 May 19 +13.07% 1.58x vol | short float 8.43% 14.4M shares short — squeeze potential on continued move | Q2 guide $355-365M +15% seq | insider selling overhead CEO+COO — watch VS for confirmation | earnings next quarter",
+    "date": "2026-05-19",
+    "expires": "2026-05-29"
   },
-  "CSCO": {
+  "CRDO": {
     "level": "ALERT",
-    "label": "Lane A D+4 — AI orders",
-    "note": "ATH $119.36 May 14 | Lane A consolidation | stop $114 | NVDA earnings tonight sector catalyst | next earnings Aug 19",
-    "date": "2026-05-14",
-    "expires": "2026-05-24"
+    "label": "NEW CAT — +8.78% breakout",
+    "note": "NEW CAT D+0 May 19 +8.78% 1.44x vol | Credo AI connectivity chips — NVDA ecosystem play | watch for follow-through tomorrow | elevated short interest adds squeeze potential on continuation",
+    "date": "2026-05-19",
+    "expires": "2026-05-29"
   },
   "NOW": {
     "level": "ALERT",
-    "label": "BofA Buy — FTD D+2",
-    "note": "BofA Buy PT$130 | Bernstein PT$236 | FTD D+2 | 2 consecutive up days | Q1 rev $3.77B +22% | cRPO 20%+ 5 quarters | watch Pre DV for confirmation",
+    "label": "BofA Buy — FTD D+1",
+    "note": "BofA restarted Buy PT$130 May 18 | Bernstein PT$236 | D+1 follow-through | Q1 rev $3.77B +22% | cRPO 20%+ 5 quarters | Experian+Accenture agentic AI partnerships | earnings Jul 23",
     "date": "2026-05-18",
     "expires": "2026-05-28"
   },
-  "NBIS": {
-    "level": "DOWN",
-    "label": "Thesis weakening",
-    "note": "D.A. Davidson neutral | Director sold $2.25M May 13 | distribution spikes dominant | FTD D+8 fading — reduce or exit on weakness",
-    "date": "2026-05-13",
-    "expires": "2026-05-23"
+  "CSCO": {
+    "level": "ALERT",
+    "label": "Lane A D+3 — AI orders",
+    "note": "Record rev $15.8B +12% | AI orders $9B | Lane A D+3 | stop ~$114 | target $126.50 | short float ~1.2% low squeeze risk | institutional ownership 73% — strong sponsorship | earnings Aug 19",
+    "date": "2026-05-14",
+    "expires": "2026-05-24"
   },
-  "ALAB": {
-    "level": "NEWS",
-    "label": "Accum watch — insider selling risk",
-    "note": "CEO + COO sold ~430K shares | VS buying returning | Q2 guide $355-365M +15% seq | watch for clean VS pattern without insider overhead",
-    "date": "2026-05-13",
-    "expires": "2026-05-22"
-  },
-  "AMD": {
-    "level": "DOWN",
-    "label": "Distribution — avoid",
-    "note": "Heavy distribution ongoing | Daiwa downgrade | Cathie Wood selling | wait for resolution before any entry",
-    "date": "2026-05-15",
-    "expires": "2026-05-25"
+  "NVDA": {
+    "level": "ALERT",
+    "label": "Earnings tomorrow May 20",
+    "note": "Q1 FY2027 after close tomorrow | EPS est $1.78 +120% | Rev est $79.2B | Morgan Stanley PT$285 | $91.8M distribution spike Monday — someone reducing ahead of print | H200 China approval still pending | if 15%+ move → Lane A D+0 May 20",
+    "date": "2026-05-19",
+    "expires": "2026-05-21"
   },
   "MU": {
     "level": "ELEVATED",
     "label": "AI memory — NVDA halo",
-    "note": "If NVDA beats big tonight MU gets sector tailwind | DA Davidson PT$1000 | VS buying into weakness last week",
-    "date": "2026-05-15",
+    "note": "NVDA earnings tomorrow — direct AI memory beneficiary | Mizuho PT$800 | short float 1.8% | DA Davidson PT$1000 | earnings Jul 1 | intraday reversal today from $749 to $663 — distribution warning",
+    "date": "2026-05-19",
     "expires": "2026-05-22"
+  },
+  "ON": {
+    "level": "NEWS",
+    "label": "INST-INTO-WEAKNESS accumulation",
+    "note": "12.78x buying spike at -5.49% May 18 | 3 consecutive days VS-WEAKNESS | institutions loading aggressively on weakness | earnings May 5 was catalyst | short float 3.2% | watch for base completion",
+    "date": "2026-05-18",
+    "expires": "2026-05-23"
+  },
+  "NBIS": {
+    "level": "DOWN",
+    "label": "FTD thesis weakening",
+    "note": "DA Davidson neutral | Director sold $2.25M May 13 | distribution spikes dominant | D+7 fading — reduce or exit on weakness | short float 6.8%",
+    "date": "2026-05-13",
+    "expires": "2026-05-23"
+  },
+  "AMD": {
+    "level": "DOWN",
+    "label": "Distribution — avoid",
+    "note": "23B vs 18D over 8 days — contested | Daiwa downgrade | Cathie Wood selling | short float 4.1% | wait for resolution",
+    "date": "2026-05-15",
+    "expires": "2026-05-25"
   },
   "AXTI": {
     "level": "TODAY",
-    "label": "Q1 beat + Q2 first profit",
-    "note": "FTD D+5 | First profit guidance $0.06-0.08 EPS | $100M+ AI datacenter backlog | Wedbush PT$93",
+    "label": "Q1 beat + first profit guide",
+    "note": "FTD D+4 | First profit Q2 guidance $0.06-0.08 EPS | $100M+ AI datacenter backlog | Wedbush PT$93 | short float 9.2% — high squeeze potential on momentum | earnings next quarter Aug",
     "date": "2026-05-15",
     "expires": "2026-05-23"
   }
