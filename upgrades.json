@@ -2,71 +2,136 @@
   "NVDA": {
     "level": "ALERT",
     "label": "Earnings TONIGHT after close",
-    "note": "Q1 FY2027 tonight 4:20 PM ET | Rev est $78B +77% | EPS $1.77 | BofA PT$320 | Beat likely priced in — Q2 guidance and China commentary are what move the stock | Upside $250-270 on strong guide | Downside $210-215 on miss | if 15%+ move → Lane A D+0 May 20 | short float 1.2%",
+    "note": "Q1 FY2027 tonight 4:20 PM ET | Rev est $78B +77% | EPS $1.77 | BofA PT$320 | Beat priced in — Q2 guide and China commentary move the stock | Upside $250-270 on strong guide | Downside $210-215 on miss | if 15%+ move → Lane A D+0 May 20 | short float 1.2%",
     "date": "2026-05-20",
-    "expires": "2026-05-21"
+    "expires": "2026-05-21",
+    "claude_signal": "FLAT",
+    "claude_note": "Binary event tonight — no edge pre-earnings, zero size"
   },
   "CSCO": {
     "level": "ALERT",
     "label": "Lane A D+4 — AI orders",
     "note": "Record rev $15.8B +12% | AI orders $9B | HSBC upgraded Buy PT$137 | JPM maintains Buy | Lane A D+4 | stop $114 | target $126.50 | NVDA tonight sector catalyst | earnings Aug 19 | short float 1.2% | inst ownership 73%",
     "date": "2026-05-14",
-    "expires": "2026-05-24"
+    "expires": "2026-05-24",
+    "claude_signal": "HOLD",
+    "claude_note": "Lane A D+4 active trade — stop $114 firm — NVDA tonight decides Thursday direction"
   },
   "ALAB": {
     "level": "ALERT",
     "label": "FTD D+1 — first follow-through",
-    "note": "NEW CAT D+0 May 19 +13.07% | FTD D+1 today — watch Pre DV for confirmation | short float 8.43% squeeze potential | insider selling CEO+COO overhead — watch VS buying to confirm | NVDA beat = direct tailwind | earnings next quarter",
+    "note": "NEW CAT D+0 May 19 +13.07% 1.58x vol | FTD D+1 today — watch Pre DV for confirmation | short float 8.43% squeeze potential | insider selling CEO+COO overhead | NVDA beat = direct tailwind | 52wk range $84-$263",
     "date": "2026-05-19",
-    "expires": "2026-05-29"
+    "expires": "2026-05-29",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+1 — need Pre DV 1.5x+ and hold above $243 — insider selling overhead is risk"
   },
   "CRDO": {
     "level": "ALERT",
     "label": "FTD D+1 — optical connectivity",
-    "note": "NEW CAT D+0 May 19 +8.78% | FTD D+1 today | DustPhotonics acquisition optical growth | NVDA ecosystem play — direct tailwind on beat | Rothschild Buy initiated | short float elevated",
+    "note": "NEW CAT D+0 May 19 +8.78% | FTD D+1 today | DustPhotonics acquisition optical growth | NVDA ecosystem play — direct tailwind on beat | Rothschild Buy initiated Apr 2026 | call volume above normal bullish",
     "date": "2026-05-19",
-    "expires": "2026-05-29"
+    "expires": "2026-05-29",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+1 — NVDA ecosystem — wait for open confirmation before entry"
   },
   "NOW": {
     "level": "NEWS",
     "label": "FTD D+2 — thesis in question",
     "note": "BofA Buy PT$130 May 18 | Bernstein PT$236 | FTD D+2 but Tuesday showed distribution spikes | watch Pre DV today — if below average thesis fading | Q1 rev $3.77B +22% | earnings Jul 23",
     "date": "2026-05-18",
-    "expires": "2026-05-28"
+    "expires": "2026-05-28",
+    "claude_signal": "AVOID",
+    "claude_note": "FTD D+2 with distribution dominant Tuesday — thesis fading, wait for cleaner setup"
   },
   "MU": {
     "level": "ELEVATED",
     "label": "AI memory — NVDA halo play",
-    "note": "NVDA earnings tonight — MU direct beneficiary | Mizuho PT$800 | DA Davidson PT$1000 | short float 1.8% | intraday reversal Tuesday $749 to $663 concerning | earnings Jul 1",
+    "note": "NVDA earnings tonight — MU direct beneficiary | Mizuho PT$800 | DA Davidson PT$1000 | short float 1.8% | intraday reversal Tuesday $749 to $663 — distribution warning | earnings Jul 1",
     "date": "2026-05-19",
-    "expires": "2026-05-22"
+    "expires": "2026-05-22",
+    "claude_signal": "HOLD",
+    "claude_note": "Active position — NVDA halo tonight — hold above $663 Tuesday low"
+  },
+  "LRCX": {
+    "level": "ELEVATED",
+    "label": "Morgan Stanley upgraded Overweight",
+    "note": "Morgan Stanley upgraded Overweight May 18 | B Riley PT$385 | Goldman PT$290 | Record March quarter rev + guidance | 7 buying spikes into weakness Tuesday | ATH $302 May 14 | AI demand accelerating | earnings next quarter",
+    "date": "2026-05-18",
+    "expires": "2026-05-25",
+    "claude_signal": "WATCH",
+    "claude_note": "Morgan Stanley upgrade + 7 VS-WEAKNESS spikes Tuesday — strong accumulation signal — watch Pre DV"
+  },
+  "CIEN": {
+    "level": "ELEVATED",
+    "label": "Citigroup maintains Buy",
+    "note": "3 consecutive days buying into weakness | 7 total buying spikes this week | Citi Buy rating | optical networking AI infrastructure play | short float low | persistent institutional accumulation",
+    "date": "2026-05-18",
+    "expires": "2026-05-25",
+    "claude_signal": "WATCH",
+    "claude_note": "3 days consecutive INTO-WEAKNESS buying — cleanest accumulation on the board this week"
   },
   "ON": {
     "level": "NEWS",
-    "label": "INST-INTO-WEAKNESS — 3 days",
-    "note": "12.78x buying spike -5.49% Monday | 3 consecutive days VS-WEAKNESS | persistent institutional accumulation | short float 3.2% | watch for base completion | earnings next quarter",
+    "label": "INST-INTO-WEAKNESS 3 days",
+    "note": "12.78x buying spike -5.49% Monday | 3 consecutive days VS-WEAKNESS | persistent institutional accumulation | short float 3.2% | base building | earnings next quarter",
     "date": "2026-05-18",
-    "expires": "2026-05-23"
+    "expires": "2026-05-23",
+    "claude_signal": "WATCH",
+    "claude_note": "3 consecutive days institutional buying into weakness — 12.78x peak ratio — base forming"
   },
   "AXTI": {
     "level": "TODAY",
     "label": "Q1 beat + first profit guide",
     "note": "FTD D+5 | First profit Q2 guidance $0.06-0.08 EPS | $100M+ AI datacenter backlog | Wedbush PT$93 | short float 9.2% high squeeze potential",
     "date": "2026-05-15",
-    "expires": "2026-05-23"
+    "expires": "2026-05-23",
+    "claude_signal": "HOLD",
+    "claude_note": "FTD D+5 still in window — first profit guide is structural catalyst — hold above pullback low"
   },
   "NBIS": {
     "level": "DOWN",
     "label": "FTD thesis deteriorating",
-    "note": "DA Davidson neutral | Director sold $2.25M May 13 | distribution dominant | short float 6.8% | FTD thesis breaking down — reduce or exit",
+    "note": "DA Davidson neutral | Director sold $2.25M May 13 | distribution dominant | short float 6.8% | FTD thesis breaking down — reduce or exit on weakness",
     "date": "2026-05-13",
-    "expires": "2026-05-23"
+    "expires": "2026-05-23",
+    "claude_signal": "AVOID",
+    "claude_note": "Insider selling + distribution dominant + analyst neutral — thesis broken"
   },
   "AMD": {
     "level": "DOWN",
     "label": "Distribution — avoid",
-    "note": "Distribution dominant both days | Daiwa downgrade | Cathie Wood selling | short float 4.1% | Citi PT$460 but technicals weak | wait for resolution",
+    "note": "Distribution dominant both days | Daiwa downgrade | Cathie Wood selling | short float 4.1% | Citi PT$460 but technicals weak | wait for resolution | earnings next quarter",
     "date": "2026-05-15",
-    "expires": "2026-05-25"
+    "expires": "2026-05-25",
+    "claude_signal": "AVOID",
+    "claude_note": "Distribution pattern 2 consecutive days — wait for buying to return before any entry"
+  },
+  "AVGO": {
+    "level": "ELEVATED",
+    "label": "UBS maintains Buy",
+    "note": "Buying into weakness Tuesday — 4 spikes | UBS Buy | AI custom silicon direct NVDA beneficiary | short float low | earnings Jun 2026",
+    "date": "2026-05-19",
+    "expires": "2026-05-25",
+    "claude_signal": "WATCH",
+    "claude_note": "4 buying spikes into weakness Tuesday — NVDA custom silicon halo — watch open"
+  },
+  "AMGN": {
+    "level": "ELEVATED",
+    "label": "Piper Sandler maintains Overweight",
+    "note": "6 buying spikes into weakness Tuesday | Piper Sandler Overweight | defensive healthcare accumulation | 3 consecutive days buying pattern | short float low",
+    "date": "2026-05-18",
+    "expires": "2026-05-23",
+    "claude_signal": "WATCH",
+    "claude_note": "6 buying spikes into weakness — most consistent defensive accumulation this week"
+  },
+  "XOM": {
+    "level": "ELEVATED",
+    "label": "Bernstein maintains Outperform",
+    "note": "EOD(2) consecutive | Bernstein Outperform | oil bid fading on Iran peace talks | buying spikes present | ex-div was May 15 | earnings next quarter",
+    "date": "2026-05-15",
+    "expires": "2026-05-22",
+    "claude_signal": "HOLD",
+    "claude_note": "EOD(2) consecutive nights — Bernstein Outperform — oil headwind today on Iran talks"
   }
 }
