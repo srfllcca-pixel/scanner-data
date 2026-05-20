@@ -1,72 +1,72 @@
 {
+  "NVDA": {
+    "level": "ALERT",
+    "label": "Earnings TONIGHT after close",
+    "note": "Q1 FY2027 tonight 4:20 PM ET | Rev est $78B +77% | EPS $1.77 | BofA PT$320 | Beat likely priced in — Q2 guidance and China commentary are what move the stock | Upside $250-270 on strong guide | Downside $210-215 on miss | if 15%+ move → Lane A D+0 May 20 | short float 1.2%",
+    "date": "2026-05-20",
+    "expires": "2026-05-21"
+  },
+  "CSCO": {
+    "level": "ALERT",
+    "label": "Lane A D+4 — AI orders",
+    "note": "Record rev $15.8B +12% | AI orders $9B | HSBC upgraded Buy PT$137 | JPM maintains Buy | Lane A D+4 | stop $114 | target $126.50 | NVDA tonight sector catalyst | earnings Aug 19 | short float 1.2% | inst ownership 73%",
+    "date": "2026-05-14",
+    "expires": "2026-05-24"
+  },
   "ALAB": {
     "level": "ALERT",
-    "label": "NEW CAT — +13% breakout",
-    "note": "NEW CAT D+0 May 19 +13.07% 1.58x vol | short float 8.43% 14.4M shares short — squeeze potential on continued move | Q2 guide $355-365M +15% seq | insider selling overhead CEO+COO — watch VS for confirmation | earnings next quarter",
+    "label": "FTD D+1 — first follow-through",
+    "note": "NEW CAT D+0 May 19 +13.07% | FTD D+1 today — watch Pre DV for confirmation | short float 8.43% squeeze potential | insider selling CEO+COO overhead — watch VS buying to confirm | NVDA beat = direct tailwind | earnings next quarter",
     "date": "2026-05-19",
     "expires": "2026-05-29"
   },
   "CRDO": {
     "level": "ALERT",
-    "label": "NEW CAT — +8.78% breakout",
-    "note": "NEW CAT D+0 May 19 +8.78% 1.44x vol | Credo AI connectivity chips — NVDA ecosystem play | watch for follow-through tomorrow | elevated short interest adds squeeze potential on continuation",
+    "label": "FTD D+1 — optical connectivity",
+    "note": "NEW CAT D+0 May 19 +8.78% | FTD D+1 today | DustPhotonics acquisition optical growth | NVDA ecosystem play — direct tailwind on beat | Rothschild Buy initiated | short float elevated",
     "date": "2026-05-19",
     "expires": "2026-05-29"
   },
   "NOW": {
-    "level": "ALERT",
-    "label": "BofA Buy — FTD D+1",
-    "note": "BofA restarted Buy PT$130 May 18 | Bernstein PT$236 | D+1 follow-through | Q1 rev $3.77B +22% | cRPO 20%+ 5 quarters | Experian+Accenture agentic AI partnerships | earnings Jul 23",
+    "level": "NEWS",
+    "label": "FTD D+2 — thesis in question",
+    "note": "BofA Buy PT$130 May 18 | Bernstein PT$236 | FTD D+2 but Tuesday showed distribution spikes | watch Pre DV today — if below average thesis fading | Q1 rev $3.77B +22% | earnings Jul 23",
     "date": "2026-05-18",
     "expires": "2026-05-28"
   },
-  "CSCO": {
-    "level": "ALERT",
-    "label": "Lane A D+3 — AI orders",
-    "note": "Record rev $15.8B +12% | AI orders $9B | Lane A D+3 | stop ~$114 | target $126.50 | short float ~1.2% low squeeze risk | institutional ownership 73% — strong sponsorship | earnings Aug 19",
-    "date": "2026-05-14",
-    "expires": "2026-05-24"
-  },
-  "NVDA": {
-    "level": "ALERT",
-    "label": "Earnings tomorrow May 20",
-    "note": "Q1 FY2027 after close tomorrow | EPS est $1.78 +120% | Rev est $79.2B | Morgan Stanley PT$285 | $91.8M distribution spike Monday — someone reducing ahead of print | H200 China approval still pending | if 15%+ move → Lane A D+0 May 20",
-    "date": "2026-05-19",
-    "expires": "2026-05-21"
-  },
   "MU": {
     "level": "ELEVATED",
-    "label": "AI memory — NVDA halo",
-    "note": "NVDA earnings tomorrow — direct AI memory beneficiary | Mizuho PT$800 | short float 1.8% | DA Davidson PT$1000 | earnings Jul 1 | intraday reversal today from $749 to $663 — distribution warning",
+    "label": "AI memory — NVDA halo play",
+    "note": "NVDA earnings tonight — MU direct beneficiary | Mizuho PT$800 | DA Davidson PT$1000 | short float 1.8% | intraday reversal Tuesday $749 to $663 concerning | earnings Jul 1",
     "date": "2026-05-19",
     "expires": "2026-05-22"
   },
   "ON": {
     "level": "NEWS",
-    "label": "INST-INTO-WEAKNESS accumulation",
-    "note": "12.78x buying spike at -5.49% May 18 | 3 consecutive days VS-WEAKNESS | institutions loading aggressively on weakness | earnings May 5 was catalyst | short float 3.2% | watch for base completion",
+    "label": "INST-INTO-WEAKNESS — 3 days",
+    "note": "12.78x buying spike -5.49% Monday | 3 consecutive days VS-WEAKNESS | persistent institutional accumulation | short float 3.2% | watch for base completion | earnings next quarter",
     "date": "2026-05-18",
+    "expires": "2026-05-23"
+  },
+  "AXTI": {
+    "level": "TODAY",
+    "label": "Q1 beat + first profit guide",
+    "note": "FTD D+5 | First profit Q2 guidance $0.06-0.08 EPS | $100M+ AI datacenter backlog | Wedbush PT$93 | short float 9.2% high squeeze potential",
+    "date": "2026-05-15",
     "expires": "2026-05-23"
   },
   "NBIS": {
     "level": "DOWN",
-    "label": "FTD thesis weakening",
-    "note": "DA Davidson neutral | Director sold $2.25M May 13 | distribution spikes dominant | D+7 fading — reduce or exit on weakness | short float 6.8%",
+    "label": "FTD thesis deteriorating",
+    "note": "DA Davidson neutral | Director sold $2.25M May 13 | distribution dominant | short float 6.8% | FTD thesis breaking down — reduce or exit",
     "date": "2026-05-13",
     "expires": "2026-05-23"
   },
   "AMD": {
     "level": "DOWN",
     "label": "Distribution — avoid",
-    "note": "23B vs 18D over 8 days — contested | Daiwa downgrade | Cathie Wood selling | short float 4.1% | wait for resolution",
+    "note": "Distribution dominant both days | Daiwa downgrade | Cathie Wood selling | short float 4.1% | Citi PT$460 but technicals weak | wait for resolution",
     "date": "2026-05-15",
     "expires": "2026-05-25"
-  },
-  "AXTI": {
-    "level": "TODAY",
-    "label": "Q1 beat + first profit guide",
-    "note": "FTD D+4 | First profit Q2 guidance $0.06-0.08 EPS | $100M+ AI datacenter backlog | Wedbush PT$93 | short float 9.2% — high squeeze potential on momentum | earnings next quarter Aug",
-    "date": "2026-05-15",
-    "expires": "2026-05-23"
   }
 }
