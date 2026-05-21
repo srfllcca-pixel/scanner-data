@@ -2,175 +2,174 @@
   "NVDA": {
     "level": "ELEVATED",
     "label": "Q1 beat $81.6B | Q2 guide $91B",
-    "note": "Q1 EPS $1.87 vs $1.76 est | Rev $81.6B vs $79.2B | Q2 guide $91B vs $86B consensus | Gross margin 75% | Dividend raised $0.01 to $0.25 | Jensen: demand parabolic, agentic AI arrived | No Lane A trigger — stock flat post earnings | next earnings Aug 26",
+    "note": "Q1 EPS $1.87 vs $1.76 | Rev $81.6B vs $79.2B | Q2 guide $91B vs $86B consensus | Gross margin 75% | Dividend raised to $0.25 | Jensen: demand parabolic, agentic AI arrived | short float 1.2% | next earnings Aug 26",
     "date": "2026-05-20",
     "expires": "2026-05-28",
     "claude_signal": "WATCH",
-    "claude_note": "Blowout print but stock priced in — watch for base formation above $216 before entry"
+    "claude_note": "Blowout print but priced in — watch for base above $216 before entry"
   },
   "ALAB": {
     "level": "ALERT",
-    "label": "FTD D+2 — NVDA ecosystem",
-    "note": "FTD D+2 | Record Q1 rev $308.4M | Barclays + Citi raised PTs | AI connectivity direct NVDA path | NVDA $91B Q2 guide = ALAB demand acceleration | short float 8.43% squeeze potential | insider selling overhead — watch VS",
+    "label": "FTD D+3 — NVDA ecosystem",
+    "note": "Catalyst May 19 +13.07% | Record Q1 rev $308.4M | Barclays + Citi raised PTs | AI connectivity direct NVDA path | NVDA $91B Q2 = demand acceleration | short float 8.43% squeeze potential | insider selling overhead | earnings next quarter",
     "date": "2026-05-19",
-    "expires": "2026-05-29",
+    "expires": "2026-06-18",
+    "watchlist": true,
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+2 — need Pre DV 1.5x+ and hold above yesterday close — NVDA tailwind strong"
+    "claude_note": "FTD D+3 — extended if above May 19 close $243.75 — wait for pullback entry"
   },
   "CRDO": {
     "level": "ALERT",
-    "label": "FTD D+2 — optical connectivity",
-    "note": "FTD D+2 | DustPhotonics acquisition | optical rev $500M+ FY2027 | hyperscaler traction | Rosenblatt PT$175 | NVDA $91B Q2 = direct demand | strongest FTD setup today | earnings next quarter",
+    "label": "FTD D+3 — optical connectivity",
+    "note": "Catalyst May 19 +8.78% | DustPhotonics optical rev $500M+ FY2027 | hyperscaler traction | Rosenblatt PT$175 | NVDA $91B Q2 = direct demand | earnings next quarter",
     "date": "2026-05-19",
-    "expires": "2026-05-29",
+    "expires": "2026-06-18",
+    "watchlist": true,
     "claude_signal": "WATCH",
-    "claude_note": "Strongest FTD D+2 on the board — NVDA optical demand confirmed — entry on Pre DV 1.5x+ at open"
+    "claude_note": "FTD D+3 — extended — wait for first pullback below May 19 close on low volume"
   },
   "ARM": {
     "level": "ALERT",
-    "label": "NEW CAT D+1 — earnings +15%",
-    "note": "ARM earnings beat May 20 +15.49% | Lane B FTD D+1 | every NVDA rack uses ARM architecture | NVDA $91B Q2 = ARM licensing revenue acceleration | Bernstein Outperform initiated | watch Pre DV for follow-through",
+    "label": "FTD D+2 — earnings +15%",
+    "note": "Earnings beat May 20 +15.49% | Lane B FTD D+2 | every NVDA rack uses ARM architecture | NVDA $91B Q2 = ARM licensing acceleration | Bernstein Outperform initiated | short float low",
     "date": "2026-05-20",
-    "expires": "2026-05-30",
+    "expires": "2026-06-19",
+    "watchlist": true,
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+1 after earnings beat — direct NVDA architecture beneficiary — watch open for Pre DV confirmation"
+    "claude_note": "FTD D+2 — watch for extension above May 20 close — entry on first pullback"
+  },
+  "LITE": {
+    "level": "ALERT",
+    "label": "Nasdaq 100 + T-Rex 2x + NVDA $2B",
+    "note": "Entry $935 | stop $935 BE | S&P 500 Mar 23 + Nasdaq 100 May 11 inclusions = structural buyers | T-Rex 2x launched = mechanical 2x bid | Q3 rev $808M +90% YoY | Q4 guide $960M-$1.01B +18% seq | NVDA $2B investment | optical AI infrastructure | earnings next quarter",
+    "date": "2026-05-21",
+    "expires": "2026-06-20",
+    "watchlist": true,
+    "claude_signal": "HOLD",
+    "claude_note": "Active position — dual index inclusion + T-Rex 2x structural buyers — hold with stop $935 BE"
   },
   "CSCO": {
+    "level": "ALERT",
+    "label": "Re-entry $116.59 stop BE",
+    "note": "Re-entry $116.59 | stop $116.59 BE | HSBC PT$137 | JPM Buy | AI networking supercycle confirmed by Jensen Huang | NVDA $91B Q2 = networking demand acceleration | earnings Aug 19 | short float 1.2% | inst ownership 73%",
+    "date": "2026-05-21",
+    "expires": "2026-06-04",
+    "watchlist": true,
+    "claude_signal": "HOLD",
+    "claude_note": "Active re-entry — stop $116.59 BE — needs to hold above entry"
+  },
+  "TSLA": {
     "level": "NEWS",
-    "label": "Lane A — rebuilding below stop",
-    "note": "Stopped out $114 May 20 | Currently $113.81 — below stop | HSBC PT$137 | JPM Buy | AI networking supercycle confirmed by Jensen Huang | need to rebuild above $118 before re-entry | watch for elevated Pre DV signal | earnings Aug 19",
-    "date": "2026-05-14",
-    "expires": "2026-05-28",
-    "claude_signal": "FLAT",
-    "claude_note": "Stopped out — stock below $114 — wait for price to reclaim $118 on elevated Pre DV before re-entry"
+    "label": "Entry $421.69 stop $419.61",
+    "note": "Entry $421.69 | stop $419.61 | momentum play | watching for continuation | earnings next quarter",
+    "date": "2026-05-21",
+    "expires": "2026-06-04",
+    "watchlist": true,
+    "claude_signal": "HOLD",
+    "claude_note": "Active position — tight stop $419.61 — momentum only"
   },
   "MU": {
     "level": "ELEVATED",
     "label": "NVDA halo — HBM demand",
-    "note": "NVDA $91B Q2 guide = HBM memory demand acceleration | Mizuho PT$800 | DA Davidson PT$1000 | hold above $663 stop | direct beneficiary of NVDA datacenter ramp | earnings Jul 1 | short float 1.8%",
+    "note": "NVDA $91B Q2 = HBM memory demand acceleration | Mizuho PT$800 | DA Davidson PT$1000 | hold above $663 | direct HBM beneficiary | earnings Jul 1 | short float 1.8%",
     "date": "2026-05-19",
-    "expires": "2026-05-25",
+    "expires": "2026-05-28",
+    "watchlist": true,
     "claude_signal": "HOLD",
     "claude_note": "Active position — NVDA halo confirmed — hold above $663 — target $750+"
+  },
+  "CIEN": {
+    "level": "ELEVATED",
+    "label": "Optical networking — ACCUM★",
+    "note": "3 consecutive days buying into weakness | Citi Buy | AI networking infrastructure | NVDA $91B Q2 = optical demand acceleration | ACCUM★ pattern building | earnings Jun 2026",
+    "date": "2026-05-18",
+    "expires": "2026-05-28",
+    "watchlist": true,
+    "claude_signal": "WATCH",
+    "claude_note": "3-day institutional accumulation — NVDA confirms optical demand — entry on 1-min VWAP reclaim with DV expanding"
+  },
+  "ON": {
+    "level": "NEWS",
+    "label": "ACCUM★ — base confirmed",
+    "note": "3 consecutive days buying into weakness | 12.78x peak ratio | base forming above $104 | NVDA power management tailwind | short float 3.2% | earnings next quarter",
+    "date": "2026-05-18",
+    "expires": "2026-05-28",
+    "watchlist": true,
+    "claude_signal": "WATCH",
+    "claude_note": "ACCUM★ confirmed — entry on VWAP reclaim with expanding DV — stop below $104"
+  },
+  "BE": {
+    "level": "ALERT",
+    "label": "Wedge breakout — AI power",
+    "note": "Q1 rev $751M +130% | FY2026 guide $3.6B | Morgan Stanley PT$310 | RBC PT$335 | Oracle 2.8GW deal | NBIS partnership | 22-day declining wedge broke out today +7.2% | wait for volume confirmation DV 1.5x+ | insider selling present | earnings next quarter",
+    "date": "2026-04-28",
+    "expires": "2026-06-18",
+    "watchlist": true,
+    "claude_signal": "WATCH",
+    "claude_note": "Wedge breakout today but DV only 0.67x — wait for volume confirmation day — entry on 1-min VWAP reclaim with DV 1.5x+"
+  },
+  "NBIS": {
+    "level": "ELEVATED",
+    "label": "BE partnership + 684% rev",
+    "note": "Q1 rev $399M +684% YoY | BE fuel cell power partnership | Citi PT$287 | 14 analysts Buy | director sold $2.25M watch | NVDA datacenter = NBIS infrastructure growth | earnings Aug 5",
+    "date": "2026-05-20",
+    "expires": "2026-05-30",
+    "claude_signal": "WATCH",
+    "claude_note": "Thesis rebuilt — BE partnership + 684% revenue — watch for VS buying return"
   },
   "AMD": {
     "level": "ELEVATED",
     "label": "Evercore PT$579 — inference cycle",
-    "note": "Q1 rev $10.25B +38% | DC rev +57% | Q2 guide $11.2B +46% | Evercore PT$579 | MI450 inference chips | OpenAI Meta Oracle commitments | NVDA beat = rising tide for all AI silicon | up 95% YTD | earnings next quarter",
+    "note": "Q1 rev $10.25B +38% | DC rev +57% | Q2 guide $11.2B +46% | Evercore PT$579 | MI450 inference | OpenAI Meta Oracle commitments | NVDA rising tide | up 95% YTD | earnings next quarter",
     "date": "2026-05-20",
     "expires": "2026-05-30",
     "claude_signal": "WATCH",
-    "claude_note": "Strong fundamentals — NVDA tailwind today — watch for VS buying pattern before entry — not AVOID"
-  },
-  "NBIS": {
-    "level": "ALERT",
-    "label": "BE partnership + 684% rev growth",
-    "note": "Q1 rev $399M +684% YoY | BE fuel cell power partnership | Citi PT$287 | 14 analysts Buy | NVDA datacenter demand = NBIS AI infrastructure growth | director sold $2.25M — watch | capex $20-25B 2026 | earnings Aug 5",
-    "date": "2026-05-20",
-    "expires": "2026-05-30",
-    "claude_signal": "WATCH",
-    "claude_note": "Thesis rebuilt — BE partnership + 684% revenue — NVDA tailwind — watch for VS buying return"
-  },
-  "BE": {
-    "level": "ALERT",
-    "label": "NVDA power infrastructure play",
-    "note": "Q1 rev $751M +130% | FY2026 guide $3.6B | Morgan Stanley PT$310 | RBC PT$335 | Oracle 2.8GW deal | NBIS partnership | 22-day declining wedge base | NVDA $91B Q2 = more data centers = more power demand | wait for DV 1.5x+ on breakout | insider selling present",
-    "date": "2026-04-28",
-    "expires": "2026-05-30",
-    "claude_signal": "WATCH",
-    "claude_note": "Power infrastructure for AI — strong fundamentals — wedge base — wait for volume confirmation on breakout"
-  },
-  "AVGO": {
-    "level": "ELEVATED",
-    "label": "Custom AI silicon — NVDA halo",
-    "note": "Custom AI chips for hyperscalers | NVDA $91B Q2 = hyperscaler spend accelerating | UBS Buy | 3 days buying into weakness this week | short float low | earnings Jun 2026",
-    "date": "2026-05-19",
-    "expires": "2026-05-26",
-    "claude_signal": "WATCH",
-    "claude_note": "NVDA tailwind + multi-day VS accumulation — watch Pre DV for entry signal"
-  },
-  "LRCX": {
-    "level": "ELEVATED",
-    "label": "Morgan Stanley upgraded Overweight",
-    "note": "Morgan Stanley Overweight | Blackwell production ramp = wafer demand | NVDA $91B Q2 = LRCX equipment orders | 7 buying spikes into weakness this week | AI demand accelerating | earnings next quarter",
-    "date": "2026-05-18",
-    "expires": "2026-05-26",
-    "claude_signal": "WATCH",
-    "claude_note": "Semi equipment NVDA tailwind — Morgan Stanley upgrade — 7 VS weakness spikes — strong setup"
-  },
-  "CIEN": {
-    "level": "ELEVATED",
-    "label": "Optical networking — AI infrastructure",
-    "note": "3 consecutive days buying into weakness | Citi Buy | AI networking infrastructure | NVDA $91B Q2 = optical demand acceleration | ACCUM★ pattern building | earnings Jun 2026",
-    "date": "2026-05-18",
-    "expires": "2026-05-26",
-    "claude_signal": "WATCH",
-    "claude_note": "3-day institutional accumulation pattern — NVDA confirms optical demand — watch for VWAP reclaim entry"
-  },
-  "ON": {
-    "level": "NEWS",
-    "label": "INST-INTO-WEAKNESS 3 days",
-    "note": "3 consecutive days buying into weakness | 12.78x peak ratio | base forming | NVDA beat = power management chips tailwind | short float 3.2% | earnings next quarter",
-    "date": "2026-05-18",
-    "expires": "2026-05-25",
-    "claude_signal": "WATCH",
-    "claude_note": "3-day accumulation pattern confirmed — NVDA power management tailwind — ACCUM★ signal"
+    "claude_note": "Strong fundamentals — NVDA tailwind — wait for VS buying pattern before entry"
   },
   "AXTI": {
     "level": "TODAY",
     "label": "FTD D+6 — first profit guide",
-    "note": "FTD D+6 | First profit Q2 guide $0.06-0.08 | $100M+ AI datacenter backlog | Wedbush PT$93 | short float 9.2% | still in 10-day window | NVDA datacenter ramp = compound substrate demand",
+    "note": "FTD D+6 | First profit Q2 guide $0.06-0.08 | $100M+ AI datacenter backlog | Wedbush PT$93 | short float 9.2% | NVDA datacenter ramp = compound substrate demand",
     "date": "2026-05-15",
-    "expires": "2026-05-27",
+    "expires": "2026-06-14",
     "claude_signal": "HOLD",
-    "claude_note": "FTD D+6 still valid — first profit structural catalyst — NVDA tailwind — hold above pullback low"
+    "claude_note": "FTD D+6 still valid — first profit structural catalyst — hold above pullback low"
+  },
+  "AVGO": {
+    "level": "ELEVATED",
+    "label": "Custom AI silicon — NVDA halo",
+    "note": "Custom AI chips for hyperscalers | NVDA $91B Q2 = hyperscaler spend accelerating | UBS Buy | multi-day VS accumulation | short float low | earnings Jun 2026",
+    "date": "2026-05-19",
+    "expires": "2026-05-28",
+    "claude_signal": "WATCH",
+    "claude_note": "NVDA tailwind + VS accumulation — watch Pre DV for entry signal"
   },
   "XOM": {
     "level": "NEWS",
-    "label": "Iran risk back — oil bid returning",
-    "note": "Iran uranium directive = oil bid returning | Brent back $106 | EOD(2) consecutive | Bernstein Outperform | but NVDA beat redirects attention to tech today | watch for energy rotation signals in VS | earnings next quarter",
+    "label": "Iran risk — oil bid returning",
+    "note": "Iran uranium directive = oil bid | Brent $106 | EOD(2) consecutive | Bernstein Outperform | energy rotation watch | earnings next quarter",
     "date": "2026-05-20",
-    "expires": "2026-05-26",
+    "expires": "2026-05-28",
     "claude_signal": "WATCH",
-    "claude_note": "Iran risk returning = oil bid — but tech dominates today — watch for sector rotation signal"
+    "claude_note": "Iran risk returning = oil bid — watch for sector rotation signal in VS"
   },
   "NOW": {
     "level": "DOWN",
     "label": "FTD thesis failed",
-    "note": "BofA catalyst May 18 did not generate follow-through | distribution dominant | RS 1 | thesis failed — remove from active watch | wait for base to form",
+    "note": "BofA catalyst May 18 failed to generate follow-through | distribution dominant | thesis failed — wait for base to form",
     "date": "2026-05-18",
-    "expires": "2026-05-25",
+    "expires": "2026-05-28",
     "claude_signal": "AVOID",
-    "claude_note": "FTD failed — distribution dominant — no institutional follow-through after BofA catalyst"
-  
- },
- "LITE": {
-  "level": "ALERT",
-  "label": "Entered today $935",
-  "note": "Entry $935 | stop $935 BE | optical connectivity AI infrastructure | NVDA tailwind | earnings next quarter",
-  "date": "2026-05-21",
-  "expires": "2026-06-04",
-  "watchlist": true,
-  "claude_signal": "HOLD",
-  "claude_note": "Active position — stop $935 BE — NVDA optical demand confirmed"
-},
-"CSCO": {
-  "level": "ALERT",
-  "label": "Re-entry $116.59 stop BE",
-  "note": "Re-entry $116.59 | stop $116.59 BE | Lane A reasserting after NVDA $91B Q2 guide | AI networking supercycle confirmed by Jensen | earnings Aug 19",
-  "date": "2026-05-21",
-  "expires": "2026-06-04",
-  "watchlist": true,
-  "claude_signal": "HOLD",
-  "claude_note": "Active re-entry — stop $116.59 BE — NVDA networking tailwind — needs to hold above entry"
-},
-"TSLA": {
-  "level": "NEWS",
-  "label": "Entry $421.69 stop $419.61",
-  "note": "Entry $421.69 | stop $419.61 | momentum play | watching for continuation",
-  "date": "2026-05-21",
-  "expires": "2026-06-04",
-  "watchlist": true,
-  "claude_signal": "HOLD",
-  "claude_note": "Active position — tight stop $419.61 — momentum only"
+    "claude_note": "FTD failed — distribution dominant — no institutional follow-through"
+  },
+  "COHR": {
+    "level": "ELEVATED",
+    "label": "S&P 500 inclusion — optical AI",
+    "note": "S&P 500 inclusion Mar 23 | NVDA $2B investment in LITE+COHR | Q2 FY26 rev $1.686B +17.5% | Datacenter +34% to $1.208B = 72% of revenue | optical AI infrastructure | LITE peer — same structural buyers",
+    "date": "2026-05-21",
+    "expires": "2026-06-20",
+    "watchlist": true,
+    "claude_signal": "WATCH",
+    "claude_note": "S&P 500 inclusion structural buyer + NVDA $2B investment — optical AI infrastructure sister to LITE"
+  }
 }
