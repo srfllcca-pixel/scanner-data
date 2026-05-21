@@ -142,5 +142,35 @@
     "expires": "2026-05-25",
     "claude_signal": "AVOID",
     "claude_note": "FTD failed — distribution dominant — no institutional follow-through after BofA catalyst"
-  }
+  
+ },
+ "LITE": {
+  "level": "ALERT",
+  "label": "Entered today $935",
+  "note": "Entry $935 | stop $935 BE | optical connectivity AI infrastructure | NVDA tailwind | earnings next quarter",
+  "date": "2026-05-21",
+  "expires": "2026-06-04",
+  "watchlist": true,
+  "claude_signal": "HOLD",
+  "claude_note": "Active position — stop $935 BE — NVDA optical demand confirmed"
+},
+"CSCO": {
+  "level": "ALERT",
+  "label": "Re-entry $116.59 stop BE",
+  "note": "Re-entry $116.59 | stop $116.59 BE | Lane A reasserting after NVDA $91B Q2 guide | AI networking supercycle confirmed by Jensen | earnings Aug 19",
+  "date": "2026-05-21",
+  "expires": "2026-06-04",
+  "watchlist": true,
+  "claude_signal": "HOLD",
+  "claude_note": "Active re-entry — stop $116.59 BE — NVDA networking tailwind — needs to hold above entry"
+},
+"TSLA": {
+  "level": "NEWS",
+  "label": "Entry $421.69 stop $419.61",
+  "note": "Entry $421.69 | stop $419.61 | momentum play | watching for continuation",
+  "date": "2026-05-21",
+  "expires": "2026-06-04",
+  "watchlist": true,
+  "claude_signal": "HOLD",
+  "claude_note": "Active position — tight stop $419.61 — momentum only"
 }
