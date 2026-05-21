@@ -99,13 +99,14 @@
     "claude_note": "Insider selling + distribution dominant + analyst neutral — thesis broken"
   },
   "AMD": {
-    "level": "DOWN",
-    "label": "Distribution — avoid",
-    "note": "Distribution dominant both days | Daiwa downgrade | Cathie Wood selling | short float 4.1% | Citi PT$460 but technicals weak | wait for resolution | earnings next quarter",
-    "date": "2026-05-15",
-    "expires": "2026-05-25",
-    "claude_signal": "AVOID",
-    "claude_note": "Distribution pattern 2 consecutive days — wait for buying to return before any entry"
+  "level": "ELEVATED",
+  "label": "Evercore PT$579 — inference cycle",
+  "note": "Q1 rev $10.25B +38% | DC rev +57% | Q2 guide $11.2B +46% | Evercore PT$579 | MI450 + Helios rack | OpenAI Meta Oracle commitments | up 95% YTD | earnings next quarter",
+  "date": "2026-05-20",
+  "expires": "2026-05-30",
+  "claude_signal": "WATCH",
+  "claude_note": "Strong fundamental momentum — Evercore PT$579 — wait for clean VS buying pattern to confirm entry after run"
+
   },
   "AVGO": {
     "level": "ELEVATED",
