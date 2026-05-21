@@ -1,138 +1,146 @@
 {
   "NVDA": {
-    "level": "ALERT",
-    "label": "Earnings TONIGHT after close",
-    "note": "Q1 FY2027 tonight 4:20 PM ET | Rev est $78B +77% | EPS $1.77 | BofA PT$320 | Beat priced in — Q2 guide and China commentary move the stock | Upside $250-270 on strong guide | Downside $210-215 on miss | if 15%+ move → Lane A D+0 May 20 | short float 1.2%",
+    "level": "ELEVATED",
+    "label": "Q1 beat $81.6B | Q2 guide $91B",
+    "note": "Q1 EPS $1.87 vs $1.76 est | Rev $81.6B vs $79.2B | Q2 guide $91B vs $86B consensus | Gross margin 75% | Dividend raised $0.01 to $0.25 | Jensen: demand parabolic, agentic AI arrived | No Lane A trigger — stock flat post earnings | next earnings Aug 26",
     "date": "2026-05-20",
-    "expires": "2026-05-21",
-    "claude_signal": "FLAT",
-    "claude_note": "Binary event tonight — no edge pre-earnings, zero size"
-  },
-  "CSCO": {
-    "level": "ALERT",
-    "label": "Lane A D+4 — AI orders",
-    "note": "Record rev $15.8B +12% | AI orders $9B | HSBC upgraded Buy PT$137 | JPM maintains Buy | Lane A D+4 | stop $114 | target $126.50 | NVDA tonight sector catalyst | earnings Aug 19 | short float 1.2% | inst ownership 73%",
-    "date": "2026-05-14",
-    "expires": "2026-05-24",
-    "claude_signal": "HOLD",
-    "claude_note": "Lane A D+4 active trade — stop $114 firm — NVDA tonight decides Thursday direction"
+    "expires": "2026-05-28",
+    "claude_signal": "WATCH",
+    "claude_note": "Blowout print but stock priced in — watch for base formation above $216 before entry"
   },
   "ALAB": {
     "level": "ALERT",
-    "label": "FTD D+1 — first follow-through",
-    "note": "NEW CAT D+0 May 19 +13.07% 1.58x vol | FTD D+1 today — watch Pre DV for confirmation | short float 8.43% squeeze potential | insider selling CEO+COO overhead | NVDA beat = direct tailwind | 52wk range $84-$263",
+    "label": "FTD D+2 — NVDA ecosystem",
+    "note": "FTD D+2 | Record Q1 rev $308.4M | Barclays + Citi raised PTs | AI connectivity direct NVDA path | NVDA $91B Q2 guide = ALAB demand acceleration | short float 8.43% squeeze potential | insider selling overhead — watch VS",
     "date": "2026-05-19",
     "expires": "2026-05-29",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+1 — need Pre DV 1.5x+ and hold above $243 — insider selling overhead is risk"
+    "claude_note": "FTD D+2 — need Pre DV 1.5x+ and hold above yesterday close — NVDA tailwind strong"
   },
   "CRDO": {
     "level": "ALERT",
-    "label": "FTD D+1 — optical connectivity",
-    "note": "NEW CAT D+0 May 19 +8.78% | FTD D+1 today | DustPhotonics acquisition optical growth | NVDA ecosystem play — direct tailwind on beat | Rothschild Buy initiated Apr 2026 | call volume above normal bullish",
+    "label": "FTD D+2 — optical connectivity",
+    "note": "FTD D+2 | DustPhotonics acquisition | optical rev $500M+ FY2027 | hyperscaler traction | Rosenblatt PT$175 | NVDA $91B Q2 = direct demand | strongest FTD setup today | earnings next quarter",
     "date": "2026-05-19",
     "expires": "2026-05-29",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+1 — NVDA ecosystem — wait for open confirmation before entry"
+    "claude_note": "Strongest FTD D+2 on the board — NVDA optical demand confirmed — entry on Pre DV 1.5x+ at open"
   },
-  "NOW": {
+  "ARM": {
+    "level": "ALERT",
+    "label": "NEW CAT D+1 — earnings +15%",
+    "note": "ARM earnings beat May 20 +15.49% | Lane B FTD D+1 | every NVDA rack uses ARM architecture | NVDA $91B Q2 = ARM licensing revenue acceleration | Bernstein Outperform initiated | watch Pre DV for follow-through",
+    "date": "2026-05-20",
+    "expires": "2026-05-30",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+1 after earnings beat — direct NVDA architecture beneficiary — watch open for Pre DV confirmation"
+  },
+  "CSCO": {
     "level": "NEWS",
-    "label": "FTD D+2 — thesis in question",
-    "note": "BofA Buy PT$130 May 18 | Bernstein PT$236 | FTD D+2 but Tuesday showed distribution spikes | watch Pre DV today — if below average thesis fading | Q1 rev $3.77B +22% | earnings Jul 23",
-    "date": "2026-05-18",
+    "label": "Lane A — rebuilding below stop",
+    "note": "Stopped out $114 May 20 | Currently $113.81 — below stop | HSBC PT$137 | JPM Buy | AI networking supercycle confirmed by Jensen Huang | need to rebuild above $118 before re-entry | watch for elevated Pre DV signal | earnings Aug 19",
+    "date": "2026-05-14",
     "expires": "2026-05-28",
-    "claude_signal": "AVOID",
-    "claude_note": "FTD D+2 with distribution dominant Tuesday — thesis fading, wait for cleaner setup"
+    "claude_signal": "FLAT",
+    "claude_note": "Stopped out — stock below $114 — wait for price to reclaim $118 on elevated Pre DV before re-entry"
   },
   "MU": {
     "level": "ELEVATED",
-    "label": "AI memory — NVDA halo play",
-    "note": "NVDA earnings tonight — MU direct beneficiary | Mizuho PT$800 | DA Davidson PT$1000 | short float 1.8% | intraday reversal Tuesday $749 to $663 — distribution warning | earnings Jul 1",
+    "label": "NVDA halo — HBM demand",
+    "note": "NVDA $91B Q2 guide = HBM memory demand acceleration | Mizuho PT$800 | DA Davidson PT$1000 | hold above $663 stop | direct beneficiary of NVDA datacenter ramp | earnings Jul 1 | short float 1.8%",
     "date": "2026-05-19",
-    "expires": "2026-05-22",
+    "expires": "2026-05-25",
     "claude_signal": "HOLD",
-    "claude_note": "Active position — NVDA halo tonight — hold above $663 Tuesday low"
+    "claude_note": "Active position — NVDA halo confirmed — hold above $663 — target $750+"
+  },
+  "AMD": {
+    "level": "ELEVATED",
+    "label": "Evercore PT$579 — inference cycle",
+    "note": "Q1 rev $10.25B +38% | DC rev +57% | Q2 guide $11.2B +46% | Evercore PT$579 | MI450 inference chips | OpenAI Meta Oracle commitments | NVDA beat = rising tide for all AI silicon | up 95% YTD | earnings next quarter",
+    "date": "2026-05-20",
+    "expires": "2026-05-30",
+    "claude_signal": "WATCH",
+    "claude_note": "Strong fundamentals — NVDA tailwind today — watch for VS buying pattern before entry — not AVOID"
+  },
+  "NBIS": {
+    "level": "ALERT",
+    "label": "BE partnership + 684% rev growth",
+    "note": "Q1 rev $399M +684% YoY | BE fuel cell power partnership | Citi PT$287 | 14 analysts Buy | NVDA datacenter demand = NBIS AI infrastructure growth | director sold $2.25M — watch | capex $20-25B 2026 | earnings Aug 5",
+    "date": "2026-05-20",
+    "expires": "2026-05-30",
+    "claude_signal": "WATCH",
+    "claude_note": "Thesis rebuilt — BE partnership + 684% revenue — NVDA tailwind — watch for VS buying return"
+  },
+  "BE": {
+    "level": "ALERT",
+    "label": "NVDA power infrastructure play",
+    "note": "Q1 rev $751M +130% | FY2026 guide $3.6B | Morgan Stanley PT$310 | RBC PT$335 | Oracle 2.8GW deal | NBIS partnership | 22-day declining wedge base | NVDA $91B Q2 = more data centers = more power demand | wait for DV 1.5x+ on breakout | insider selling present",
+    "date": "2026-04-28",
+    "expires": "2026-05-30",
+    "claude_signal": "WATCH",
+    "claude_note": "Power infrastructure for AI — strong fundamentals — wedge base — wait for volume confirmation on breakout"
+  },
+  "AVGO": {
+    "level": "ELEVATED",
+    "label": "Custom AI silicon — NVDA halo",
+    "note": "Custom AI chips for hyperscalers | NVDA $91B Q2 = hyperscaler spend accelerating | UBS Buy | 3 days buying into weakness this week | short float low | earnings Jun 2026",
+    "date": "2026-05-19",
+    "expires": "2026-05-26",
+    "claude_signal": "WATCH",
+    "claude_note": "NVDA tailwind + multi-day VS accumulation — watch Pre DV for entry signal"
   },
   "LRCX": {
     "level": "ELEVATED",
     "label": "Morgan Stanley upgraded Overweight",
-    "note": "Morgan Stanley upgraded Overweight May 18 | B Riley PT$385 | Goldman PT$290 | Record March quarter rev + guidance | 7 buying spikes into weakness Tuesday | ATH $302 May 14 | AI demand accelerating | earnings next quarter",
+    "note": "Morgan Stanley Overweight | Blackwell production ramp = wafer demand | NVDA $91B Q2 = LRCX equipment orders | 7 buying spikes into weakness this week | AI demand accelerating | earnings next quarter",
     "date": "2026-05-18",
-    "expires": "2026-05-25",
+    "expires": "2026-05-26",
     "claude_signal": "WATCH",
-    "claude_note": "Morgan Stanley upgrade + 7 VS-WEAKNESS spikes Tuesday — strong accumulation signal — watch Pre DV"
+    "claude_note": "Semi equipment NVDA tailwind — Morgan Stanley upgrade — 7 VS weakness spikes — strong setup"
   },
   "CIEN": {
     "level": "ELEVATED",
-    "label": "Citigroup maintains Buy",
-    "note": "3 consecutive days buying into weakness | 7 total buying spikes this week | Citi Buy rating | optical networking AI infrastructure play | short float low | persistent institutional accumulation",
+    "label": "Optical networking — AI infrastructure",
+    "note": "3 consecutive days buying into weakness | Citi Buy | AI networking infrastructure | NVDA $91B Q2 = optical demand acceleration | ACCUM★ pattern building | earnings Jun 2026",
     "date": "2026-05-18",
-    "expires": "2026-05-25",
+    "expires": "2026-05-26",
     "claude_signal": "WATCH",
-    "claude_note": "3 days consecutive INTO-WEAKNESS buying — cleanest accumulation on the board this week"
+    "claude_note": "3-day institutional accumulation pattern — NVDA confirms optical demand — watch for VWAP reclaim entry"
   },
   "ON": {
     "level": "NEWS",
     "label": "INST-INTO-WEAKNESS 3 days",
-    "note": "12.78x buying spike -5.49% Monday | 3 consecutive days VS-WEAKNESS | persistent institutional accumulation | short float 3.2% | base building | earnings next quarter",
+    "note": "3 consecutive days buying into weakness | 12.78x peak ratio | base forming | NVDA beat = power management chips tailwind | short float 3.2% | earnings next quarter",
     "date": "2026-05-18",
-    "expires": "2026-05-23",
+    "expires": "2026-05-25",
     "claude_signal": "WATCH",
-    "claude_note": "3 consecutive days institutional buying into weakness — 12.78x peak ratio — base forming"
+    "claude_note": "3-day accumulation pattern confirmed — NVDA power management tailwind — ACCUM★ signal"
   },
   "AXTI": {
     "level": "TODAY",
-    "label": "Q1 beat + first profit guide",
-    "note": "FTD D+5 | First profit Q2 guidance $0.06-0.08 EPS | $100M+ AI datacenter backlog | Wedbush PT$93 | short float 9.2% high squeeze potential",
+    "label": "FTD D+6 — first profit guide",
+    "note": "FTD D+6 | First profit Q2 guide $0.06-0.08 | $100M+ AI datacenter backlog | Wedbush PT$93 | short float 9.2% | still in 10-day window | NVDA datacenter ramp = compound substrate demand",
     "date": "2026-05-15",
-    "expires": "2026-05-23",
+    "expires": "2026-05-27",
     "claude_signal": "HOLD",
-    "claude_note": "FTD D+5 still in window — first profit guide is structural catalyst — hold above pullback low"
-  },
-  "NBIS": {
-    "level": "DOWN",
-    "label": "FTD thesis deteriorating",
-    "note": "DA Davidson neutral | Director sold $2.25M May 13 | distribution dominant | short float 6.8% | FTD thesis breaking down — reduce or exit on weakness",
-    "date": "2026-05-13",
-    "expires": "2026-05-23",
-    "claude_signal": "AVOID",
-    "claude_note": "Insider selling + distribution dominant + analyst neutral — thesis broken"
-  },
-  "AMD": {
-  "level": "ELEVATED",
-  "label": "Evercore PT$579 — inference cycle",
-  "note": "Q1 rev $10.25B +38% | DC rev +57% | Q2 guide $11.2B +46% | Evercore PT$579 | MI450 + Helios rack | OpenAI Meta Oracle commitments | up 95% YTD | earnings next quarter",
-  "date": "2026-05-20",
-  "expires": "2026-05-30",
-  "claude_signal": "WATCH",
-  "claude_note": "Strong fundamental momentum — Evercore PT$579 — wait for clean VS buying pattern to confirm entry after run"
-
-  },
-  "AVGO": {
-    "level": "ELEVATED",
-    "label": "UBS maintains Buy",
-    "note": "Buying into weakness Tuesday — 4 spikes | UBS Buy | AI custom silicon direct NVDA beneficiary | short float low | earnings Jun 2026",
-    "date": "2026-05-19",
-    "expires": "2026-05-25",
-    "claude_signal": "WATCH",
-    "claude_note": "4 buying spikes into weakness Tuesday — NVDA custom silicon halo — watch open"
-  },
-  "AMGN": {
-    "level": "ELEVATED",
-    "label": "Piper Sandler maintains Overweight",
-    "note": "6 buying spikes into weakness Tuesday | Piper Sandler Overweight | defensive healthcare accumulation | 3 consecutive days buying pattern | short float low",
-    "date": "2026-05-18",
-    "expires": "2026-05-23",
-    "claude_signal": "WATCH",
-    "claude_note": "6 buying spikes into weakness — most consistent defensive accumulation this week"
+    "claude_note": "FTD D+6 still valid — first profit structural catalyst — NVDA tailwind — hold above pullback low"
   },
   "XOM": {
-    "level": "ELEVATED",
-    "label": "Bernstein maintains Outperform",
-    "note": "EOD(2) consecutive | Bernstein Outperform | oil bid fading on Iran peace talks | buying spikes present | ex-div was May 15 | earnings next quarter",
-    "date": "2026-05-15",
-    "expires": "2026-05-22",
-    "claude_signal": "HOLD",
-    "claude_note": "EOD(2) consecutive nights — Bernstein Outperform — oil headwind today on Iran talks"
+    "level": "NEWS",
+    "label": "Iran risk back — oil bid returning",
+    "note": "Iran uranium directive = oil bid returning | Brent back $106 | EOD(2) consecutive | Bernstein Outperform | but NVDA beat redirects attention to tech today | watch for energy rotation signals in VS | earnings next quarter",
+    "date": "2026-05-20",
+    "expires": "2026-05-26",
+    "claude_signal": "WATCH",
+    "claude_note": "Iran risk returning = oil bid — but tech dominates today — watch for sector rotation signal"
+  },
+  "NOW": {
+    "level": "DOWN",
+    "label": "FTD thesis failed",
+    "note": "BofA catalyst May 18 did not generate follow-through | distribution dominant | RS 1 | thesis failed — remove from active watch | wait for base to form",
+    "date": "2026-05-18",
+    "expires": "2026-05-25",
+    "claude_signal": "AVOID",
+    "claude_note": "FTD failed — distribution dominant — no institutional follow-through after BofA catalyst"
   }
 }
