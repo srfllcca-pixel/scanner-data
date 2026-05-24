@@ -340,5 +340,190 @@
     "expires": "2026-05-28",
     "claude_signal": "WATCH",
     "claude_note": "Iran risk = oil bid — watch VS sector rotation signal"
+  },
+  "TSM": {
+    "level": "ELEVATED",
+    "label": "FTD D+3 — NVDA $200B AI plan + AMD 2nm ramp",
+    "note": "TSMC manufacturing NVDA + AMD most advanced chips | Jensen Huang confirmed $200B AI plan using TSMC | AMD EPYC Venice ramping on TSMC 2nm process | AMD investing $10B in Taiwan AI industry | BofA calls TSMC clear winner for next AI wave | 17 analysts Buy 0 Sell Strong Buy consensus | PT average $467 | earnings July 16 | 52w range $190-$421 | current ~$404 | Taiwan geopolitical risk watch | insider trades mixed this week",
+    "date": "2026-05-19",
+    "expires": "2026-06-18",
+    "lane_b": true,
+    "tier": "A1",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+3 extended — NVDA + AMD dual demand | foundry monopoly on leading edge AI chips | wait for pullback on low volume | stop below May 19 close"
+  },
+  "FORM": {
+    "level": "NEWS",
+    "label": "Semiconductor test — NVDA halo",
+    "note": "FormFactor semiconductor probe cards and test systems | direct beneficiary of AI chip production ramp | same NVDA halo thesis as TER | appeared in TSM Yahoo Finance related stocks May 2026 | lower profile than TER but same sector | earnings next quarter",
+    "date": "2026-05-19",
+    "expires": "2026-06-10",
+    "lane_b": true,
+    "tier": "C2",
+    "claude_signal": "WATCH",
+    "claude_note": "NVDA halo — semiconductor test equipment — lower conviction than TER LRCX AMAT — confirm volume before entry"
+  },
+  "ONDS": {
+    "level": "NEWS",
+    "label": "Industrial wireless — renamed Jan 2026",
+    "note": "Ondas Inc (formerly Ondas Holdings) renamed Jan 2026 | FullMAX SDR platform for rail utilities oil gas public safety | mission-critical industrial wireless | defense and government exposure | small cap high beta | no specific May catalyst found — likely moved on general tech sentiment | earnings next quarter",
+    "date": "2026-05-19",
+    "expires": "2026-06-10",
+    "tier": "C3",
+    "claude_signal": "WATCH",
+    "claude_note": "Small cap industrial wireless — watch volume — no confirmed catalyst this week — confirm VS buying before entry"
+  },
+  "HIVE": {
+    "level": "ALERT",
+    "label": "FTD D+3 — AI Gigafactory 320MW Toronto",
+    "note": "Crypto mining → AI compute pivot | 320 MW AI Gigafactory Greater Toronto | Cantor Fitzgerald PT$4.60 Overweight | Northland Buy | unusual options activity May 18-19 before announcement | $3.1M fiber upgrade | 52w high $10.96 — significant upside | Canadian listing TSXV — data quality watch",
+    "date": "2026-05-19",
+    "expires": "2026-06-19",
+    "lane_b": true,
+    "structural": true,
+    "tier": "B2",
+    "claude_signal": "WATCH",
+    "claude_note": "Structural AI pivot — unusual options activity telegraphed | entry ORB hold | stop catalyst day low | Canadian listing may affect scanner data"
+  },
+  "FLNC": {
+    "level": "ELEVATED",
+    "label": "FTD D+3 — grid storage AI power",
+    "note": "Fluence Energy grid-scale battery | Q2 miss but FY26 guidance reaffirmed $3.2-3.6B rev + EBITDA $40-60M | May 7 +27.36% on guidance reaffirmation | volatile stock — huge intraday ranges | AI datacenter power demand | gross margin 11.7% early stage | negative FCF watch | analyst PTs $15-20 range | extended after big May 7 move",
+    "date": "2026-05-07",
+    "expires": "2026-06-06",
+    "lane_b": true,
+    "tier": "C1",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD extended — volatile early stage — AI power demand thesis | confirm VS buying + DV before entry | wide stops needed given ADR"
+  },
+  "POWL": {
+    "level": "NEWS",
+    "label": "ACCUM watch — AI power infrastructure",
+    "note": "Powell Industries electrical equipment AI datacenter power | Q1 Feb 2026 EPS $3.40 beat | Q2 May 4 miss EPS $1.25 vs $1.39 | 3-for-1 stock split April 2 2026 | director sold 5,250 shares $298-301 May 14 pre-planned 10b5-1 | Roth Capital PT$450 | analyst avg PT $163-236 significantly below current $315 | 52w range $146-$612 | overvalued per analysts but momentum driven | earnings Aug 3",
+    "date": "2026-05-19",
+    "expires": "2026-06-10",
+    "tier": "C2",
+    "claude_signal": "WATCH",
+    "claude_note": "AI power infrastructure momentum | Q2 earnings miss | director selling | analysts say overvalued | watch VS buying for entry signal | stop recent low"
+  },
+  "AMGN": {
+    "level": "NEWS",
+    "label": "Biotech — defensive hold",
+    "note": "Amgen large cap biotech | +27.6% past year matching biotech industry | exceeded US market return +10.9% | stable weekly volatility 4% | dividend payer | not an AI play — defensive biotech position | director RSU awards May 21 routine | no specific May catalyst | VS buying history suggests institutional accumulation | earnings next quarter",
+    "date": "2026-05-01",
+    "expires": "2026-06-01",
+    "tier": "B3",
+    "claude_signal": "WATCH",
+    "claude_note": "Defensive biotech — not an AI play — institutional accumulation thesis from VS history | different character from rest of watchlist | confirm VS pattern before entry"
+  },
+  "QQQ": {
+    "level": "NEWS",
+    "label": "Nasdaq 100 ETF — market health gauge",
+    "note": "QQQ tracks Nasdaq 100 | LITE COHR recently added via inclusion | AXTI ALAB CRDO all in QQQ now | market strength gauge — QQQ above ORB = green light for tech longs | use primarily as market context not entry signal | NVDA $91B guide = QQQ tailwind",
+    "date": "2026-05-01",
+    "expires": "2026-12-31",
+    "claude_signal": "HOLD",
+    "claude_note": "Market gauge — watch ORB daily | QQQ above ORB = tech longs favored | not a trading vehicle for this strategy"
+  },
+  "CBRS": {
+    "level": "ALERT",
+    "label": "FTD D+9 — blockbuster AI IPO",
+    "note": "Cerebras Systems IPO May 14 2026 | opened $185 closed $311 first day +68% | largest US tech IPO of 2026 raising $5.55B | Wafer Scale Engine 15x faster than some NVDA Blackwell models for inference | revenue $510M +76% 2025 | net income $88M swung from -$481M loss | Cathie Wood ARK bought 82.8K shares May 20 | bullish options 5917 calls 2x expected IV +19pts | fast-tracked S&P 500 watch | NVDA acquired Groq competitor Dec 2025 — risk | extended after IPO pop — wait for base",
+    "date": "2026-05-14",
+    "expires": "2026-06-13",
+    "lane_b": true,
+    "tier": "A2",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+9 post-IPO extended — strong fundamental story | ARK buying | wait for base to form below $311 IPO first-day close | entry on pullback with VS confirmation | stop below IPO day low"
+  },
+  "COIN": {
+    "level": "ELEVATED",
+    "label": "FTD D+3 — crypto infrastructure",
+    "note": "Coinbase crypto infrastructure | moved with crypto sector this week | Bitcoin correlation play | Iran peace deal = risk-on = crypto bid | institutional crypto custody | earnings next quarter | high beta crypto infrastructure",
+    "date": "2026-05-19",
+    "expires": "2026-06-10",
+    "lane_b": true,
+    "tier": "B3",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+3 — crypto sector momentum | high beta | confirm volume before entry | stop May 19 catalyst low"
+  },
+  "COHR": {
+    "level": "ALERT",
+    "label": "FTD D+3 — S&P500 + NVDA $2B structural",
+    "note": "S&P 500 inclusion Mar 23 structural buyer | NVDA $2B investment in LITE+COHR | Q2 FY26 rev $1.686B +17.5% | Datacenter +34% = 72% of revenue | sister to LITE | Rothschild coverage initiated | optical AI infrastructure",
+    "date": "2026-05-20",
+    "expires": "2026-06-19",
+    "watchlist": true,
+    "lane_b": true,
+    "structural": true,
+    "tier": "B1",
+    "claude_signal": "WATCH",
+    "claude_note": "Structural — S&P500 inclusion + NVDA $2B | FTD D+3 extended | entry ORB hold on pullback | stop catalyst day low"
+  },
+  "ON": {
+    "level": "NEWS",
+    "label": "ACCUM★ — running on retail May 22",
+    "note": "3 days buying into weakness | 12.78x peak ratio | base confirmed above $104 | NVDA power management tailwind | up May 22 on low volume = retail not institutions | entry window was May 18-20 | stop below $104",
+    "date": "2026-05-18",
+    "expires": "2026-05-28",
+    "watchlist": true,
+    "claude_signal": "WATCH",
+    "claude_note": "ACCUM★ worked — now running on retail | if pulls back to $104-106 watch for new VS buying spike | stop spike bar low"
+  },
+  "IONQ": {
+    "level": "ALERT",
+    "label": "FTD D+2 — quantum $2B + earnings +755%",
+    "note": "May 13 earnings breakout Q1 rev $64.7M +755% YoY | raised 2026 guide $225-245M | May 20-21 Trump $2B quantum funding | IONQ not direct recipient but largest pure-play quantum | SkyWater domestic supply chain | JPMorgan conference May 18 $470M remaining obligations | Needham PT$65 | at January Volume Profile POC — key level | DV 2.52x Tuesday confirms institutional rush",
+    "date": "2026-05-20",
+    "expires": "2026-06-19",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "B1",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+2 — earnings breakout + quantum funding | DV 2.52x Tuesday = institutional rush | at January POC support | entry 1-min VWAP reclaim | stop below POC"
+  },
+  "GLW": {
+    "level": "ELEVATED",
+    "label": "FTD D+3 — optical fiber AI",
+    "note": "Corning optical fiber AI datacenter connectivity | NVDA $91B Q2 = fiber demand | Mizuho Outperform | surged with LITE COHR optical group | 52w range expanding | earnings next quarter",
+    "date": "2026-05-20",
+    "expires": "2026-06-19",
+    "lane_b": true,
+    "tier": "B3",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+3 optical fiber NVDA tailwind — extended — wait for pullback | confirm volume"
+  },
+  "TER": {
+    "level": "ALERT",
+    "label": "FTD D+3 — AI test equipment +16% week",
+    "note": "Teradyne Q1 2026 AI demand 70% of revenue up from 60% | wafer to AI datacenter strategy | Goldman PT$350 Buy | Citi PT$400 Buy | 25 analyst Buy ratings | NVDA $91B = more chips = more test equipment | VP insider sell $256K watch | earnings July 28 | extended — wait for pullback",
+    "date": "2026-05-19",
+    "expires": "2026-06-18",
+    "lane_b": true,
+    "tier": "A2",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+3 extended — NVDA halo | wait for pullback below May 19 close | earnings July 28"
+  },
+  "LRCX": {
+    "level": "ALERT",
+    "label": "FTD D+3 — Morgan Stanley upgrade + NVDA",
+    "note": "Morgan Stanley upgraded Overweight May 18 | Bernstein Outperform | B.Riley PT$385 | WFE demand accelerating 2026-2027 | DRAM NAND foundry expanding | NVDA $91B = chip surge = WFE demand | bullish options 14K calls 1.1x expected | earnings next quarter | extended",
+    "date": "2026-05-19",
+    "expires": "2026-06-18",
+    "lane_b": true,
+    "tier": "A2",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+3 extended — Morgan Stanley upgrade + NVDA halo | wait for pullback on low volume"
+  },
+  "AMAT": {
+    "level": "ALERT",
+    "label": "FTD D+3 — earnings beat + Citi PT$520",
+    "note": "Q2 2026 EPS +19.7% | Rev +11.4% YoY | Q3 guide $8.95B | Citi PT$520 | highest DRAM exposure 31% of revenue | HBM demand = AMAT direct beneficiary | NVDA $91B = HBM acceleration | stock up 164% YTD | extended",
+    "date": "2026-05-19",
+    "expires": "2026-06-18",
+    "lane_b": true,
+    "tier": "A1",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+3 extended — earnings beat + highest DRAM/HBM exposure | wait for pullback below May 19 close"
   }
 }
