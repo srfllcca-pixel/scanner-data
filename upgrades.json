@@ -1,20 +1,20 @@
 {
   "AAOI": {
     "level": "ALERT",
-    "label": "FTD D+11 BASING — 800G/1.6T optical transceiver",
-    "read": "Earnings miss May 7 but market focused on $1.1B 2026 guide and $324M backlog 800G/1.6T. Real D+0 May 10 delayed move on volume. $600M ATM dilution program ongoing risk. Consolidating near breakout — wait for VS buying spike to confirm re-entry.",
+    "label": "FTD D+11 BASING \u2014 800G/1.6T optical transceiver",
+    "read": "Earnings miss May 7 but market focused on $1.1B 2026 guide and $324M backlog 800G/1.6T. Real D+0 May 10 delayed move on volume. $600M ATM dilution program ongoing risk. Consolidating near breakout \u2014 wait for VS buying spike to confirm re-entry.",
     "date": "2026-05-10",
     "expires": "2026-06-09",
     "watchlist": true,
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "D+11 BASING — real D+0 May 10 delayed earnings move | $1.1B 2026 guide + $324M backlog = thesis intact | $600M ATM dilution = ongoing overhead supply | entry on VS-WEAKNESS spike + reclaim May 10 breakout level | stop below spike low"
+    "claude_note": "D+11 BASING \u2014 real D+0 May 10 delayed earnings move | $1.1B 2026 guide + $324M backlog = thesis intact | $600M ATM dilution = ongoing overhead supply | entry on VS-WEAKNESS spike + reclaim May 10 breakout level | stop below spike low"
   },
   "ALAB": {
     "level": "ALERT",
-    "label": "AI network switch silicon — hyperscaler direct",
-    "read": "Custom AI network switch silicon sold direct to hyperscalers — no middleman. AWS Google Meta Microsoft all buying. Pure-play on AI datacenter networking layer. High growth high margin. Watch for catalyst day and VS confirmation.",
+    "label": "AI network switch silicon \u2014 hyperscaler direct",
+    "read": "Custom AI network switch silicon sold direct to hyperscalers \u2014 no middleman. AWS Google Meta Microsoft all buying. Pure-play on AI datacenter networking layer. High growth high margin. Watch for catalyst day and VS confirmation.",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
@@ -23,8 +23,8 @@
   },
   "AMD": {
     "level": "ALERT",
-    "label": "FTD D+1 — ACCUM★ resolved gap up $462.81",
-    "read": "ACCUM★ resolved — gap up Friday $462.81 held. VWAP from 3-month high $465.97 — price $3 below it. High-price buyers near the high just underwater. May 18 VS-WEAKNESS 4.14x at $416 was the base — May 18 buyers sitting on $46 gain not selling. Break and hold above $465.97 = all buyers profitable = price discovery. Pre DV 1.5x+ above $465.97 Tuesday = entry. Data center +57% Q1, Lisa Su TAM $120B by 2030, Meta 6GW deployment.",
+    "label": "FTD D+1 \u2014 ACCUM\u2605 resolved gap up $462.81",
+    "read": "ACCUM\u2605 resolved \u2014 gap up Friday $462.81 held. VWAP from 3-month high $465.97 \u2014 price $3 below it. High-price buyers near the high just underwater. May 18 VS-WEAKNESS 4.14x at $416 was the base \u2014 May 18 buyers sitting on $46 gain not selling. Break and hold above $465.97 = all buyers profitable = price discovery. Pre DV 1.5x+ above $465.97 Tuesday = entry. Data center +57% Q1, Lisa Su TAM $120B by 2030, Meta 6GW deployment.",
     "date": "2026-05-22",
     "expires": "2026-06-21",
     "watchlist": true,
@@ -35,66 +35,66 @@
   },
   "AMAT": {
     "level": "ALERT",
-    "label": "FTD D+7 — record earnings closed red institutions bought next day",
-    "read": "Record earnings May 14 closed red on the day — same pattern as ARM and IONQ. Institutions bought the very next day on above average volume. 25-year gross margin high. Highest DRAM/HBM exposure 31% of revenue. WFE industry guide raised 20% to 30%. Real D+0 = May 15 institution buy day not earnings day.",
+    "label": "FTD D+7 \u2014 record earnings closed red institutions bought next day",
+    "read": "Record earnings May 14 closed red on the day \u2014 same pattern as ARM and IONQ. Institutions bought the very next day on above average volume. 25-year gross margin high. Highest DRAM/HBM exposure 31% of revenue. WFE industry guide raised 20% to 30%. Real D+0 = May 15 institution buy day not earnings day.",
     "date": "2026-05-15",
     "expires": "2026-06-14",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+7 — real D+0 May 15 institution buy after red earnings close | record fundamentals | watch zone | pullback on low volume = entry | stop below May 15 low"
+    "claude_note": "FTD D+7 \u2014 real D+0 May 15 institution buy after red earnings close | record fundamentals | watch zone | pullback on low volume = entry | stop below May 15 low"
   },
   "ARM": {
     "level": "ALERT",
-    "label": "FTD D+6 — 12-day base breakout NVDA halo",
-    "read": "May 6 record earnings sold on day. 12-day base built May 7-18 — volume drying up. May 19 NVDA halo breakout on growing volume — real D+0. Ran 3 days to new high. May 21 RTH opened near May 6 afterhours high — overhead supply fully absorbed. Insider selling happened DURING the base and was absorbed by institutions — bullish not bearish. A1 tier.",
+    "label": "FTD D+6 \u2014 12-day base breakout NVDA halo",
+    "read": "May 6 record earnings sold on day. 12-day base built May 7-18 \u2014 volume drying up. May 19 NVDA halo breakout on growing volume \u2014 real D+0. Ran 3 days to new high. May 21 RTH opened near May 6 afterhours high \u2014 overhead supply fully absorbed. Insider selling happened DURING the base and was absorbed by institutions \u2014 bullish not bearish. A1 tier.",
     "date": "2026-05-19",
     "expires": "2026-06-18",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+6 — 12-day base breakout confirmed | May 6 afterhours supply absorbed | fresh window | pullback to base top = entry | stop below May 19 breakout low"
+    "claude_note": "FTD D+6 \u2014 12-day base breakout confirmed | May 6 afterhours supply absorbed | fresh window | pullback to base top = entry | stop below May 19 breakout low"
   },
   "ASML": {
     "level": "ALERT",
-    "label": "FTD D+14 — rising channel dual catalyst May 5",
-    "read": "Rising channel from February lows — higher lows throughout. Aletheia double upgrade March created the accumulation base. May 5 dual catalyst — ASML raised full year guide AND AMD blockbuster simultaneously. Retest held at channel support perfectly. Continuation to new high May 13. NVDA halo May 20-21. VS-WEAKNESS 3.09x on May 18 — institutions positioned the day before NVDA reported.",
+    "label": "FTD D+14 \u2014 rising channel dual catalyst May 5",
+    "read": "Rising channel from February lows \u2014 higher lows throughout. Aletheia double upgrade March created the accumulation base. May 5 dual catalyst \u2014 ASML raised full year guide AND AMD blockbuster simultaneously. Retest held at channel support perfectly. Continuation to new high May 13. NVDA halo May 20-21. VS-WEAKNESS 3.09x on May 18 \u2014 institutions positioned the day before NVDA reported.",
     "date": "2026-05-05",
     "expires": "2026-06-04",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+14 EXTENDED — channel breakout confirmed | retest held | entry on pullback to rising channel support + VS-WEAKNESS spike | stop below channel trendline"
+    "claude_note": "FTD D+14 EXTENDED \u2014 channel breakout confirmed | retest held | entry on pullback to rising channel support + VS-WEAKNESS spike | stop below channel trendline"
   },
   "AVGO": {
     "level": "ALERT",
-    "label": "Pre-earnings accumulation — June 3 binary",
-    "read": "Pre-earnings accumulation building ahead of June 3 binary. AI revenue $10.7B guided Q2 growing 27% sequentially. D1 Capital added 622K shares May 16. $22B Q2 revenue guide must be met. BofA clear winner for next AI wave. Evercore PT $582. 7 VS buying spikes over 4 days — institutions loading into weakness.",
+    "label": "Pre-earnings accumulation \u2014 June 3 binary",
+    "read": "Pre-earnings accumulation building ahead of June 3 binary. AI revenue $10.7B guided Q2 growing 27% sequentially. D1 Capital added 622K shares May 16. $22B Q2 revenue guide must be met. BofA clear winner for next AI wave. Evercore PT $582. 7 VS buying spikes over 4 days \u2014 institutions loading into weakness.",
     "date": "2026-03-04",
     "expires": "2026-06-05",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "Pre-earnings accumulation | entry on pullback to $380-390 | stop below March 4 earnings gap | June 3 binary — size small before | size larger after confirmation"
+    "claude_note": "Pre-earnings accumulation | entry on pullback to $380-390 | stop below March 4 earnings gap | June 3 binary \u2014 size small before | size larger after confirmation"
   },
   "BE": {
     "level": "ELEVATED",
-    "label": "FTD D+5 — AI power 1259% rally insider selling",
-    "read": "1,259% one-year rally — 663x EV/EBITDA extreme. Q1 rev +130% real but coordinated insider selling $288-293 in May. Different from ARM — executives exiting after parabolic run not during base. $2.6B European AI infrastructure deal May 21. Wait for 20-30% pullback + VS-WEAKNESS confirmation before entry.",
+    "label": "FTD D+5 \u2014 Oracle 2.8GW + NBIS $2.6B dual contracts",
+    "read": "Oracle 2.8 GW fuel cell contract \u2014 1.2 GW already deployed. NBIS $2.6B deal May 20. Two AI datacenter power contracts in one week. Up 10.52% premarket May 27. 663x EV/EBITDA extreme. Insiders sold $288-293 last week \u2014 now watching stock gap above those levels. VS at open tells the story \u2014 distribution = sellers back, weakness buying = thesis intact.",
     "date": "2026-05-21",
     "expires": "2026-06-20",
     "lane_b": true,
     "tier": "C1",
     "claude_signal": "WATCH",
-    "claude_note": "Parabolic 1259% rally — do not chase | insiders coordinated selling at top | wait for 20-30% pullback to $200-220 + VS buying confirmation | stop below pullback day low"
+    "claude_note": "Parabolic 1259% rally \u2014 do not chase | insiders coordinated selling at top | wait for 20-30% pullback to $200-220 + VS buying confirmation | stop below pullback day low"
   },
   "CIEN": {
     "level": "ALERT",
-    "label": "FTD D+6 — optical networking AI backbone",
+    "label": "FTD D+6 \u2014 optical networking AI backbone",
     "read": "HVE Feb 5 = institutions already positioned. Trading below 20-day vol average = no new institutional buying even on clean reference. June 4 earnings binary. AVGO preferred watch over CIEN. Entry only on volume expansion + VS weakness confirmation after earnings.",
     "date": "2026-05-21",
     "expires": "2026-06-06",
@@ -105,8 +105,8 @@
   },
   "COHR": {
     "level": "NEWS",
-    "label": "Watching — HVE distribution March 19",
-    "read": "HVE March 19 = massive distribution INTO S&P 500 inclusion day. Structural bid was a one-time mechanical event — now done. Trading below 20-day vol average = no institutional bid. NVDA $2B investment thesis already priced in. FLAT until VS-WEAKNESS pattern rebuilds from scratch.",
+    "label": "Watching \u2014 HVE distribution March 19",
+    "read": "HVE March 19 = massive distribution INTO S&P 500 inclusion day. Structural bid was a one-time mechanical event \u2014 now done. Trading below 20-day vol average = no institutional bid. NVDA $2B investment thesis already priced in. FLAT until VS-WEAKNESS pattern rebuilds from scratch.",
     "lane_b": false,
     "structural": false,
     "tier": "D",
@@ -116,27 +116,27 @@
   "COIN": {
     "level": "NEWS",
     "label": "Crypto infrastructure risk gauge",
-    "read": "Crypto infrastructure risk appetite gauge — when COIN bids with semis it confirms broad risk-on. May 18 VS: bought into weakness twice at 4.84x and 4.52x during final hour — part of the 3 PM broad market sweep. Real earnings business unlike pure miners. Iran deal = risk-on = COIN benefits.",
+    "read": "Crypto infrastructure risk appetite gauge \u2014 when COIN bids with semis it confirms broad risk-on. May 18 VS: bought into weakness twice at 4.84x and 4.52x during final hour \u2014 part of the 3 PM broad market sweep. Real earnings business unlike pure miners. Iran deal = risk-on = COIN benefits.",
     "tier": "B3",
     "claude_signal": "WATCH",
-    "claude_note": "Risk appetite gauge — use as context not primary trade | entry on VS-WEAKNESS with sector sweep confirmation"
+    "claude_note": "Risk appetite gauge \u2014 use as context not primary trade | entry on VS-WEAKNESS with sector sweep confirmation"
   },
   "CRDO": {
     "level": "ALERT",
-    "label": "FTD D+6 — AEC optical DSP AI datacenter",
-    "read": "AEC cables and optical DSPs connect GPU racks inside AI datacenters. Q3 FY26 beat both lines — 60%+ gross margins. Jefferies Franchise Picks — institutions buy dips not tops. June 1 earnings binary — 30x price/sales no room for miss. VS-WEAKNESS 4.02x on -10.41% May 18 — institutions bought the massive dip. CTO sold 27K shares but still holds 6.2M. Wide ADR $160-$217 — size accordingly.",
+    "label": "FTD D+6 \u2014 AEC optical DSP AI datacenter",
+    "read": "AEC cables and optical DSPs connect GPU racks inside AI datacenters. Q3 FY26 beat both lines \u2014 60%+ gross margins. Jefferies Franchise Picks \u2014 institutions buy dips not tops. June 1 earnings binary \u2014 30x price/sales no room for miss. VS-WEAKNESS 4.02x on -10.41% May 18 \u2014 institutions bought the massive dip. CTO sold 27K shares but still holds 6.2M. Wide ADR $160-$217 \u2014 size accordingly.",
     "date": "2026-05-19",
     "expires": "2026-06-03",
     "watchlist": true,
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+6 — June 1 earnings binary | 30x P/S no margin for error | institutions buying dips confirmed May 18 | entry on pullback to $190-195 + VS confirmation | stop below pullback day low"
+    "claude_note": "FTD D+6 \u2014 June 1 earnings binary | 30x P/S no margin for error | institutions buying dips confirmed May 18 | entry on pullback to $190-195 + VS confirmation | stop below pullback day low"
   },
   "CRWD": {
     "level": "ALERT",
-    "label": "FTD D+5 — VS distribution watch",
-    "read": "Doubled from Feb $342 low to $674 new 52-week high but VS shows -D — institutions selling into retail strength. June 3 earnings binary — Falcon Flex adoption the metric. Claude Compliance API integration May 21. DV below average on green days = retail not institutions. Wait for VS to flip from -D to +A before entry.",
+    "label": "FTD D+5 \u2014 VS distribution watch",
+    "read": "Doubled from Feb $342 low to $674 new 52-week high but VS shows -D \u2014 institutions selling into retail strength. June 3 earnings binary \u2014 Falcon Flex adoption the metric. Claude Compliance API integration May 21. DV below average on green days = retail not institutions. Wait for VS to flip from -D to +A before entry.",
     "date": "2026-05-22",
     "expires": "2026-06-22",
     "lane_b": true,
@@ -146,71 +146,71 @@
   },
   "DELL": {
     "level": "ALERT",
-    "label": "FTD D+2 — earnings Tuesday May 28 after close",
-    "read": "AI server backlog $43B up 342% YoY. Up 180% from $106 52-week low. May 22 +15% D+0 on Vegas conference + HPE confirmation of AI demand. Earnings Tuesday May 28 after close — D+4. Beat priced in at 94% probability. Question is raise guidance or not — $50B AI server FY27 target. May 18 VS buying in sector sweep. Watch for VS-WEAKNESS Tuesday before close for Signal 3.",
+    "label": "FTD D+2 \u2014 earnings Tuesday May 28 after close",
+    "read": "AI server backlog $43B up 342% YoY. Up 180% from $106 52-week low. May 22 +15% D+0 on Vegas conference + HPE confirmation of AI demand. Earnings Tuesday May 28 after close \u2014 D+4. Beat priced in at 94% probability. Question is raise guidance or not \u2014 $50B AI server FY27 target. May 18 VS buying in sector sweep. Watch for VS-WEAKNESS Tuesday before close for Signal 3.",
     "date": "2026-05-22",
     "expires": "2026-06-21",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+2 — earnings Tuesday after close | VS-WEAKNESS Tuesday = Signal 3 = entry before earnings | stop spike bar low | Wednesday gap direction = post-earnings entry decision"
+    "claude_note": "FTD D+2 \u2014 earnings Tuesday after close | VS-WEAKNESS Tuesday = Signal 3 = entry before earnings | stop spike bar low | Wednesday gap direction = post-earnings entry decision"
   },
   "FLNC": {
     "level": "ELEVATED",
-    "label": "FTD D+17 — 25% rev miss + secondary overhang",
-    "read": "AI grid storage — master supply agreements with 2 hyperscalers and record order backlog. But Q2 FY26 revenue missed by 25%. Controlling shareholders sold 20M shares in secondary May 13. Guggenheim downgraded Hold May 22. VS-WEAKNESS 8.16x on -7.55% May 18 — first shot of power sector sweep. Conflicting signals — secondary overhang vs VS buying.",
+    "label": "FTD D+17 \u2014 25% rev miss + secondary overhang",
+    "read": "AI grid storage \u2014 master supply agreements with 2 hyperscalers and record order backlog. But Q2 FY26 revenue missed by 25%. Controlling shareholders sold 20M shares in secondary May 13. Guggenheim downgraded Hold May 22. VS-WEAKNESS 8.16x on -7.55% May 18 \u2014 first shot of power sector sweep. Conflicting signals \u2014 secondary overhang vs VS buying.",
     "date": "2026-05-07",
     "expires": "2026-06-06",
     "lane_b": true,
     "tier": "C1",
     "claude_signal": "WATCH",
-    "claude_note": "Conflicting signals — controlling shareholders selling vs institution buying | secondary overhang limits upside | tight stop required | watch for VS resumption after overhang clears"
+    "claude_note": "Conflicting signals \u2014 controlling shareholders selling vs institution buying | secondary overhang limits upside | tight stop required | watch for VS resumption after overhang clears"
   },
   "GLW": {
     "level": "ALERT",
-    "label": "FTD D+15 — NVDA warrants $3.2B optical fiber",
-    "read": "Primary architect of AI datacenter optical networks. NVDA warrants for 18M shares — $3.2B if exercised — NVDA betting its entire AI infrastructure depends on GLW fiber. May 6 D+0 Q1 +30% EPS + Meta $6B contract. Up 297% past year. 90-day anchored VWAP from May 10 high $194.12 — current price $192.56 below it. Buyers in the $194-210 range are underwater and represent overhead supply. VS-WEAKNESS here + reclaim $194.12 = entry.",
+    "label": "FTD D+15 \u2014 NVDA warrants $3.2B optical fiber",
+    "read": "Primary architect of AI datacenter optical networks. NVDA warrants for 18M shares \u2014 $3.2B if exercised \u2014 NVDA betting its entire AI infrastructure depends on GLW fiber. May 6 D+0 Q1 +30% EPS + Meta $6B contract. Up 297% past year. 90-day anchored VWAP from May 10 high $194.12 \u2014 current price $192.56 below it. Buyers in the $194-210 range are underwater and represent overhead supply. VS-WEAKNESS here + reclaim $194.12 = entry.",
     "date": "2026-05-06",
     "expires": "2026-06-05",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+15 extended | VWAP $194.12 key level | VS-WEAKNESS below VWAP + reclaim = entry | stop below pullback low | insiders sold May 8-12 — watch"
+    "claude_note": "FTD D+15 extended | VWAP $194.12 key level | VS-WEAKNESS below VWAP + reclaim = entry | stop below pullback low | insiders sold May 8-12 \u2014 watch"
   },
   "GOOGL": {
     "level": "NEWS",
-    "label": "Market health sensor — Cloud $460B backlog",
-    "read": "Cloud $20B+ Q1 +63% with $460B backlog — 4 years of revenue locked in. TPU chips going to enterprise — $25B revenue by 2027. Market health sensor — when Cloud accelerates it validates the entire AI infrastructure thesis. May 18 VS mixed 1B 1D no weakness buying. Currently below anchored VWAP on red declining day — no institutional defense visible. Watch April 29 earnings gap level as key support for AI thesis broadly.",
+    "label": "Market health sensor \u2014 Cloud $460B backlog",
+    "read": "Cloud $20B+ Q1 +63% with $460B backlog \u2014 4 years of revenue locked in. TPU chips going to enterprise \u2014 $25B revenue by 2027. Market health sensor \u2014 when Cloud accelerates it validates the entire AI infrastructure thesis. May 18 VS mixed 1B 1D no weakness buying. Currently below anchored VWAP on red declining day \u2014 no institutional defense visible. Watch April 29 earnings gap level as key support for AI thesis broadly.",
     "tier": "B2",
     "claude_signal": "HOLD",
     "claude_note": "Market context gauge not primary trade | Cloud $460B backlog = AI thesis anchor | watch April 29 gap level as broad market support"
   },
   "HIVE": {
     "level": "NEWS",
-    "label": "AI gigafactory pivot — crypto sensor",
-    "read": "Canadian miner pivoting to AI compute gigafactory — structural thesis real. Also functions as crypto risk appetite gauge. When HIVE bids with semis it confirms broad risk-on. B2 tier — watch for VS-WEAKNESS pattern to build on the AI gigafactory story.",
+    "label": "AI gigafactory pivot \u2014 crypto sensor",
+    "read": "Canadian miner pivoting to AI compute gigafactory \u2014 structural thesis real. Also functions as crypto risk appetite gauge. When HIVE bids with semis it confirms broad risk-on. B2 tier \u2014 watch for VS-WEAKNESS pattern to build on the AI gigafactory story.",
     "tier": "B2",
     "claude_signal": "WATCH",
     "claude_note": "Structural AI pivot thesis | crypto sensor secondary role | entry on VS-WEAKNESS with sector confirmation"
   },
   "INOD": {
     "level": "ALERT",
-    "label": "FTD D+13 BASING — AI training data engineering",
-    "read": "AI training data engineering for Big Tech and frontier labs. Q1 +54% rev, EBITDA doubled, raised guide to 40%+. +83% on May 8 D+0. May 18 VS battle at $91-94 — 3 distribution spikes then 3 buying spikes absorbed every seller, final buy 5.55x largest spike of the session. D+13 BASING. $51M Big Tech engagement = half a quarter of revenue — single customer concentration risk.",
+    "label": "FTD D+13 BASING \u2014 AI training data engineering",
+    "read": "AI training data engineering for Big Tech and frontier labs. Q1 +54% rev, EBITDA doubled, raised guide to 40%+. +83% on May 8 D+0. May 18 VS battle at $91-94 \u2014 3 distribution spikes then 3 buying spikes absorbed every seller, final buy 5.55x largest spike of the session. D+13 BASING. $51M Big Tech engagement = half a quarter of revenue \u2014 single customer concentration risk.",
     "date": "2026-05-08",
     "expires": "2026-06-07",
     "watchlist": true,
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "D+13 BASING — $91-94 VS battle support level | buyers absorbed sellers at 5.55x | entry on VS-WEAKNESS at support | stop below battle zone low | single customer risk watch"
+    "claude_note": "D+13 BASING \u2014 $91-94 VS battle support level | buyers absorbed sellers at 5.55x | entry on VS-WEAKNESS at support | stop below battle zone low | single customer risk watch"
   },
   "INTC": {
     "level": "ALERT",
-    "label": "FTD D+15 — turnaround Data Center +22% Apple talks",
-    "read": "Turnaround play — Data Center & AI +22%, Foundry +16% Q1. Up 225% YTD. Apple foundry talks = transformative if they become real contracts. VS 5.57x buying May 18 before NVDA — clean institutional positioning. But 904x trailing PE, $2.3B foundry operating loss, CPU market share falling 64% to 54%. All-time high $113 May 6 D+0. Extended D+15 — wait for pullback + VS weakness confirmation.",
+    "label": "FTD D+15 \u2014 turnaround Data Center +22% Apple talks",
+    "read": "Turnaround play \u2014 Data Center & AI +22%, Foundry +16% Q1. Up 225% YTD. Apple foundry talks = transformative if they become real contracts. VS 5.57x buying May 18 before NVDA \u2014 clean institutional positioning. But 904x trailing PE, $2.3B foundry operating loss, CPU market share falling 64% to 54%. All-time high $113 May 6 D+0. Extended D+15 \u2014 wait for pullback + VS weakness confirmation.",
     "date": "2026-05-06",
     "expires": "2026-06-05",
     "lane_b": true,
@@ -220,8 +220,8 @@
   },
   "IONQ": {
     "level": "ALERT",
-    "label": "FTD D+2 — quantum breakout $2B funding SkyWater",
-    "read": "May 5 earnings gap-and-trap — 24hr $11.58 vs RTH opened $7 below afterhours high. Real D+0 May 10 ascending triangle breakout above $48 on highest volume of month. $2B quantum funding May 20-21 + SkyWater acquisition approved — only vertically integrated quantum company. Q1 revenue +755% YoY. May 18 VS battle — DIST 5.80x at $48.10 then BUYING 6.07x at $49.14 absorbed the seller. Not in DOE funding list but sector bid lifts all names.",
+    "label": "FTD D+2 \u2014 quantum breakout $2B funding SkyWater",
+    "read": "May 5 earnings gap-and-trap \u2014 24hr $11.58 vs RTH opened $7 below afterhours high. Real D+0 May 10 ascending triangle breakout above $48 on highest volume of month. $2B quantum funding May 20-21 + SkyWater acquisition approved \u2014 only vertically integrated quantum company. Q1 revenue +755% YoY. May 18 VS battle \u2014 DIST 5.80x at $48.10 then BUYING 6.07x at $49.14 absorbed the seller. Not in DOE funding list but sector bid lifts all names.",
     "date": "2026-05-20",
     "expires": "2026-06-19",
     "watchlist": true,
@@ -232,32 +232,33 @@
   },
   "IREN": {
     "level": "NEWS",
-    "label": "Crypto risk gauge — high beta sensor",
-    "read": "High beta crypto miner used as risk appetite gauge. When IREN bids with semis confirms broad risk-on spectrum. May 18 showed DIST 6.70x on -6.92% — distribution signal on that specific day. Monitor as risk sensor not primary trade vehicle.",
+    "label": "Crypto risk gauge \u2014 high beta sensor",
+    "read": "High beta crypto miner used as risk appetite gauge. When IREN bids with semis confirms broad risk-on spectrum. May 18 showed DIST 6.70x on -6.92% \u2014 distribution signal on that specific day. Monitor as risk sensor not primary trade vehicle.",
     "tier": "C2",
     "claude_signal": "WATCH",
     "claude_note": "Risk gauge only | DIST on May 18 = caution | not a primary trade vehicle"
   },
   "LITE": {
     "level": "NEWS",
-    "label": "Optical components — watching re-entry",
-    "read": "Stopped out of BE position. Watching for re-entry. Optical components for AI datacenters — NVDA T-Rex mechanical bid ongoing if still in inclusion window. VS-WEAKNESS pattern needed before re-entry. Monitor for new catalyst.",
+    "label": "Optical components \u2014 stopped out watching re-entry",
+    "read": "Stopped out of BE position. NVDA T-Rex 2x mechanical bid if still in S&P inclusion window. Optical components for AI datacenters \u2014 direct NVDA supply chain. VS-WEAKNESS pattern needed before re-entry. Monitor for new catalyst.",
+    "watchlist": true,
     "tier": "B2",
     "claude_signal": "WATCH",
-    "claude_note": "Stopped out | watching for re-entry | VS-WEAKNESS + new catalyst = entry signal"
+    "claude_note": "Stopped out | watching for re-entry | VS-WEAKNESS + new catalyst = entry signal | T-Rex mechanical bid = structural support if inclusion window active"
   },
   "MARA": {
     "level": "NEWS",
-    "label": "Bitcoin miner — risk appetite gauge",
-    "read": "Bitcoin miner used as risk appetite gauge. When MARA bids simultaneously with semis confirms institutional risk-on across the full spectrum. May 18 bought into weakness at 3.99x on -3.98%. Not a primary trade vehicle — a breadth sensor.",
+    "label": "Bitcoin miner \u2014 risk appetite gauge",
+    "read": "Bitcoin miner used as risk appetite gauge. When MARA bids simultaneously with semis confirms institutional risk-on across the full spectrum. May 18 bought into weakness at 3.99x on -3.98%. Not a primary trade vehicle \u2014 a breadth sensor.",
     "tier": "C2",
     "claude_signal": "WATCH",
-    "claude_note": "Risk gauge — when MARA bids with semis = broad risk-on confirmed | not a primary trade"
+    "claude_note": "Risk gauge \u2014 when MARA bids with semis = broad risk-on confirmed | not a primary trade"
   },
   "MRVL": {
     "level": "ALERT",
-    "label": "FTD D+1 — earnings Tuesday May 27 after close",
-    "read": "Custom AI silicon + optical interconnects for hyperscale datacenters. 50+ design wins across 10+ customers. AWS key supplier. NVIDIA NVLink Fusion integration. Up 102% YTD. Earnings Tuesday May 27 after close — same night as DELL. May 18 VS: 1D 4.96x on -6.63% — one seller, no buyers that day. Analyst avg PT $130 vs price $187 — running 30% above consensus. June 17 custom silicon investor event is the next major catalyst after earnings.",
+    "label": "FTD D+1 \u2014 earnings Tuesday May 27 after close",
+    "read": "Custom AI silicon + optical interconnects for hyperscale datacenters. 50+ design wins across 10+ customers. AWS key supplier. NVIDIA NVLink Fusion integration. Up 102% YTD. Earnings Tuesday May 27 after close \u2014 same night as DELL. May 18 VS: 1D 4.96x on -6.63% \u2014 one seller, no buyers that day. Analyst avg PT $130 vs price $187 \u2014 running 30% above consensus. June 17 custom silicon investor event is the next major catalyst after earnings.",
     "date": "2026-05-22",
     "expires": "2026-06-21",
     "watchlist": true,
@@ -268,8 +269,8 @@
   },
   "NBIS": {
     "level": "ALERT",
-    "label": "FTD D+8 — neocloud NVDA $2B Meta $27B Microsoft $19B",
-    "read": "Neocloud AI datacenter — NVDA $2B investment + Meta $27B + Microsoft $19.4B contracts. Eigen AI $643M acquisition — inference optimization moving up value chain. $2.6B Bloom Energy fuel cell deal for power. Up 400%+ one year. DA Davidson downgraded May 18. $122.8M insider selling past 3 months — largest on board. 0 VS activity May 18 — institutions in wait mode. Watch for VS-WEAKNESS pattern to confirm institutional bid at any pullback.",
+    "label": "FTD D+8 \u2014 neocloud NVDA $2B Meta $27B Microsoft $19B",
+    "read": "Neocloud AI datacenter \u2014 NVDA $2B investment + Meta $27B + Microsoft $19.4B contracts. Eigen AI $643M acquisition \u2014 inference optimization moving up value chain. $2.6B Bloom Energy fuel cell deal for power. Up 400%+ one year. DA Davidson downgraded May 18. $122.8M insider selling past 3 months \u2014 largest on board. 0 VS activity May 18 \u2014 institutions in wait mode. Watch for VS-WEAKNESS pattern to confirm institutional bid at any pullback.",
     "date": "2026-05-13",
     "expires": "2026-06-12",
     "watchlist": true,
@@ -280,20 +281,20 @@
   },
   "NVDA": {
     "level": "ALERT",
-    "label": "The center of gravity — $91B Q2 guide",
-    "read": "The center of gravity — $81.6B Q1 +85% YoY. Q2 guide $91B — validates the entire AI infrastructure thesis. Blackwell sold out. $50.3B operating cash flow. 4th straight post-earnings decline despite records — sell-the-news pattern. May 18 VS: INST-SELL 3.03x at $220 two hours before report — smart hedging not bearish. When NVDA guides up every name on the board moves. Watch Q2 $91B execution.",
+    "label": "The center of gravity \u2014 $91B Q2 guide",
+    "read": "The center of gravity \u2014 $81.6B Q1 +85% YoY. Q2 guide $91B \u2014 validates the entire AI infrastructure thesis. Blackwell sold out. $50.3B operating cash flow. 4th straight post-earnings decline despite records \u2014 sell-the-news pattern. May 18 VS: INST-SELL 3.03x at $220 two hours before report \u2014 smart hedging not bearish. When NVDA guides up every name on the board moves. Watch Q2 $91B execution.",
     "date": "2026-05-20",
     "expires": "2026-08-20",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "HOLD",
-    "claude_note": "Market gravity — $91B Q2 guide = AI thesis intact | sell-the-news pattern on earnings | buy any NVDA weakness with VS confirmation | do not chase strength"
+    "claude_note": "Market gravity \u2014 $91B Q2 guide = AI thesis intact | sell-the-news pattern on earnings | buy any NVDA weakness with VS confirmation | do not chase strength"
   },
   "ON": {
     "level": "ALERT",
-    "label": "FTD D+16 — power mgmt chips AI datacenter",
-    "read": "Power management chips for AI datacenters — every GPU rack needs ON silicon. Pivoted from EV story to AI power play. Q1 AI datacenter rev +30% sequential — guided to double in 2026. May 18 VS: 12.78x buying spike at -5.49% — largest single spike of the entire day across all 54 tickers. Two hours later NVDA reported $91B. Institutions knew. Up 90% YTD — extended D+16. Wait for pullback + VS-WEAKNESS retest.",
+    "label": "FTD D+16 \u2014 power mgmt chips AI datacenter",
+    "read": "Power management chips for AI datacenters \u2014 every GPU rack needs ON silicon. Pivoted from EV story to AI power play. Q1 AI datacenter rev +30% sequential \u2014 guided to double in 2026. May 18 VS: 12.78x buying spike at -5.49% \u2014 largest single spike of the entire day across all 54 tickers. Two hours later NVDA reported $91B. Institutions knew. Up 90% YTD \u2014 extended D+16. Wait for pullback + VS-WEAKNESS retest.",
     "date": "2026-05-05",
     "expires": "2026-06-04",
     "watchlist": true,
@@ -304,16 +305,16 @@
   },
   "PLTR": {
     "level": "NEWS",
-    "label": "AI software platform — government + enterprise",
-    "read": "AI software platform serving government and enterprise. AIP platform growing rapidly. Government contracts provide recurring revenue floor. May 18 VS: INST-BUY 3.90x on +0.10% — buying into flat day, confidence not urgency. Watch for earnings catalyst and VS-WEAKNESS setup.",
+    "label": "AI software platform \u2014 government + enterprise",
+    "read": "AI software platform serving government and enterprise. AIP platform growing rapidly. Government contracts provide recurring revenue floor. May 18 VS: INST-BUY 3.90x on +0.10% \u2014 buying into flat day, confidence not urgency. Watch for earnings catalyst and VS-WEAKNESS setup.",
     "tier": "B2",
     "claude_signal": "WATCH",
     "claude_note": "AI software platform | government contracts = revenue floor | entry on VS-WEAKNESS + catalyst | stop below spike low"
   },
   "POWL": {
     "level": "ALERT",
-    "label": "FTD D+16 — custom switchgear $400M AI datacenter order",
-    "read": "Custom electrical switchgear for AI datacenter power — 150-year industrial company with a secular tailwind. Record $400M+ single AI datacenter order — bigger than entire quarterly revenue. $1.8B backlog up 33% YoY, debt-free. May 18 VS-WEAKNESS 3.99x at $285 on -10.23% — first shot of power sector sweep, institutions buying $9 below cost basis. 90-day anchored VWAP from high $294.22 — current price $276.80 means buyers in $285-310 range are underwater = overhead supply on bounces. April $220 breakout buyers still profitable. VS-WEAKNESS below $285 + reclaim = entry. Stop below $276 support.",
+    "label": "FTD D+16 \u2014 custom switchgear $400M AI datacenter order",
+    "read": "Custom electrical switchgear for AI datacenter power \u2014 150-year industrial company with a secular tailwind. Record $400M+ single AI datacenter order \u2014 bigger than entire quarterly revenue. $1.8B backlog up 33% YoY, debt-free. May 18 VS-WEAKNESS 3.99x at $285 on -10.23% \u2014 first shot of power sector sweep, institutions buying $9 below cost basis. 90-day anchored VWAP from high $294.22 \u2014 current price $276.80 means buyers in $285-310 range are underwater = overhead supply on bounces. April $220 breakout buyers still profitable. VS-WEAKNESS below $285 + reclaim = entry. Stop below $276 support.",
     "date": "2026-05-05",
     "expires": "2026-06-04",
     "watchlist": true,
@@ -324,24 +325,25 @@
   },
   "QCOM": {
     "level": "NEWS",
-    "label": "Edge AI chips — watching",
-    "read": "Edge AI semiconductor — Snapdragon chips powering on-device AI in phones and PCs. Watching for catalyst and VS setup. Monitor as AI edge demand develops.",
+    "label": "Edge AI chips \u2014 watching",
+    "read": "Edge AI semiconductor \u2014 Snapdragon chips powering on-device AI in phones and PCs. Watching for catalyst and VS setup. Monitor as AI edge demand develops.",
     "tier": "B2",
     "claude_signal": "WATCH",
     "claude_note": "Edge AI thesis | watching for FTD catalyst | entry on VS-WEAKNESS + breakout"
   },
   "RGTI": {
-    "level": "NEWS",
-    "label": "Quantum computing — sector sensor",
-    "read": "Quantum computing — sector sentiment gauge alongside IONQ. $2B US government quantum funding May 21 lifted entire sector. Much earlier stage than IONQ. Functions as quantum sector risk appetite sensor. VS-WEAKNESS needed before any entry.",
+    "level": "ALERT",
+    "label": "Breakout alert fired premarket May 27",
+    "read": "Quantum computing sector \u2014 breakout alert fired premarket May 27. $2B US government quantum funding May 21 lifted sector. Sector sensor alongside IONQ. Much earlier stage than IONQ. Breakout needs volume confirmation at RTH open \u2014 watch DV 1.5x+ to confirm institutional participation not just thin premarket.",
+    "watchlist": true,
     "tier": "C2",
     "claude_signal": "WATCH",
-    "claude_note": "Quantum sector sensor | very speculative stage | VS-WEAKNESS + sector sweep confirmation = only entry trigger"
+    "claude_note": "Breakout alert premarket | needs RTH vol confirmation | very speculative | VS-WEAKNESS + DV 1.5x+ = only entry | stop below breakout level"
   },
   "RKLB": {
     "level": "ALERT",
-    "label": "FTD D+13 — space launch $2.2B backlog Neutron binary",
-    "read": "Only consistent SpaceX orbital challenger — Electron, Haste, Neutron programs. Q1 +34% best day ever — $200M revenue, $2.2B backlog, $2B liquidity. Defense contracts — EWAAC $46B program, DARPA, hypersonic testing. May 18 VS: INST-BUY 5.44x on +4.61% — confidence buying into green day. $3B equity offering May 19 = dilution overhang near term. Neutron rocket launch later 2026 = binary catalyst — success reprices to $200+, failure reprices -30-40%. Size small until Neutron outcome known.",
+    "label": "FTD D+13 \u2014 space launch $2.2B backlog Neutron binary",
+    "read": "Only consistent SpaceX orbital challenger \u2014 Electron, Haste, Neutron programs. Q1 +34% best day ever \u2014 $200M revenue, $2.2B backlog, $2B liquidity. Defense contracts \u2014 EWAAC $46B program, DARPA, hypersonic testing. May 18 VS: INST-BUY 5.44x on +4.61% \u2014 confidence buying into green day. $3B equity offering May 19 = dilution overhang near term. Neutron rocket launch later 2026 = binary catalyst \u2014 success reprices to $200+, failure reprices -30-40%. Size small until Neutron outcome known.",
     "date": "2026-05-07",
     "expires": "2026-06-06",
     "watchlist": true,
@@ -352,16 +354,16 @@
   },
   "SNOW": {
     "level": "NEWS",
-    "label": "AI data cloud — watching",
-    "read": "AI data cloud platform. May 18 VS-STRENGTH 4.81x on +3.87% — buying into a green day at 3:39 PM. Watching for catalyst and VS setup. Data cloud demand growing with AI workloads.",
+    "label": "AI data cloud \u2014 watching",
+    "read": "AI data cloud platform. May 18 VS-STRENGTH 4.81x on +3.87% \u2014 buying into a green day at 3:39 PM. Watching for catalyst and VS setup. Data cloud demand growing with AI workloads.",
     "tier": "B2",
     "claude_signal": "WATCH",
     "claude_note": "AI data cloud | VS-STRENGTH May 18 = momentum buying | entry on VS-WEAKNESS + breakout"
   },
   "SNDK": {
     "level": "ALERT",
-    "label": "FTD D+19 — pure-play NAND flash supercycle",
-    "read": "Pure-play NAND flash — only public pure-play manufacturer. Q3 rev nearly doubled YoY to $6B, EPS $23.03. Q4 guide $8B rev $31 EPS — obliterated consensus. NAND prices +234% in 2026 per Gartner, supply tight through 2028. AI datacenter + edge AI = demand from every direction simultaneously. Up 500% YTD. May 18 VS: INST-WEAKNESS 3.17x at $1,307 on -7% day — bought before Citi upgrade May 19. Memory cycles are violent in both directions — Samsung supply ramp = fast reversal risk.",
+    "label": "FTD D+19 \u2014 pure-play NAND flash supercycle",
+    "read": "Pure-play NAND flash \u2014 only public pure-play manufacturer. Q3 rev nearly doubled YoY to $6B, EPS $23.03. Q4 guide $8B rev $31 EPS \u2014 obliterated consensus. NAND prices +234% in 2026 per Gartner, supply tight through 2028. AI datacenter + edge AI = demand from every direction simultaneously. Up 500% YTD. May 18 VS: INST-WEAKNESS 3.17x at $1,307 on -7% day \u2014 bought before Citi upgrade May 19. Memory cycles are violent in both directions \u2014 Samsung supply ramp = fast reversal risk.",
     "date": "2026-04-30",
     "expires": "2026-07-30",
     "watchlist": true,
@@ -372,8 +374,8 @@
   },
   "STX": {
     "level": "ALERT",
-    "label": "FTD D+19 — HAMR cold storage AI datacenter",
-    "read": "HAMR Mozaic 4+ technology — the cold storage layer of every AI datacenter at $0.02/GB vs $0.10/GB for SSD. Nearline capacity fully allocated through 2027 = pricing power locked in. Q3 rev $3.11B +44%, net income +120%, $1B free cash flow. Q4 guide $3.45B. Up 190% YTD. 0 VS spikes May 18 = already fully institutionally positioned before NVDA. High leverage 7.63 D/E. Extended D+19 — wait for pullback.",
+    "label": "FTD D+19 \u2014 HAMR cold storage AI datacenter",
+    "read": "HAMR Mozaic 4+ technology \u2014 the cold storage layer of every AI datacenter at $0.02/GB vs $0.10/GB for SSD. Nearline capacity fully allocated through 2027 = pricing power locked in. Q3 rev $3.11B +44%, net income +120%, $1B free cash flow. Q4 guide $3.45B. Up 190% YTD. 0 VS spikes May 18 = already fully institutionally positioned before NVDA. High leverage 7.63 D/E. Extended D+19 \u2014 wait for pullback.",
     "date": "2026-04-28",
     "expires": "2026-07-28",
     "watchlist": true,
@@ -384,8 +386,8 @@
   },
   "TER": {
     "level": "ALERT",
-    "label": "FTD D+6 — semiconductor test equipment",
-    "read": "Semiconductor test equipment for AI chips — every NVDA chip must pass TER test systems before shipping. NVDA $91B guide = more chips = more test demand. May 18 VS: INST-INTO-WEAKNESS 3.49x on -5.02% at $320.96 at 15:58 — late session dip buy before NVDA report. Part of semiconductor equipment sector sweep.",
+    "label": "FTD D+6 \u2014 semiconductor test equipment",
+    "read": "Semiconductor test equipment for AI chips \u2014 every NVDA chip must pass TER test systems before shipping. NVDA $91B guide = more chips = more test demand. May 18 VS: INST-INTO-WEAKNESS 3.49x on -5.02% at $320.96 at 15:58 \u2014 late session dip buy before NVDA report. Part of semiconductor equipment sector sweep.",
     "date": "2026-05-21",
     "expires": "2026-06-20",
     "watchlist": true,
@@ -396,8 +398,8 @@
   },
   "TSM": {
     "level": "ALERT",
-    "label": "FTD D+6 — NVDA AMD Apple foundry A1",
-    "read": "Makes every NVDA chip, every AMD chip, every Apple chip. NVDA $91B Q2 guide = TSM revenue locked in. May 18 VS: INST-INTO-WEAKNESS 8.72x on -3.27% at $391.32 — second largest spike of the day. Institutions bought the foundry aggressively before NVDA reported. Intel Apple foundry talks could add a new major customer. 3nm locked up through 2027.",
+    "label": "FTD D+6 \u2014 NVDA AMD Apple foundry A1",
+    "read": "Makes every NVDA chip, every AMD chip, every Apple chip. NVDA $91B Q2 guide = TSM revenue locked in. May 18 VS: INST-INTO-WEAKNESS 8.72x on -3.27% at $391.32 \u2014 second largest spike of the day. Institutions bought the foundry aggressively before NVDA reported. Intel Apple foundry talks could add a new major customer. 3nm locked up through 2027.",
     "date": "2026-05-21",
     "expires": "2026-06-20",
     "watchlist": true,
@@ -408,8 +410,8 @@
   },
   "WDC": {
     "level": "ALERT",
-    "label": "FTD D+6 — flash storage AI datacenter",
-    "read": "Flash and HDD storage for AI datacenters. May 18 VS: two buying spikes — 4.45x at $454 and 3.10x at $458 — both into weakness. Bought aggressively in the final hour before NVDA. Similar story to SNDK but diversified flash + HDD. Watching for catalyst confirmation.",
+    "label": "FTD D+6 \u2014 flash storage AI datacenter",
+    "read": "Flash and HDD storage for AI datacenters. May 18 VS: two buying spikes \u2014 4.45x at $454 and 3.10x at $458 \u2014 both into weakness. Bought aggressively in the final hour before NVDA. Similar story to SNDK but diversified flash + HDD. Watching for catalyst confirmation.",
     "date": "2026-05-21",
     "expires": "2026-06-20",
     "watchlist": true,
