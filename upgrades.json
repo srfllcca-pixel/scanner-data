@@ -95,7 +95,7 @@
   "CIEN": {
     "level": "ALERT",
     "label": "FTD D+6 \u2014 optical networking AI backbone",
-    "read": "HVE Feb 5 = institutions already positioned. Trading below 20-day vol average = no new institutional buying even on clean reference. June 4 earnings binary. AVGO preferred watch over CIEN. Entry only on volume expansion + VS weakness confirmation after earnings.",
+    "read": "HVE Feb 5 = institutions positioned. But today 7 spikes including 7.55x VS-WEAKNESS twice \u2014 active accumulation ahead of June 4 earnings. June 4 binary. Today VS: 5 buying including 2 VS-WEAKNESS at 7.55x = strongest accumulation signal today. AVGO still preferred but CIEN showing institutional conviction pre-earnings.",
     "date": "2026-05-21",
     "expires": "2026-06-06",
     "lane_b": true,
@@ -124,7 +124,7 @@
   "CRDO": {
     "level": "ALERT",
     "label": "FTD D+6 \u2014 AEC optical DSP AI datacenter",
-    "read": "AEC cables and optical DSPs connect GPU racks inside AI datacenters. Q3 FY26 beat both lines \u2014 60%+ gross margins. Jefferies Franchise Picks \u2014 institutions buy dips not tops. June 1 earnings binary \u2014 30x price/sales no room for miss. VS-WEAKNESS 4.02x on -10.41% May 18 \u2014 institutions bought the massive dip. CTO sold 27K shares but still holds 6.2M. Wide ADR $160-$217 \u2014 size accordingly.",
+    "read": "AEC cables + optical DSPs connect GPU racks. Q3 FY26 beat both lines \u2014 60%+ margins. Jefferies Franchise Picks. D+5 today \u2014 Pre DV 2.12x open DV 2.49x. Opening 5-min bar = high of day then sold off \u2014 gap-and-trap at new high. VS today: 4B 6D 4W \u2014 distribution dominant but 5.10x VS-WEAKNESS at $214 = Signal 3 fired. June 1 earnings binary in 6 days \u2014 30x P/S no room for miss.",
     "date": "2026-05-19",
     "expires": "2026-06-03",
     "watchlist": true,
@@ -147,7 +147,7 @@
   "DELL": {
     "level": "ALERT",
     "label": "FTD D+2 \u2014 earnings Tuesday May 28 after close",
-    "read": "AI server backlog $43B up 342% YoY. Up 180% from $106 52-week low. May 22 +15% D+0 on Vegas conference + HPE confirmation of AI demand. Earnings Tuesday May 28 after close \u2014 D+4. Beat priced in at 94% probability. Question is raise guidance or not \u2014 $50B AI server FY27 target. May 18 VS buying in sector sweep. Watch for VS-WEAKNESS Tuesday before close for Signal 3.",
+    "read": "AI server backlog $43B up 342% YoY. Up 180% from $106 low. May 22 +15% D+0 on Vegas conference + HPE confirmation. Earnings TOMORROW May 28 after close \u2014 D+3. May 26 VS: 1 buy 2 sells = distribution into green day. Beat priced in \u2014 question is raise guidance or not. $50B AI server FY27 target. Watch for VS-WEAKNESS tomorrow before close = Signal 3.",
     "date": "2026-05-22",
     "expires": "2026-06-21",
     "watchlist": true,
@@ -258,7 +258,7 @@
   "MRVL": {
     "level": "ALERT",
     "label": "FTD D+1 \u2014 earnings Tuesday May 27 after close",
-    "read": "Custom AI silicon + optical interconnects for hyperscale datacenters. 50+ design wins across 10+ customers. AWS key supplier. NVIDIA NVLink Fusion integration. Up 102% YTD. Earnings Tuesday May 27 after close \u2014 same night as DELL. May 18 VS: 1D 4.96x on -6.63% \u2014 one seller, no buyers that day. Analyst avg PT $130 vs price $187 \u2014 running 30% above consensus. June 17 custom silicon investor event is the next major catalyst after earnings.",
+    "read": "Custom AI silicon + optical interconnects for hyperscale datacenters. 50+ design wins across 10+ customers. AWS key supplier. NVIDIA NVLink Fusion. Up 130% YTD. Earnings TONIGHT May 27 after close \u2014 Q1 FY27 consensus $2.40B rev $0.80 EPS. Options pricing \u00b111.78% move. May 26 VS: zero spikes all day \u2014 no pre-positioning tells. Gap direction tomorrow = FTD D+0 or stand aside. June 17 custom silicon investor event = next catalyst after earnings.",
     "date": "2026-05-22",
     "expires": "2026-06-21",
     "watchlist": true,
@@ -423,7 +423,7 @@
   "MU": {
     "level": "ALERT",
     "label": "FTD D+1 \u2014 UBS PT $1625 DRAM +125% supercycle",
-    "read": "HBM4 and DRAM for AI \u2014 every NVDA GPU needs MU memory. DRAM prices +58-63% this quarter +125% full year per Gartner. 1-alpha DRAM manufacturing started at Manassas Virginia \u2014 first advanced DRAM made in US. UBS PT raised $535\u2192$1,625 May 26 \u2014 most bullish target on Wall Street. +12% today closed AT the high \u2014 no distribution, full institutional absorption. Up 162% YTD. Boom/bust cycle warning from CNBC \u2014 watch DRAM supply timing.",
+    "read": "HBM4 and DRAM for AI \u2014 every NVDA GPU needs MU memory. DRAM prices +58-63% this quarter +125% full year per Gartner. UBS PT raised $535\u2192$1,625 May 26 \u2014 most bullish target on Street. +12% May 26 closed AT the high \u2014 no distribution, full institutional absorption. Re-entered position after selling into strength. 1-alpha DRAM manufacturing started at Manassas Virginia \u2014 first advanced DRAM made in US.",
     "date": "2026-05-27",
     "expires": "2026-06-26",
     "watchlist": true,
@@ -431,5 +431,24 @@
     "tier": "A1",
     "claude_signal": "WATCH",
     "claude_note": "FTD D+1 \u2014 closed at high on UBS upgrade + DRAM pricing surge | closed at high = no distribution | entry on pullback + VS-WEAKNESS | stop below today's low | DRAM boom/bust cycle = timing risk"
+  },
+  "TE": {
+    "level": "ALERT",
+    "label": "FTD D+0 \u2014 +26% today, need to research catalyst",
+    "read": "+26% today with VS-STRENGTH 3.6x at $10.10 then 3.13x at $10.29. Massive move on a small-cap stock. 511K shares at $10 = $5M DV. Need to identify catalyst. Currently in FTD watch.",
+    "date": "2026-05-26",
+    "expires": "2026-06-25",
+    "watchlist": true,
+    "tier": "C2",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+0 +26% \u2014 catalyst unknown | very small float | wait for VS-WEAKNESS to confirm institutional interest | high volatility"
+  },
+  "DRAM": {
+    "level": "NEWS",
+    "label": "VS-WEAKNESS 6.02x today \u2014 crypto DRAM sensor",
+    "read": "Crypto risk gauge. VS-WEAKNESS 6.02x at $59.94 on +13.5% day today \u2014 large institutional buy. May be responding to NAND/DRAM supercycle narrative. Sensor for crypto/memory risk appetite.",
+    "tier": "C2",
+    "claude_signal": "WATCH",
+    "claude_note": "Risk gauge | 6.02x today notable | watch alongside MARA COIN for risk appetite"
   }
 }
