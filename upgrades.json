@@ -24,7 +24,7 @@
   "AMD": {
     "level": "ALERT",
     "label": "FTD D+1 \u2014 ACCUM\u2605 resolved gap up $462.81",
-    "read": "ACCUM\u2605 resolved \u2014 gap up Friday $462.81 held. VWAP from 3-month high $465.97 \u2014 price $3 below it. High-price buyers near the high just underwater. May 18 VS-WEAKNESS 4.14x at $416 was the base \u2014 May 18 buyers sitting on $46 gain not selling. Break and hold above $465.97 = all buyers profitable = price discovery. Pre DV 1.5x+ above $465.97 Tuesday = entry. Data center +57% Q1, Lisa Su TAM $120B by 2030, Meta 6GW deployment.",
+    "read": "ACCUM\u2605 resolved \u2014 gap up Friday $462.81 held. VWAP from 3-month high $465.97 \u2014 price $3 below it. High-price buyers near the high just underwater. May 18 VS-WEAKNESS 4.14x at $416 was the base \u2014 May 18 buyers sitting on $46 gain not selling. Break and hold above $465.97 = all buyers profitable = price discovery. Pre DV 1.5x+ above $465.97 = entry. Data center +57% Q1, Lisa Su TAM $120B by 2030, Meta 6GW deployment.",
     "date": "2026-05-22",
     "expires": "2026-06-21",
     "watchlist": true,
@@ -108,7 +108,6 @@
     "label": "Watching \u2014 HVE distribution March 19",
     "read": "HVE March 19 = massive distribution INTO S&P 500 inclusion day. Structural bid was a one-time mechanical event \u2014 now done. Trading below 20-day vol average = no institutional bid. NVDA $2B investment thesis already priced in. FLAT until VS-WEAKNESS pattern rebuilds from scratch.",
     "lane_b": false,
-    "structural": false,
     "tier": "D",
     "claude_signal": "FLAT",
     "claude_note": "HVE March 19 = distribution completed into S&P inclusion | below 20-day vol avg = no new institutional bid | FLAT until VS-WEAKNESS pattern rebuilds | do not trade"
@@ -123,7 +122,7 @@
   },
   "CRDO": {
     "level": "ALERT",
-    "label": "FTD D+6 \u2014 AEC optical DSP AI datacenter",
+    "label": "FTD D+7 \u2014 AEC optical DSP AI datacenter",
     "read": "AEC cables + optical DSPs connect GPU racks. Q3 FY26 beat both lines \u2014 60%+ margins. Jefferies Franchise Picks. D+5 today \u2014 Pre DV 2.12x open DV 2.49x. Opening 5-min bar = high of day then sold off \u2014 gap-and-trap at new high. VS today: 4B 6D 4W \u2014 distribution dominant but 5.10x VS-WEAKNESS at $214 = Signal 3 fired. June 1 earnings binary in 6 days \u2014 30x P/S no room for miss.",
     "date": "2026-05-19",
     "expires": "2026-06-03",
@@ -131,7 +130,7 @@
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+6 \u2014 June 1 earnings binary | 30x P/S no margin for error | institutions buying dips confirmed May 18 | entry on pullback to $190-195 + VS confirmation | stop below pullback day low"
+    "claude_note": "FTD D+7 \u2014 June 1 earnings binary | 30x P/S no margin for error | institutions buying dips confirmed May 18 | entry on pullback to $190-195 + VS confirmation | stop below pullback day low"
   },
   "CRWD": {
     "level": "ALERT",
@@ -146,15 +145,15 @@
   },
   "DELL": {
     "level": "ALERT",
-    "label": "FTD D+2 \u2014 earnings Tuesday May 28 after close",
-    "read": "AI server backlog $43B up 342% YoY. Up 180% from $106 low. May 22 D+0 +15% on Vegas conference. Earnings TONIGHT May 28 after close \u2014 D+3. May 26 VS: 1B 2D \u2014 distribution into green day. Beat priced in at 94% probability. Question is $50B AI server FY27 target raise or not. Watch for VS-WEAKNESS today before close = Signal 3 = pre-earnings entry.",
+    "label": "FTD D+3 \u2014 earnings tonight May 28 after close",
+    "read": "AI server backlog $43B up 342% YoY. Up 180% from $106 low. May 22 D+0 +15% on Vegas conference. Earnings tonight May 28 after close. May 26 VS: 1B 2D \u2014 distribution into green day. Beat priced in at 94% probability. Question is $50B AI server FY27 target raise or not. Gap direction tomorrow = FTD D+0 continuation or stand aside.",
     "date": "2026-05-22",
     "expires": "2026-06-21",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "D+3 earnings tonight | VS-WEAKNESS today = Signal 3 = entry before the number | Stop spike bar low | Gap direction tomorrow = FTD D+0 continuation or stand aside"
+    "claude_note": "Earnings tonight | gap direction tomorrow = new D+0 or stand aside | VS-WEAKNESS today = Signal 3 = pre-earnings entry | stop spike bar low"
   },
   "FLNC": {
     "level": "ELEVATED",
@@ -231,12 +230,20 @@
     "claude_note": "FTD D+2 from funding catalyst | May 10 POC level = key support | VS battle May 18 resolved bullish | entry on pullback to $48-49 + VS-WEAKNESS | stop below battle zone low"
   },
   "IREN": {
-    "level": "NEWS",
-    "label": "Crypto risk gauge \u2014 high beta sensor",
-    "read": "High beta crypto miner used as risk appetite gauge. When IREN bids with semis confirms broad risk-on spectrum. May 18 showed DIST 6.70x on -6.92% \u2014 distribution signal on that specific day. Monitor as risk sensor not primary trade vehicle.",
-    "tier": "C2",
+    "level": "ALERT",
+    "label": "FTD D+15 \u2014 gap-and-trap resolution $73.11",
+    "read": "May 6 AH spike +28% to $73.11 = classic gap-and-trap. Anchored VWAP from May 6 = $57.63. Current ~$67.75 = above VWAP, average May 6 buyer profitable. Supply zone $68-73.11 = trapped AH buyers waiting to exit at breakeven. Two supply walls: $68-73 (AH buyers underwater) then $73.11+ (price discovery). Higher beta crypto miner used as risk appetite gauge. VS-DIST at $73 = supply still heavy. VS-WEAKNESS absorbing at $73 = trap clearing. Break above $73.11 on volume = new D+0.",
+    "date": "2026-05-06",
+    "expires": "2026-06-05",
+    "watchlist": true,
+    "trap_level": 73.11,
+    "anchored_vwap": 57.63,
+    "vwap_anchor_date": "2026-05-06",
+    "supply_zone_low": 68.0,
+    "supply_zone_high": 73.11,
+    "tier": "B2",
     "claude_signal": "WATCH",
-    "claude_note": "Risk gauge only | DIST on May 18 = caution | not a primary trade vehicle"
+    "claude_note": "Gap-and-trap resolution watch | $73.11 = true trap level | VWAP $57.63 = average May 6 buyer now profitable | supply zone $68-73 | VS-WEAKNESS absorbing at $73 = entry signal | break above $73.11 on volume = new D+0 | stop below entry bar low"
   },
   "LITE": {
     "level": "NEWS",
@@ -257,7 +264,7 @@
   },
   "MRVL": {
     "level": "ALERT",
-    "label": "FTD D+0 \u2014 beat + raise, new high premarket",
+    "label": "FTD D+1 \u2014 beat + raise, new high premarket",
     "read": "Custom AI silicon + optical interconnects \u2014 NVIDIA makes the cars, MRVL builds the roads. Q1 FY2027 beat expectations. Pre DV 1.92x at new high premarket = market pricing strong result. FY2027 revenue raised toward $11B (30%+ YoY), FY2028 projected $15B (40% YoY). 20+ custom AI chip design wins entering production FY2028-29. Data center +40% YoY guided. NVDA $2B investment. AWS Trainium + Microsoft Azure silicon customer. Zero VS activity May 26 = cold going in. Gap up confirmed beat. June 17 custom silicon investor event = next catalyst.",
     "date": "2026-05-28",
     "expires": "2026-06-27",
@@ -265,7 +272,19 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+0 fresh \u2014 Pre DV 1.92x new high = Rule A candidate at 9:35 | CLV \u2265 0.3 = ENTRY SIGNAL A | Stop below prior day high | June 17 investor event = Stage 2 catalyst"
+    "claude_note": "FTD D+1 fresh \u2014 Pre DV 1.92x new high = Rule A candidate at 9:35 | CLV \u2265 0.3 = ENTRY SIGNAL A | Stop below prior day high | June 17 investor event = Stage 2 catalyst"
+  },
+  "MU": {
+    "level": "ALERT",
+    "label": "FTD D+2 \u2014 UBS PT $1625 DRAM +125% supercycle",
+    "read": "HBM4 and DRAM for AI \u2014 every NVDA GPU needs MU memory. DRAM prices +58-63% this quarter +125% full year per Gartner. UBS PT raised $535\u2192$1,625 May 26 \u2014 most bullish target on Street. +12% May 26 closed AT the high \u2014 no distribution, full institutional absorption. Re-entered position after selling into strength. 1-alpha DRAM manufacturing started at Manassas Virginia \u2014 first advanced DRAM made in US.",
+    "date": "2026-05-27",
+    "expires": "2026-06-26",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "A1",
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+2 \u2014 closed at high on UBS upgrade + DRAM pricing surge | closed at high = no distribution | entry on pullback + VS-WEAKNESS | stop below May 27 low | DRAM boom/bust cycle = timing risk"
   },
   "NBIS": {
     "level": "ALERT",
@@ -302,6 +321,26 @@
     "tier": "B2",
     "claude_signal": "WATCH",
     "claude_note": "Extended D+16 | 12.78x spike May 18 = highest conviction buy of the day | wait for pullback to post-earnings base + VS-WEAKNESS | stop below spike low"
+  },
+  "ONDS": {
+    "level": "ALERT",
+    "label": "FTD D+9 BASING \u2014 AI defense drone + trap resolution watch",
+    "read": "May 14 D+0: Q1 revenue $50.1M (10x YoY, crushed $39.4M estimate), swung to $361.3M net profit, raised 2026 guide to $390M minimum ($457M backlog). Intraday spiked to $12.12 high, closed $11.21 \u2014 classic gap-and-trap. Two supply walls overhead: anchored VWAP $10.26 (average May 14 buyer underwater) and intraday trap $12.12. Today May 27 +8.75% to ~$10.63 \u2014 VWAP $10.26 reclaimed for first time. Higher lows holding at $9.00 for 9 trading days = accumulation base. Omnisys acquisition (Israeli AI defense) completed \u2014 orchestration layer thesis. Needham Buy $23 PT. Risk: insider selling May 19+22, prospectus for acquisition share resale = dilution overhang. Next catalyst: Q2 earnings Aug 17.",
+    "date": "2026-05-14",
+    "expires": "2026-06-13",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "B1",
+    "trap_level": 12.12,
+    "trap_close": 11.21,
+    "anchored_vwap": 10.26,
+    "vwap_anchor_date": "2026-05-14",
+    "supply_zone_1": 10.26,
+    "supply_zone_2_low": 11.21,
+    "supply_zone_2_high": 12.12,
+    "base_support": 9.00,
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+9 BASING \u2014 VWAP $10.26 reclaimed today (first time since D+0) | Supply map: $10.26 VWAP (cleared today) \u2192 $11.21 close trap \u2192 $12.12 intraday trap | Rule A candidate tomorrow: Pre DV 1.5x+ above $11.21 + CLV \u2265 0.3 = entry | Stop below today's close | Insider selling + prospectus overhang = size small | VS-WEAKNESS near $10.26-$11.21 = accumulation confirmed | VS-DIST dominant = thesis failing"
   },
   "PLTR": {
     "level": "NEWS",
@@ -384,6 +423,15 @@
     "claude_signal": "WATCH",
     "claude_note": "Extended D+19 | nearline fully allocated = pricing power | 0 VS May 18 = institutions already positioned | pullback + VS-WEAKNESS = entry | high leverage risk"
   },
+  "TE": {
+    "level": "NEWS",
+    "label": "T1 Energy short squeeze \u2014 remove after squeeze completes",
+    "read": "+26% May 26 with VS-STRENGTH 3.6x at $10.10 then 3.13x at $10.29. Confirmed T1 Energy short squeeze. Very small float, high volatility. Remove from watchlist after squeeze completes \u2014 not a fundamental thesis trade.",
+    "watchlist": false,
+    "tier": "C2",
+    "claude_signal": "FLAT",
+    "claude_note": "Short squeeze confirmed | do not chase | remove from watchlist after squeeze completes"
+  },
   "TER": {
     "level": "ALERT",
     "label": "FTD D+6 \u2014 semiconductor test equipment",
@@ -419,29 +467,6 @@
     "tier": "B2",
     "claude_signal": "WATCH",
     "claude_note": "FTD D+6 | VS buying May 18 confirmed | entry on pullback + VS-WEAKNESS | SNDK preferred as pure-play | stop below May 21 low"
-  },
-  "MU": {
-    "level": "ALERT",
-    "label": "FTD D+1 \u2014 UBS PT $1625 DRAM +125% supercycle",
-    "read": "HBM4 and DRAM for AI \u2014 every NVDA GPU needs MU memory. DRAM prices +58-63% this quarter +125% full year per Gartner. UBS PT raised $535\u2192$1,625 May 26 \u2014 most bullish target on Street. +12% May 26 closed AT the high \u2014 no distribution, full institutional absorption. Re-entered position after selling into strength. 1-alpha DRAM manufacturing started at Manassas Virginia \u2014 first advanced DRAM made in US.",
-    "date": "2026-05-27",
-    "expires": "2026-06-26",
-    "watchlist": true,
-    "lane_b": true,
-    "tier": "A1",
-    "claude_signal": "WATCH",
-    "claude_note": "FTD D+1 \u2014 closed at high on UBS upgrade + DRAM pricing surge | closed at high = no distribution | entry on pullback + VS-WEAKNESS | stop below today's low | DRAM boom/bust cycle = timing risk"
-  },
-  "TE": {
-    "level": "ALERT",
-    "label": "FTD D+0 \u2014 +26% today, need to research catalyst",
-    "read": "+26% today with VS-STRENGTH 3.6x at $10.10 then 3.13x at $10.29. Massive move on a small-cap stock. 511K shares at $10 = $5M DV. Need to identify catalyst. Currently in FTD watch.",
-    "date": "2026-05-26",
-    "expires": "2026-06-25",
-    "watchlist": true,
-    "tier": "C2",
-    "claude_signal": "WATCH",
-    "claude_note": "FTD D+0 +26% \u2014 catalyst unknown | very small float | wait for VS-WEAKNESS to confirm institutional interest | high volatility"
   },
   "DRAM": {
     "level": "NEWS",
