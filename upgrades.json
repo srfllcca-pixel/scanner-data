@@ -147,14 +147,14 @@
   "DELL": {
     "level": "ALERT",
     "label": "FTD D+2 \u2014 earnings Tuesday May 28 after close",
-    "read": "AI server backlog $43B up 342% YoY. Up 180% from $106 low. May 22 +15% D+0 on Vegas conference + HPE confirmation. Earnings TOMORROW May 28 after close \u2014 D+3. May 26 VS: 1 buy 2 sells = distribution into green day. Beat priced in \u2014 question is raise guidance or not. $50B AI server FY27 target. Watch for VS-WEAKNESS tomorrow before close = Signal 3.",
+    "read": "AI server backlog $43B up 342% YoY. Up 180% from $106 low. May 22 D+0 +15% on Vegas conference. Earnings TONIGHT May 28 after close \u2014 D+3. May 26 VS: 1B 2D \u2014 distribution into green day. Beat priced in at 94% probability. Question is $50B AI server FY27 target raise or not. Watch for VS-WEAKNESS today before close = Signal 3 = pre-earnings entry.",
     "date": "2026-05-22",
     "expires": "2026-06-21",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+2 \u2014 earnings Tuesday after close | VS-WEAKNESS Tuesday = Signal 3 = entry before earnings | stop spike bar low | Wednesday gap direction = post-earnings entry decision"
+    "claude_note": "D+3 earnings tonight | VS-WEAKNESS today = Signal 3 = entry before the number | Stop spike bar low | Gap direction tomorrow = FTD D+0 continuation or stand aside"
   },
   "FLNC": {
     "level": "ELEVATED",
@@ -257,15 +257,15 @@
   },
   "MRVL": {
     "level": "ALERT",
-    "label": "FTD D+1 \u2014 earnings Tuesday May 27 after close",
-    "read": "Custom AI silicon + optical interconnects for hyperscale datacenters. 50+ design wins across 10+ customers. AWS key supplier. NVIDIA NVLink Fusion. Up 130% YTD. Earnings TONIGHT May 27 after close \u2014 Q1 FY27 consensus $2.40B rev $0.80 EPS. Options pricing \u00b111.78% move. May 26 VS: zero spikes all day \u2014 no pre-positioning tells. Gap direction tomorrow = FTD D+0 or stand aside. June 17 custom silicon investor event = next catalyst after earnings.",
-    "date": "2026-05-22",
-    "expires": "2026-06-21",
+    "label": "FTD D+0 \u2014 beat + raise, new high premarket",
+    "read": "Custom AI silicon + optical interconnects \u2014 NVIDIA makes the cars, MRVL builds the roads. Q1 FY2027 beat expectations. Pre DV 1.92x at new high premarket = market pricing strong result. FY2027 revenue raised toward $11B (30%+ YoY), FY2028 projected $15B (40% YoY). 20+ custom AI chip design wins entering production FY2028-29. Data center +40% YoY guided. NVDA $2B investment. AWS Trainium + Microsoft Azure silicon customer. Zero VS activity May 26 = cold going in. Gap up confirmed beat. June 17 custom silicon investor event = next catalyst.",
+    "date": "2026-05-28",
+    "expires": "2026-06-27",
     "watchlist": true,
     "lane_b": true,
-    "tier": "A2",
+    "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "Earnings Tuesday after close | beat + raise = gap up Wednesday = FTD D+0 entry | miss = sharp pullback at 30x above consensus | VS-WEAKNESS Tuesday before close = Signal 3"
+    "claude_note": "FTD D+0 fresh \u2014 Pre DV 1.92x new high = Rule A candidate at 9:35 | CLV \u2265 0.3 = ENTRY SIGNAL A | Stop below prior day high | June 17 investor event = Stage 2 catalyst"
   },
   "NBIS": {
     "level": "ALERT",
