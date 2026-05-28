@@ -525,5 +525,21 @@
     "tier": "C2",
     "claude_signal": "WATCH",
     "claude_note": "Risk gauge | 2D vs 1W today | watch alongside MARA COIN"
+  },
+  "RCAT": {
+    "level": "ALERT",
+    "label": "FTD D+0 — Trump drone funding + NDAA Section 1709 pure-play",
+    "read": "Only NDAA-compliant pure-play drone manufacturer in the US — Section 1709 FY25 NDAA bans foreign drone components from DoD procurement, eliminating DJI and Chinese competitors entirely. Black Widow ISR system = sole provider for US Army Short Range Reconnaissance Program. Palantir partnership for AI navigation. Japan Ministry of Defense contract May 21 — 173 Black Widow systems, second Asia-Pacific military customer after Australia. NATO ally contract (undisclosed). Pentagon Drone Dominance Program award. Blue Ops maritime division + Apium swarm robotics acquisition — moving up value chain. Today May 27: Trump pursuing drone funding deals with domestic producers — sector catalyst. Renaissance Technologies added 1.4M shares Q1 2026. Analyst PT $19.50-$20. M30 bar today: open $10.00 high $10.10 low $9.68 close $10.05 — CLV 0.88 clean bar. 9% ADR — wide stops, size accordingly. LoD $9.68 = stop reference. Risk: small float, binary on contract announcements, wide bid/ask.",
+    "date": "2026-05-27",
+    "expires": "2026-06-26",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "B1",
+    "lod_stop": 9.68,
+    "m30_clv": 0.88,
+    "adr_pct": 9.0,
+    "prior_high": 10.1,
+    "claude_signal": "WATCH",
+    "claude_note": "FTD D+0 — Trump drone funding catalyst today | NDAA Section 1709 = Chinese competitor ban = structural moat | M30 CLV 0.88 = clean bar, not a gap-and-trap | Rule A tomorrow: Pre DV 1.5x+ above $10.10 + CLV ≥ 0.3 = entry | LoD $9.68 = hard stop | 9% ADR = size at 25-30% normal | Jeff Sun LoD dist check: entry must be < 50% ATR above $9.68 | VS-WEAKNESS near prior high = accumulation | VS-DIST = supply heavy"
   }
 }
