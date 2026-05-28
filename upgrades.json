@@ -296,7 +296,7 @@
   },
   "MRVL": {
     "level": "ALERT",
-    "label": "FTD D+1 — beat tonight mixed tape today",
+    "label": "FTD D+1 — beat confirmed, sell-the-news premarket",
     "read": "Q1 FY2027 beat: revenue $2.418B new record +28% YoY, $18M above guidance midpoint. Non-GAAP EPS $0.80. Q2 guide: EPS $0.93 ±$0.05 — strong raise. NVDA $2B investment + NVLink Fusion partnership. Today tape mixed: WEAKNESS 11:02 (3.06x -4.96%) and 14:08 (4.47x -3.81%) vs DIST 13:21 and SELLING 15:06 + 15:28. 2W vs 3S/D — not a clean D+1. Beat tonight = gap up tomorrow = true D+0 retest. June 17 custom silicon investor event = Stage 2.",
     "date": "2026-05-28",
     "expires": "2026-06-27",
@@ -304,7 +304,7 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "Beat confirmed tonight | gap up tomorrow = D+1 Rule A | 2W vs 3D today = mixed, gap confirms or denies | Pre DV 1.5x+ above prior high = Rule A at 9:35 | CLV ≥ 0.3 = ENTRY | stop below gap open | June 17 investor event Stage 2"
+    "claude_note": "Beat confirmed Q1 $2.418B +28% YoY | BUT dropping premarket = sell-the-news | DO NOT buy pre or at open | Wait for VS-WEAKNESS on open dip = institutional absorption | Rule A LIKELY FADED today | If VS-WEAKNESS 3x+ appears mid-morning = entry signal | June 17 investor event = Stage 2 catalyst"
   },
   "MU": {
     "level": "ALERT",
@@ -320,15 +320,15 @@
   },
   "NBIS": {
     "level": "ALERT",
-    "label": "FTD D+9 — neocloud mixed 2W 2D",
+    "label": "FTD D+1 — Situational Awareness 5.6% + 52-week high $240.89",
     "read": "Neocloud AI datacenter. Today May 27: WEAKNESS 11:31 (3.05x), WEAKNESS 11:31 — but also DIST 10:27 and DIST 13:28. 2W vs 2D mixed. DA Davidson downgrade + $122.8M insider selling still overhang.",
-    "date": "2026-05-13",
+    "date": "2026-05-27",
     "expires": "2026-06-12",
     "watchlist": true,
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "2W vs 2D mixed today | insider selling overhang | wait for VS-WEAKNESS to dominate before entry"
+    "claude_note": "Situational Awareness fund 5.6% = highest conviction AI investor | $13.7B AUM, top holdings 100-800% returns | 52-week high $240.89 yesterday = price discovery | Rule A today: Pre DV 1.5x+ above $240.89 = entry | CLV ≥ 0.3 = ENTRY | stop below gap open | DA Davidson downgrade + insider selling = old thesis, Aschenbrenner = new thesis"
   },
   "NVDA": {
     "level": "ALERT",
@@ -437,17 +437,17 @@
   },
   "SNOW": {
     "level": "ALERT",
-    "label": "FTD D+0 TONIGHT — beat +34% product revenue $1.33B",
+    "label": "FTD D+0 TODAY — beat +34% AH +37.5% to $241",
     "read": "Q1 FY2027 blowout: product revenue $1.33B +34% YoY — strongest sequential dollar growth in Snowflake history. Total revenue $1.39B +33%. Net revenue retention 126%. RPO $9.21B +38%. Largest deal in company history ($400M+ TCV). Seven 9-figure contracts vs two prior year. Q2 guide: product rev $1.415-1.420B +30% YoY. Full year raised. 9,100+ accounts using AI. Today pre-earnings: VS-WEAKNESS 6.48x at 11:37 (-0.46%, $10.7M) — PRE-EARNINGS ACCUMULATION signal confirmed. AH ~$177. Tomorrow = new D+0. Prior close ~$175. Watch Rule A at 9:35 for CLV confirmation.",
     "date": "2026-05-28",
     "expires": "2026-06-27",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
-    "trap_level": 178.0,
+    "trap_level": 241.0,
     "pre_earnings_spike": "6.48x at 11:37 confirmed beat",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+0 tomorrow — pre-earnings 6.48x WEAKNESS confirmed the print | Rule A at 9:35: CLV ≥ 0.3 = ENTRY | CLV < 0.3 = gap-and-trap stand aside | AH trap reference $178 | stop below gap open | June 4 binary risk = CIEN same day"
+    "claude_note": "FTD D+0 — AH +37.5% to $241 | pre-earnings 6.48x WEAKNESS confirmed the print | Rule A at 9:35: CLV ≥ 0.3 = ENTRY above first bar high | CLV < 0.3 = gap-and-trap at $241 — stand aside | AH trap reference $241 | stop below gap open | MASSIVE gap — position size 25-30% normal | PCE + Iran = tape risk, wait for SPY OR confirmation first"
   },
   "SNDK": {
     "level": "ALERT",
