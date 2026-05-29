@@ -13,13 +13,14 @@
   },
   "ALAB": {
     "level": "ALERT",
-    "label": "AI network switch silicon \u2014 hyperscaler direct",
+    "label": "FTD D+7 \u2014 3 STRENGTH today, AI network silicon",
     "read": "Custom AI network switch silicon sold direct to hyperscalers. AWS Google Meta Microsoft all buying. Today May 27: VS-DIST 8.02x at 10:42 early then STRENGTH 4.14x at 14:25 late \u2014 distribution absorbed by late strength. Mixed signal, net slightly positive.",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "Pure-play AI network silicon | DIST 8.02x early then STRENGTH 4.14x late = supply absorbed | watch for VS-WEAKNESS = entry"
+    "claude_note": "3 VS-STRENGTH today (3.27x, 5.75x, 3.09x) = institutional loading | DIST early overridden by afternoon STRENGTH | AI network switch silicon = every hyperscaler buying | Rule A: Pre DV 1.5x+ = entry | CLV \u2265 0.3 | stop below today's low",
+    "date": "2026-05-28"
   },
   "AMD": {
     "level": "ALERT",
@@ -47,15 +48,15 @@
   },
   "ARM": {
     "level": "ALERT",
-    "label": "FTD D+7 \u2014 12-day base breakout contested tape",
+    "label": "FTD D+1 \u2014 +13.64% yesterday, heavy selling into close",
     "read": "May 19 NVDA halo breakout. Today May 27: 4 WEAKNESS spikes vs 4 SELLING/DIST \u2014 perfectly contested. 5.17x WEAKNESS at 13:24 (-5.11%) absorbed by DIST. Stock -5% day with equal buying and selling = supply/demand battle at key level. Not clean.",
-    "date": "2026-05-19",
+    "date": "2026-05-29",
     "expires": "2026-06-18",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+7 \u2014 4W vs 4D today = contested, not clean | -5% day with both sides | wait for VS-WEAKNESS to dominate before entry | stop below May 19 breakout low"
+    "claude_note": "D+1 after +13.64% | STRENGTH 3.76x at 12:14 = the move | BUT: SELLING 5.52x at 15:12 + 5.54x at 15:17 = heavy distribution into close | Capital preservation: watch CLV at 9:35 carefully | CLV < 0.3 = gap-and-trap, do not enter | Wait for VS-WEAKNESS on any morning dip before considering | Stop: below yesterday's close"
   },
   "ASML": {
     "level": "ALERT",
@@ -122,15 +123,15 @@
   },
   "CRDO": {
     "level": "ALERT",
-    "label": "FTD D+8 \u2014 4W clean accumulation June 1 binary",
+    "label": "FTD D+9 \u2014 4B 0S today, June 1 binary in 3 days",
     "read": "4 consecutive VS-WEAKNESS spikes today (11:40, 13:37, 13:59, 14:23) \u2014 all into red day (-0.84% to -3.98%). Zero distribution. Cleanest accumulation pattern of the week. June 1 earnings binary in 4 days. 30x P/S no margin for miss.",
-    "date": "2026-05-19",
+    "date": "2026-05-28",
     "expires": "2026-06-03",
     "watchlist": true,
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "4W 0D = cleanest accumulation today | June 1 binary in 4 days | entry on pullback to $210-215 + VS-WEAKNESS | stop below spike low | size small into earnings"
+    "claude_note": "4 VS-STRENGTH spikes today zero distribution = cleanest accumulation in watchlist | 7.37x at 12:40 = highest conviction today | June 1 earnings binary in 3 days | Pre DV 1.5x+ = Rule A watch | CLV \u2265 0.3 = entry | Size small \u2014 June 1 binary risk | stop below today's low | 30x P/S = no margin for miss on print"
   },
   "CRWD": {
     "level": "ALERT",
@@ -155,15 +156,16 @@
   },
   "DELL": {
     "level": "ALERT",
-    "label": "FTD D+3 \u2014 4 STRENGTH spikes pre-earnings tonight",
+    "label": "FTD D+0 \u2014 blowout earnings +38% gap, AI server $16.1B",
     "read": "AI server backlog $43B. Today May 27: 4 consecutive VS-STRENGTH (13:19, 13:48, 14:13, 14:48) into green day \u2014 classic pre-earnings institutional loading. DELL closed near highs. Earnings tonight after close. Gap direction tomorrow = new D+0 or stand aside. $50B FY27 guide raise = the question.",
-    "date": "2026-05-22",
+    "date": "2026-05-29",
     "expires": "2026-06-21",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "4 STRENGTH pre-earnings = institutions loaded tonight | gap up = new D+0 Rule A tomorrow | gap down = distribution confirmed stand aside | stop spike bar low on any entry"
+    "claude_note": "Q1 FY2027 blowout: revenue $43.84B beat $35.77B consensus | EPS $4.86 vs $2.96 | AI server revenue $16.1B +757% YoY | backlog $51.3B | FY27 guide raised $165-169B vs prior $138-142B | 4 STRENGTH spikes May 27 pre-earnings = accumulation confirmed | Today gap +34% = new D+0 | CLV \u2265 0.3 at 9:35 = entry | size 25% normal \u2014 massive gap | Trap reference: overnight high $437.50 | stop below gap open",
+    "trap_level": 437.5
   },
   "FLNC": {
     "level": "ELEVATED",
@@ -253,7 +255,7 @@
     "level": "ALERT",
     "label": "FTD D+16 \u2014 trap thesis confirmed CLV=0 at high",
     "read": "May 6 AH spike to $73.11 = gap-and-trap. Anchored VWAP $57.63. Today May 27: STRENGTH 3.21x at 12:02 (+7.61%, CLV 0.92) = buyers pushing. Then SELLING 4.3x at 12:26 (+8.51%, CLV 0.0) = close at LOW of bar on up day \u2014 trapped AH buyers selling into strength at breakeven. This is the trap thesis confirmed. Supply zone $68-73.11. Current ~$64-65 = below supply zone.",
-    "date": "2026-05-06",
+    "date": "2026-05-28",
     "expires": "2026-06-05",
     "watchlist": true,
     "trap_level": 73.11,
@@ -263,7 +265,7 @@
     "supply_zone_high": 73.11,
     "tier": "B2",
     "claude_signal": "WATCH",
-    "claude_note": "Trap confirmed \u2014 CLV=0 selling at high = trapped buyers exiting | $73.11 = true trap | STRENGTH then SELLING pattern = supply not cleared | VS-WEAKNESS absorbing at $73 = entry signal | break $73.11 = new D+0"
+    "claude_note": "Stop held $63.75 | Position alive: entry $62.75 | DELL +38% = $16.1B AI server revenue = all NVDA Blackwell | IREN $1.6B Dell Blackwell contract + $3.6B Microsoft datacenter | NVDA warrant $70 = institutional floor | VS today: 1W vs 2 SELLING \u2014 distribution present | Today: fresh 24hr LoD = new LoD dist calculation | Watch for VS-WEAKNESS near $63-65 = absorption signal | Rule C: break above $73.11 overnight high + DV 1.5x + CLV \u2265 0.3 = entry"
   },
   "LITE": {
     "level": "ALERT",
@@ -296,15 +298,15 @@
   },
   "MRVL": {
     "level": "ALERT",
-    "label": "FTD D+1 \u2014 beat confirmed, sell-the-news premarket",
+    "label": "FTD D+1 \u2014 beat confirmed, 3 PT raises overnight",
     "read": "Q1 FY2027 beat: revenue $2.418B new record +28% YoY, $18M above guidance midpoint. Non-GAAP EPS $0.80. Q2 guide: EPS $0.93 \u00b1$0.05 \u2014 strong raise. NVDA $2B investment + NVLink Fusion partnership. Today tape mixed: WEAKNESS 11:02 (3.06x -4.96%) and 14:08 (4.47x -3.81%) vs DIST 13:21 and SELLING 15:06 + 15:28. 2W vs 3S/D \u2014 not a clean D+1. Beat tonight = gap up tomorrow = true D+0 retest. June 17 custom silicon investor event = Stage 2.",
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "expires": "2026-06-27",
     "watchlist": true,
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "Beat confirmed Q1 $2.418B +28% YoY | BUT dropping premarket = sell-the-news | DO NOT buy pre or at open | Wait for VS-WEAKNESS on open dip = institutional absorption | Rule A LIKELY FADED today | If VS-WEAKNESS 3x+ appears mid-morning = entry signal | June 17 investor event = Stage 2 catalyst"
+    "claude_note": "Beat confirmed: $2.418B +28% YoY | EPS $0.80 | Q2 guide $0.93 | PT raises: Oppenheimer $250 | B. Riley $240 | Rosenblatt $240 | Yesterday: sell-the-news flat | Today: PT raises = potential reversal | VS-SELLING premarket yesterday = was warning | STRENGTH 3.76x at 12:31 + 4.07x at 15:25 = buyers returned | Rule A: Pre DV 1.5x+ above prior high | CLV \u2265 0.3 = entry | June 17 investor event = Stage 2"
   },
   "MU": {
     "level": "ALERT",
@@ -320,15 +322,15 @@
   },
   "NBIS": {
     "level": "ALERT",
-    "label": "FTD D+1 \u2014 Situational Awareness 5.6% + 52-week high $240.89",
+    "label": "FTD D+2 \u2014 3 STRENGTH today, Situational Awareness confirmed",
     "read": "Neocloud AI datacenter. Today May 27: WEAKNESS 11:31 (3.05x), WEAKNESS 11:31 \u2014 but also DIST 10:27 and DIST 13:28. 2W vs 2D mixed. DA Davidson downgrade + $122.8M insider selling still overhang.",
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "expires": "2026-06-12",
     "watchlist": true,
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "Situational Awareness fund 5.6% = highest conviction AI investor | $13.7B AUM, top holdings 100-800% returns | 52-week high $240.89 yesterday = price discovery | Rule A today: Pre DV 1.5x+ above $240.89 = entry | CLV \u2265 0.3 = ENTRY | stop below gap open | DA Davidson downgrade + insider selling = old thesis, Aschenbrenner = new thesis"
+    "claude_note": "3 VS-STRENGTH today (5.2x, 3.69x, 6.0x) = institutional conviction | Situational Awareness 5.6% = highest conviction AI investor | 52-week high $240.89 = price discovery | Rule A: Pre DV 1.5x+ above prior high | CLV \u2265 0.3 = entry | DA Davidson downgrade = old thesis, Aschenbrenner = new thesis"
   },
   "NVDA": {
     "level": "ALERT",
@@ -376,15 +378,15 @@
   },
   "ORCL": {
     "level": "ALERT",
-    "label": "FTD D+32 BASING \u2014 10.03x accumulation June 16",
+    "label": "FTD D+33 BASING \u2014 3 consecutive conviction days, June 16",
     "read": "Oracle AI cloud and database. D+32 from April 13 consolidating after May 13 new high. Today May 27: 10.03x VS-WEAKNESS at 14:13 (-1.75%, $12.8M) \u2014 highest conviction ORCL buy seen in months. 3 total WEAKNESS vs 1 DIST 1 SELLING. This is the tell. June 16 earnings = next binary catalyst. 10.87x VS-WEAKNESS on May 26 = two consecutive days of institutional loading. Oracle Cloud revenue growing 21% \u2014 enterprise AI workloads = secular tailwind.",
-    "date": "2026-04-13",
+    "date": "2026-05-28",
     "expires": "2026-06-16",
     "watchlist": true,
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "D+32 BASING \u2014 10.03x today + 10.87x yesterday = 2 consecutive conviction buys | June 16 earnings = binary | entry on pullback + VS-WEAKNESS | stop below today's low | add to watchlist priority"
+    "claude_note": "3 consecutive days: 10.87x May 26 + 10.03x May 27 + STRENGTH 3.47x May 28 | June 16 earnings = binary | institutions loading 3 weeks out | ORCL STRENGTH 6.47x at 13:50 today = afternoon conviction | Pre DV 1.5x+ = Rule A | CLV \u2265 0.3 = entry | Stop below today's low | June 16 = Stage 2"
   },
   "PLTR": {
     "level": "NEWS",
@@ -438,9 +440,9 @@
   },
   "SNOW": {
     "level": "ALERT",
-    "label": "FTD D+0 TODAY \u2014 beat +34% AH +37.5% to $241",
+    "label": "FTD D+1 \u2014 beat confirmed, gap-and-trap or continuation?",
     "read": "Q1 FY2027 blowout: product revenue $1.33B +34% YoY \u2014 strongest sequential dollar growth in Snowflake history. Total revenue $1.39B +33%. Net revenue retention 126%. RPO $9.21B +38%. Largest deal in company history ($400M+ TCV). Seven 9-figure contracts vs two prior year. Q2 guide: product rev $1.415-1.420B +30% YoY. Full year raised. 9,100+ accounts using AI. Today pre-earnings: VS-WEAKNESS 6.48x at 11:37 (-0.46%, $10.7M) \u2014 PRE-EARNINGS ACCUMULATION signal confirmed. AH ~$177. Tomorrow = new D+0. Prior close ~$175. Watch Rule A at 9:35 for CLV confirmation.",
-    "date": "2026-05-28",
+    "date": "2026-05-29",
     "expires": "2026-06-27",
     "watchlist": true,
     "lane_b": true,
@@ -448,7 +450,7 @@
     "trap_level": 241.0,
     "pre_earnings_spike": "6.48x at 11:37 confirmed beat",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+0 \u2014 AH +37.5% to $241 | pre-earnings 6.48x WEAKNESS confirmed the print | Rule A at 9:35: CLV \u2265 0.3 = ENTRY above first bar high | CLV < 0.3 = gap-and-trap at $241 \u2014 stand aside | AH trap reference $241 | stop below gap open | MASSIVE gap \u2014 position size 25-30% normal | PCE + Iran = tape risk, wait for SPY OR confirmation first"
+    "claude_note": "D+1 today \u2014 yesterday: SELLING 4.6x at open (CLV=0.05) = gap-and-trap | STRENGTH 3.3x mid-day = recovery buyers | SELLING 3.6x into close = distribution still present | Today: CLV at 9:35 = the only decision | CLV \u2265 0.3 = D+1 continuation entry | CLV < 0.3 = still trapped, stand aside | AH trap reference $241 | stop below today's open"
   },
   "SNDK": {
     "level": "ALERT",
