@@ -56,7 +56,8 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "D+1 after +13.64% | STRENGTH 3.76x at 12:14 = the move | BUT: SELLING 5.52x at 15:12 + 5.54x at 15:17 = heavy distribution into close | Capital preservation: watch CLV at 9:35 carefully | CLV < 0.3 = gap-and-trap, do not enter | Wait for VS-WEAKNESS on any morning dip before considering | Stop: below yesterday's close"
+    "claude_note": "D+1 after +13.64% | STRENGTH 3.76x at 12:14 = the move | BUT: SELLING 5.52x at 15:12 + 5.54x at 15:17 = heavy distribution into close | Capital preservation: watch CLV at 9:35 carefully | CLV < 0.3 = gap-and-trap, do not enter | Wait for VS-WEAKNESS on any morning dip before considering | Stop: below yesterday's close | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   },
   "ASML": {
     "level": "ALERT",
@@ -80,7 +81,8 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "Distribution thesis DENIED today \u2014 3 STRENGTH on +1.8% day | June 3 binary in 6 days \u2014 institutions reloading | Rule A: Pre DV 1.5x+ above prior high = entry | CLV \u2265 0.3 at 9:35 = ENTRY | stop below today's low | Size small \u2014 June 3 binary risk | watch CLV carefully"
+    "claude_note": "Distribution thesis DENIED today \u2014 3 STRENGTH on +1.8% day | June 3 binary in 6 days \u2014 institutions reloading | Rule A: Pre DV 1.5x+ above prior high = entry | CLV \u2265 0.3 at 9:35 = ENTRY | stop below today's low | Size small \u2014 June 3 binary risk | watch CLV carefully | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   },
   "BE": {
     "level": "ELEVATED",
@@ -131,7 +133,8 @@
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "4 VS-STRENGTH spikes today zero distribution = cleanest accumulation in watchlist | 7.37x at 12:40 = highest conviction today | June 1 earnings binary in 3 days | Pre DV 1.5x+ = Rule A watch | CLV \u2265 0.3 = entry | Size small \u2014 June 1 binary risk | stop below today's low | 30x P/S = no margin for miss on print"
+    "claude_note": "4 VS-STRENGTH spikes today zero distribution = cleanest accumulation in watchlist | 7.37x at 12:40 = highest conviction today | June 1 earnings binary in 3 days | Pre DV 1.5x+ = Rule A watch | CLV \u2265 0.3 = entry | Size small \u2014 June 1 binary risk | stop below today's low | 30x P/S = no margin for miss on print | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   },
   "CRWD": {
     "level": "ALERT",
@@ -142,7 +145,8 @@
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "4W vs 2D today \u2014 VS flipped to buying | June 3 binary | wait for VS-WEAKNESS to continue before entry | stop below today's low"
+    "claude_note": "4W vs 2D today \u2014 VS flipped to buying | June 3 binary | wait for VS-WEAKNESS to continue before entry | stop below today's low | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   },
   "CRWV": {
     "level": "ALERT",
@@ -164,19 +168,9 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "Q1 FY2027 blowout: revenue $43.84B beat $35.77B consensus | EPS $4.86 vs $2.96 | AI server revenue $16.1B +757% YoY | backlog $51.3B | FY27 guide raised $165-169B vs prior $138-142B | 4 STRENGTH spikes May 27 pre-earnings = accumulation confirmed | Today gap +34% = new D+0 | CLV \u2265 0.3 at 9:35 = entry | size 25% normal \u2014 massive gap | Trap reference: overnight high $437.50 | stop below gap open",
-    "trap_level": 437.5
-  },
-  "FLNC": {
-    "level": "ELEVATED",
-    "label": "FTD D+18 \u2014 conflicting signals secondary overhang",
-    "read": "Today May 27: WEAKNESS 9.46x at 13:09 \u2014 strong buying. But SELLING at 13:49 and 11:15. Mixed. Secondary overhang from 20M share sale still present.",
-    "date": "2026-05-07",
-    "expires": "2026-06-06",
-    "lane_b": true,
-    "tier": "C1",
-    "claude_signal": "WATCH",
-    "claude_note": "9.46x WEAKNESS notable but secondary overhang limits | tight stop | watch for VS resumption"
+    "claude_note": "Q1 FY2027 blowout: revenue $43.84B beat $35.77B consensus | EPS $4.86 vs $2.96 | AI server revenue $16.1B +757% YoY | backlog $51.3B | FY27 guide raised $165-169B vs prior $138-142B | 4 STRENGTH spikes May 27 pre-earnings = accumulation confirmed | Today gap +34% = new D+0 | CLV \u2265 0.3 at 9:35 = entry | size 25% normal \u2014 massive gap | Trap reference: overnight high $437.50 | stop below gap open | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "trap_level": 437.5,
+    "friday_new_high": true
   },
   "GEV": {
     "level": "ALERT",
@@ -249,7 +243,8 @@
     "lane_b": true,
     "tier": "B1",
     "claude_signal": "WATCH",
-    "claude_note": "2W 2D mixed today | 6.18x notable | May 10 POC level = key support | entry on VS-WEAKNESS resuming | stop below battle zone low"
+    "claude_note": "2W 2D mixed today | 6.18x notable | May 10 POC level = key support | entry on VS-WEAKNESS resuming | stop below battle zone low | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   },
   "IREN": {
     "level": "ALERT",
@@ -318,7 +313,8 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+2 | closed at high = no distribution | entry on pullback + VS-WEAKNESS | stop below May 27 low | DRAM cycle timing risk"
+    "claude_note": "FTD D+2 | closed at high = no distribution | entry on pullback + VS-WEAKNESS | stop below May 27 low | DRAM cycle timing risk | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   },
   "NBIS": {
     "level": "ALERT",
@@ -386,7 +382,8 @@
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "3 consecutive days: 10.87x May 26 + 10.03x May 27 + STRENGTH 3.47x May 28 | June 16 earnings = binary | institutions loading 3 weeks out | ORCL STRENGTH 6.47x at 13:50 today = afternoon conviction | Pre DV 1.5x+ = Rule A | CLV \u2265 0.3 = entry | Stop below today's low | June 16 = Stage 2"
+    "claude_note": "3 consecutive days: 10.87x May 26 + 10.03x May 27 + STRENGTH 3.47x May 28 | June 16 earnings = binary | institutions loading 3 weeks out | ORCL STRENGTH 6.47x at 13:50 today = afternoon conviction | Pre DV 1.5x+ = Rule A | CLV \u2265 0.3 = entry | Stop below today's low | June 16 = Stage 2 | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   },
   "PLTR": {
     "level": "NEWS",
@@ -414,8 +411,9 @@
     "read": "Edge AI chips. Today May 27: 3 DIST (11:15, 12:53, 13:49) vs 2 late WEAKNESS (15:10, 15:40) on -8% day. Distribution dominant. Late weakness not enough to offset. Watch tomorrow: if DIST continues = avoid. If VS-WEAKNESS dominates on open = potential reversal.",
     "tier": "B2",
     "claude_signal": "WATCH",
-    "claude_note": "Distribution thesis DENIED \u2014 absorbed -8% day, STRENGTH 3.6x today +4.89% | Reversal confirmed | Rule A: Pre DV 1.5x+ above prior high | CLV \u2265 0.3 = ENTRY | stop below today's low",
-    "date": "2026-05-28"
+    "claude_note": "Distribution thesis DENIED \u2014 absorbed -8% day, STRENGTH 3.6x today +4.89% | Reversal confirmed | Rule A: Pre DV 1.5x+ above prior high | CLV \u2265 0.3 = ENTRY | stop below today's low | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "date": "2026-05-28",
+    "friday_new_high": true
   },
   "RGTI": {
     "level": "NEWS",
@@ -450,7 +448,8 @@
     "trap_level": 241.0,
     "pre_earnings_spike": "6.48x at 11:37 confirmed beat",
     "claude_signal": "WATCH",
-    "claude_note": "D+1 today \u2014 yesterday: SELLING 4.6x at open (CLV=0.05) = gap-and-trap | STRENGTH 3.3x mid-day = recovery buyers | SELLING 3.6x into close = distribution still present | Today: CLV at 9:35 = the only decision | CLV \u2265 0.3 = D+1 continuation entry | CLV < 0.3 = still trapped, stand aside | AH trap reference $241 | stop below today's open"
+    "claude_note": "D+1 today \u2014 yesterday: SELLING 4.6x at open (CLV=0.05) = gap-and-trap | STRENGTH 3.3x mid-day = recovery buyers | SELLING 3.6x into close = distribution still present | Today: CLV at 9:35 = the only decision | CLV \u2265 0.3 = D+1 continuation entry | CLV < 0.3 = still trapped, stand aside | AH trap reference $241 | stop below today's open | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   },
   "SNDK": {
     "level": "ALERT",
@@ -462,7 +461,8 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "Extended D+20 | supercycle intact | pullback + VS-WEAKNESS = entry | Samsung supply = exit trigger"
+    "claude_note": "Extended D+20 | supercycle intact | pullback + VS-WEAKNESS = entry | Samsung supply = exit trigger | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   },
   "STX": {
     "level": "ALERT",
@@ -544,5 +544,96 @@
     "prior_high": 10.1,
     "claude_signal": "WATCH",
     "claude_note": "FTD D+0 \u2014 Trump drone funding catalyst today | NDAA Section 1709 = Chinese competitor ban = structural moat | M30 CLV 0.88 = clean bar, not a gap-and-trap | Rule A tomorrow: Pre DV 1.5x+ above $10.10 + CLV \u2265 0.3 = entry | LoD $9.68 = hard stop | 9% ADR = size at 25-30% normal | Jeff Sun LoD dist check: entry must be < 50% ATR above $9.68 | VS-WEAKNESS near prior high = accumulation | VS-DIST = supply heavy"
+  },
+  "MDB": {
+    "level": "ALERT",
+    "label": "FTD D+0 \u2014 beat $1.32 EPS, AH gap-and-trap $413",
+    "read": "Q1 FY2027 beat: EPS $1.32 vs $1.18, revenue $687.6M vs $664.5M. AH spiked to $413 then faded to ~$330 overnight \u2014 classic gap-and-trap. $413 = overhead supply from AH buyers. 4 consecutive EPS beats. Atlas +29% YoY. New CEO CJ Desai debut quarter. Director selling overhang. GAAP operating loss persists.",
+    "date": "2026-05-29",
+    "expires": "2026-06-28",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "B1",
+    "trap_level": 413.0,
+    "claude_signal": "WATCH",
+    "claude_note": "Gap-and-trap $413 AH high = overhead supply | RTH close ~$295 | Current ~$330 | Wait for VS-WEAKNESS at $330 area = accumulation | Rule C: break above $413 + DV 1.5x + CLV \u2265 0.3 = entry | stop below spike low | Director selling = overhang | Atlas +29% = thesis intact | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
+  },
+  "APP": {
+    "level": "ALERT",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "A1",
+    "date": "2026-05-29",
+    "expires": "2026-06-28",
+    "label": "FTD D+0 \u2014 new 52-week high Friday, adtech AI leader",
+    "read": "AppLovin AI-powered adtech. New 52-week high Friday. Mobile gaming + CTV advertising. AXON 2.0 engine driving outsized growth.",
+    "claude_signal": "WATCH",
+    "claude_note": "New 52-week high Friday = price discovery | Rule A: Pre DV 1.5x+ = entry | CLV \u2265 0.3 at 9:35 | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
+  },
+  "CLSK": {
+    "level": "ALERT",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "B1",
+    "date": "2026-05-29",
+    "expires": "2026-06-28",
+    "label": "FTD D+0 \u2014 Bitcoin miner, AI infrastructure play",
+    "read": "CleanSpark Bitcoin miner. AI data center expansion. Institutional accumulation thesis.",
+    "claude_signal": "WATCH",
+    "claude_note": "Bitcoin miner + AI infrastructure | Pre DV 1.5x+ = entry | CLV \u2265 0.3"
+  },
+  "NTAP": {
+    "level": "ALERT",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "A1",
+    "date": "2026-05-29",
+    "expires": "2026-06-28",
+    "label": "FTD D+0 \u2014 new 52-week high Friday, cloud storage AI",
+    "read": "NetApp cloud data storage. New 52-week high Friday. AI data infrastructure demand driving enterprise storage refresh cycle.",
+    "claude_signal": "WATCH",
+    "claude_note": "New 52-week high Friday = price discovery | Rule A: Pre DV 1.5x+ | CLV \u2265 0.3 = entry | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
+  },
+  "PENG": {
+    "level": "ALERT",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "B1",
+    "date": "2026-05-29",
+    "expires": "2026-06-28",
+    "label": "FTD D+0 \u2014 new 52-week high Friday",
+    "read": "Penguin Solutions. New 52-week high Friday. Memory and computing solutions for AI workloads.",
+    "claude_signal": "WATCH",
+    "claude_note": "New high Friday | Pre DV 1.5x+ | CLV \u2265 0.3 = entry | verify catalyst | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
+  },
+  "SMCI": {
+    "level": "ALERT",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "A1",
+    "date": "2026-05-29",
+    "expires": "2026-06-28",
+    "label": "FTD D+0 \u2014 new 52-week high Friday, AI server infrastructure",
+    "read": "Super Micro Computer. AI server infrastructure. New 52-week high Friday. Direct beneficiary of DELL AI server demand + NVDA Blackwell supply.",
+    "claude_signal": "WATCH",
+    "claude_note": "New 52-week high Friday | DELL earnings confirm AI server demand = SMCI tailwind | Rule A: Pre DV 1.5x+ | CLV \u2265 0.3 | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
+  },
+  "HOOD": {
+    "level": "ALERT",
+    "watchlist": true,
+    "lane_b": true,
+    "tier": "B1",
+    "date": "2026-05-29",
+    "expires": "2026-06-28",
+    "label": "FTD D+0 \u2014 new 52-week high Friday, retail brokerage expansion",
+    "read": "Robinhood Markets. New 52-week high Friday. Retail trading platform expanding into crypto, options, prediction markets.",
+    "claude_signal": "WATCH",
+    "claude_note": "New 52-week high Friday | VIX new low = retail participation surge = HOOD tailwind | Rule A: Pre DV 1.5x+ | CLV \u2265 0.3 | \u26a1 FRIDAY NEW 52-WEEK HIGH",
+    "friday_new_high": true
   }
 }
