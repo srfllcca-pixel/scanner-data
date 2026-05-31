@@ -1,7 +1,7 @@
 {
   "AAOI": {
     "level": "ALERT",
-    "label": "FTD D+12 BASING \u2014 800G/1.6T optical transceiver",
+    "label": "FTD D+14 BASING \u2014 800G/1.6T optical transceiver",
     "read": "Earnings miss May 7 but market focused on $1.1B 2026 guide and $324M backlog 800G/1.6T. Real D+0 May 10 delayed move on volume. $600M ATM dilution program ongoing risk. Today May 27: VS-STRENGTH 4.72x at 11:53 (+1.57%) and 5.38x at 14:22 (+4.36%) \u2014 strength buying not weakness. Consolidating near breakout \u2014 strength pattern bullish.",
     "date": "2026-05-10",
     "expires": "2026-06-09",
@@ -9,11 +9,14 @@
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "D+12 BASING \u2014 VS-STRENGTH today = momentum buyers | $1.1B 2026 guide + $324M backlog = thesis intact | $600M ATM dilution = overhead supply | entry on VS-WEAKNESS spike + reclaim May 10 breakout level | stop below spike low"
+    "claude_note": "D+12 BASING \u2014 VS-STRENGTH today = momentum buyers | $1.1B 2026 guide + $324M backlog = thesis intact | $600M ATM dilution = overhead supply | entry on VS-WEAKNESS spike + reclaim May 10 breakout level | stop below spike low",
+    "ftd_date": "2026-05-09",
+    "ftd_day": 14,
+    "catalyst": "800G optical transceiver"
   },
   "ALAB": {
     "level": "ALERT",
-    "label": "FTD D+7 \u2014 3 STRENGTH today, AI network silicon",
+    "label": "FTD D+6 \u2014 3 STRENGTH today, AI network silicon",
     "read": "Custom AI network switch silicon sold direct to hyperscalers. AWS Google Meta Microsoft all buying. Today May 27: VS-DIST 8.02x at 10:42 early then STRENGTH 4.14x at 14:25 late \u2014 distribution absorbed by late strength. Mixed signal, net slightly positive.",
     "watchlist": true,
     "lane_b": true,
@@ -21,14 +24,15 @@
     "claude_signal": "WATCH",
     "claude_note": "3 VS-STRENGTH today (3.27x, 5.75x, 3.09x) = institutional loading | DIST early overridden by afternoon STRENGTH | AI network switch silicon = every hyperscaler buying | Rule A: Pre DV 1.5x+ = entry | CLV \u2265 0.3 | stop below today's low",
     "date": "2026-05-28",
-    "ftd_day": 7,
-    "ftd_date": "2026-05-22",
+    "ftd_day": 6,
+    "ftd_date": "2026-05-21",
     "ftd_stage": "D+7",
-    "ftd_note": "3 STRENGTH Friday | AI network silicon"
+    "ftd_note": "3 STRENGTH Friday | AI network silicon",
+    "catalyst": "AI network silicon breakout"
   },
   "AMD": {
     "level": "ALERT",
-    "label": "FTD D+2 \u2014 ACCUM\u2605 resolved gap up $462.81",
+    "label": "FTD D+7 \u2014 ACCUM\u2605 resolved gap up $462.81",
     "read": "ACCUM\u2605 resolved \u2014 gap up Friday $462.81 held. VWAP from 3-month high $465.97. May 27 VS: SELLING at 12:58 then WEAKNESS 3.84x at 14:05 (-1.59%) \u2014 late institutional buying. Break and hold above $465.97 = all buyers profitable = price discovery.",
     "date": "2026-05-22",
     "expires": "2026-06-21",
@@ -36,11 +40,14 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+2 | VWAP $465.97 key level | Pre DV 1.5x+ above $465.97 = entry | stop below $462.81 | August 5 Q2 earnings"
+    "claude_note": "FTD D+2 | VWAP $465.97 key level | Pre DV 1.5x+ above $465.97 = entry | stop below $462.81 | August 5 Q2 earnings",
+    "ftd_date": "2026-05-20",
+    "ftd_day": 7,
+    "catalyst": "Gap up $462 breakout"
   },
   "AMAT": {
     "level": "ALERT",
-    "label": "FTD D+8 \u2014 record earnings semis equipment sweep",
+    "label": "FTD D+10 \u2014 record earnings semis equipment sweep",
     "read": "Record earnings May 14 closed red \u2014 real D+0 May 15. Today May 27: WEAKNESS 5.95x at 13:21 and WEAKNESS 3.51x at 14:08 \u2014 part of semis equipment sweep HIGH conviction with LRCX and TER. Institutions buying into -1.7% day.",
     "date": "2026-05-15",
     "expires": "2026-06-14",
@@ -48,7 +55,10 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+8 \u2014 semis equipment sweep confirmed | 2 WEAKNESS spikes into red | pullback on low volume = entry | stop below May 15 low"
+    "claude_note": "FTD D+8 \u2014 semis equipment sweep confirmed | 2 WEAKNESS spikes into red | pullback on low volume = entry | stop below May 15 low",
+    "ftd_date": "2026-05-15",
+    "ftd_day": 10,
+    "catalyst": "Record earnings semis"
   },
   "ARM": {
     "level": "ALERT",
@@ -63,13 +73,14 @@
     "claude_note": "D+1 after +13.64% | STRENGTH 3.76x at 12:14 = the move | BUT: SELLING 5.52x at 15:12 + 5.54x at 15:17 = heavy distribution into close | Capital preservation: watch CLV at 9:35 carefully | CLV < 0.3 = gap-and-trap, do not enter | Wait for VS-WEAKNESS on any morning dip before considering | Stop: below yesterday's close | \u26a1 FRIDAY NEW 52-WEEK HIGH",
     "friday_new_high": true,
     "ftd_day": 1,
-    "ftd_date": "2026-05-29",
+    "ftd_date": "2026-05-28",
     "ftd_stage": "D+1",
-    "ftd_note": "+13.64% Thu | heavy selling into close = distribution at high | CLV critical Mon"
+    "ftd_note": "+13.64% Thu | heavy selling into close = distribution at high | CLV critical Mon",
+    "catalyst": "+13.64% AI licensing strength"
   },
   "ASML": {
     "level": "ALERT",
-    "label": "FTD D+15 \u2014 rising channel dual catalyst May 5",
+    "label": "FTD D+18 \u2014 rising channel dual catalyst May 5",
     "read": "Rising channel from February lows. May 5 dual catalyst. Today May 27: DIST at 11:35, then WEAKNESS 4.07x at 14:34 and WEAKNESS 3.33x at 14:52 \u2014 late recovery buying into -1.7% day. Channel support holding.",
     "date": "2026-05-05",
     "expires": "2026-06-04",
@@ -77,7 +88,10 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "FTD D+15 EXTENDED | late WEAKNESS buying channel support | entry on pullback to rising channel + VS-WEAKNESS | stop below channel trendline"
+    "claude_note": "FTD D+15 EXTENDED | late WEAKNESS buying channel support | entry on pullback to rising channel + VS-WEAKNESS | stop below channel trendline",
+    "ftd_date": "2026-05-05",
+    "ftd_day": 18,
+    "catalyst": "Dual catalyst recovery"
   },
   "AVGO": {
     "level": "ALERT",
@@ -94,7 +108,8 @@
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
     "ftd_stage": "D+0 NEW HIGH",
-    "ftd_note": "Dist thesis denied | 3 STRENGTH Friday | June 3 binary"
+    "ftd_note": "Dist thesis denied | 3 STRENGTH Friday | June 3 binary",
+    "catalyst": "Distribution reversed new high"
   },
   "BE": {
     "level": "ELEVATED",
@@ -112,18 +127,24 @@
     "d0_note": "Oracle 2.8GW + NBIS $2.6B catalyst | D+6 today | CLV 0.71 absorption day \u2014 closed upper 71% of range | 20B 20D FIGHTING but close says absorption",
     "consolidation_state": "FIGHTING",
     "last_clv": 0.71,
-    "clv_note": "Closed $281.45 with RTH high $287 | CLV 0.71 = buyers won the close despite -2.95% day"
+    "clv_note": "Closed $281.45 with RTH high $287 | CLV 0.71 = buyers won the close despite -2.95% day",
+    "ftd_date": "2026-05-21",
+    "ftd_day": 6,
+    "catalyst": "Oracle 2.8GW + NBIS $2.6B"
   },
   "CIEN": {
     "level": "ALERT",
-    "label": "FTD D+7 \u2014 optical networking 4W pre-June 4",
+    "label": "FTD D+6 \u2014 optical networking 4W pre-June 4",
     "read": "Today May 27: 4 VS-WEAKNESS (11:47 6.73x, 12:13, 14:32, 15:51) vs 3 selling \u2014 buying dominant. The 6.73x at 11:47 on -2.98% is the highest conviction spike today for CIEN. June 4 earnings binary in 8 days. Accumulation accelerating.",
     "date": "2026-05-21",
     "expires": "2026-06-06",
     "lane_b": true,
     "tier": "B3",
     "claude_signal": "WATCH",
-    "claude_note": "4W vs 3S today \u2014 buying dominant | 6.73x key spike | June 4 binary \u2014 entry on pullback + VS-WEAKNESS | AVGO preferred but CIEN active"
+    "claude_note": "4W vs 3S today \u2014 buying dominant | 6.73x key spike | June 4 binary \u2014 entry on pullback + VS-WEAKNESS | AVGO preferred but CIEN active",
+    "ftd_date": "2026-05-21",
+    "ftd_day": 6,
+    "catalyst": "Optical networking catalyst"
   },
   "COHR": {
     "level": "NEWS",
@@ -144,7 +165,7 @@
   },
   "CRDO": {
     "level": "ALERT",
-    "label": "FTD D+9 \u2014 4B 0S today, June 1 binary in 3 days",
+    "label": "FTD D+7 \u2014 4B 0S today, June 1 binary in 3 days",
     "read": "4 consecutive VS-WEAKNESS spikes today (11:40, 13:37, 13:59, 14:23) \u2014 all into red day (-0.84% to -3.98%). Zero distribution. Cleanest accumulation pattern of the week. June 1 earnings binary in 4 days. 30x P/S no margin for miss.",
     "date": "2026-05-28",
     "expires": "2026-06-03",
@@ -154,12 +175,13 @@
     "claude_signal": "WATCH",
     "claude_note": "4 VS-STRENGTH spikes today zero distribution = cleanest accumulation in watchlist | 7.37x at 12:40 = highest conviction today | June 1 earnings binary in 3 days | Pre DV 1.5x+ = Rule A watch | CLV \u2265 0.3 = entry | Size small \u2014 June 1 binary risk | stop below today's low | 30x P/S = no margin for miss on print | \u26a1 FRIDAY NEW 52-WEEK HIGH",
     "friday_new_high": true,
-    "ftd_day": 9,
+    "ftd_day": 7,
     "ftd_date": "2026-05-20",
     "ftd_stage": "D+9",
     "ftd_note": "4B 0D Friday = cleanest accumulation | June 1 earnings binary",
     "d0_note": "4B 0D Friday = cleanest accumulation | 7.37x at 12:40 highest conviction | June 1 earnings binary Monday",
-    "consolidation_state": "COILING"
+    "consolidation_state": "COILING",
+    "catalyst": "Pre-earnings accumulation D+0"
   },
   "CRWD": {
     "level": "ALERT",
@@ -178,21 +200,23 @@
     "d0_date": "2026-05-29",
     "d0_price": 674.87,
     "d0_note": "New high on AI sector rally +8.3% | June 3 earnings binary | PT raised $775 from $500 | Gartner leader 7 consecutive years",
-    "ftd_note": "June 3 binary in 5 days \u2014 size small | CLV \u2265 0.7 required"
+    "ftd_note": "June 3 binary in 5 days \u2014 size small | CLV \u2265 0.7 required",
+    "catalyst": "AI rally +8.3% new high"
   },
   "CRWV": {
     "level": "ALERT",
-    "label": "FTD D+4 \u2014 10.98x VS-WEAKNESS AI cloud",
+    "label": "FTD D+3 \u2014 10.98x VS-WEAKNESS AI cloud",
     "read": "AI cloud platform. Today May 27: 10.98x VS-WEAKNESS at 11:37 (-5.52%, $35.7M bar) \u2014 largest dollar buy of the day outside SPY. WEAKNESS again at 14:47 and 15:32. 3 WEAKNESS 0 distribution. Not yet in FTD watch \u2014 needs D+0 catalyst date confirmed. 10.98x is institutional conviction.",
     "watchlist": true,
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
     "claude_note": "10.98x largest conviction buy today | 3W 0D = clean | needs D+0 date | entry on pullback + VS-WEAKNESS | stop below today's low",
-    "ftd_day": 4,
+    "ftd_day": 3,
     "ftd_date": "2026-05-26",
     "ftd_stage": "D+4",
-    "ftd_note": "STRENGTH into close Friday | AI cloud"
+    "ftd_note": "STRENGTH into close Friday | AI cloud",
+    "catalyst": "AI cloud CoreWeave catalyst"
   },
   "DELL": {
     "level": "ALERT",
@@ -208,14 +232,15 @@
     "trap_level": 437.5,
     "friday_new_high": true,
     "ftd_day": 1,
-    "ftd_date": "2026-05-29",
+    "ftd_date": "2026-05-28",
     "ftd_stage": "D+1 POST GAP",
     "ftd_note": "Gap day LOD $402.27 = key support | Close $420 = gap reclaimed | VS-STRENGTH $40.6M at close",
     "d0_high": 437.5,
     "d0_clv": 0.71,
     "d0_note": "Q1 FY2027 blowout $43.84B | gap day LOD $402.27 = key support | close $420 reclaimed gap open | VS-STRENGTH $40.6M into close",
     "consolidation_state": "WATCHING",
-    "gap_day_lod": 402.27
+    "gap_day_lod": 402.27,
+    "catalyst": "Q1 FY2027 blowout +38% gap"
   },
   "GEV": {
     "level": "ALERT",
@@ -227,18 +252,24 @@
     "lane_b": true,
     "tier": "B2",
     "claude_signal": "WATCH",
-    "claude_note": "4W 2D = buying dominant | entry on pullback + VS-WEAKNESS | stop below today's low"
+    "claude_note": "4W 2D = buying dominant | entry on pullback + VS-WEAKNESS | stop below today's low",
+    "ftd_date": "2026-05-21",
+    "ftd_day": 6,
+    "catalyst": "Power infra AI datacenter"
   },
   "GLW": {
     "level": "NEWS",
-    "label": "DISTRIBUTION \u2014 5 spikes all selling May 27",
+    "label": "FTD D+17 \u2014 AI fiber catalyst",
     "read": "NVDA warrants $3.2B optical fiber. But today May 27: 5 spikes ALL selling or distribution (10:23 DIST, 12:31 SELLING, 13:40 DIST, 15:34 SELLING, 15:50 DIST) \u2014 zero buyers visible. -2% to -4% all day. Below anchored VWAP $194.12. Institutional distribution confirmed. Downgraded from ALERT.",
     "date": "2026-05-06",
     "expires": "2026-06-05",
     "watchlist": false,
     "tier": "B2",
     "claude_signal": "FLAT",
-    "claude_note": "5D/S 0W today = pure distribution | no institutional buyers visible | FLAT until VS-WEAKNESS rebuilds from scratch | do not trade"
+    "claude_note": "5D/S 0W today = pure distribution | no institutional buyers visible | FLAT until VS-WEAKNESS rebuilds from scratch | do not trade",
+    "ftd_date": "2026-05-06",
+    "ftd_day": 17,
+    "catalyst": "AI fiber catalyst"
   },
   "GOOGL": {
     "level": "NEWS",
@@ -258,25 +289,31 @@
   },
   "INOD": {
     "level": "NEWS",
-    "label": "DISTRIBUTION \u2014 thesis deteriorating 7D/S vs 1W",
+    "label": "FTD D+15 \u2014 AI storage catalyst",
     "read": "AI training data engineering. Today May 27: 7 DIST/SELLING vs 1 WEAKNESS \u2014 heaviest distribution in the watchlist today. -7% day, selling into every bounce. INOD thesis deteriorating. Single customer concentration risk now compounded by active distribution.",
     "date": "2026-05-08",
     "expires": "2026-06-07",
     "watchlist": false,
     "tier": "C1",
     "claude_signal": "FLAT",
-    "claude_note": "7D/S vs 1W = heavy distribution | thesis deteriorating | FLAT until new catalyst + VS-WEAKNESS rebuilds | do not trade"
+    "claude_note": "7D/S vs 1W = heavy distribution | thesis deteriorating | FLAT until new catalyst + VS-WEAKNESS rebuilds | do not trade",
+    "ftd_date": "2026-05-08",
+    "ftd_day": 15,
+    "catalyst": "AI storage catalyst"
   },
   "INTC": {
     "level": "ALERT",
-    "label": "FTD D+16 \u2014 WEAKNESS 3.32x today",
+    "label": "FTD D+17 \u2014 WEAKNESS 3.32x today",
     "read": "Turnaround play. Today May 27: single WEAKNESS 3.32x at 12:48 (-2.82%). Single spike not a pattern but positive on a red day.",
     "date": "2026-05-06",
     "expires": "2026-06-05",
     "lane_b": true,
     "tier": "B2",
     "claude_signal": "WATCH",
-    "claude_note": "Extended D+16 | single WEAKNESS today | Apple foundry talks speculative | wait for pullback + VS-WEAKNESS pattern (3+) | stop below base low"
+    "claude_note": "Extended D+16 | single WEAKNESS today | Apple foundry talks speculative | wait for pullback + VS-WEAKNESS pattern (3+) | stop below base low",
+    "ftd_date": "2026-05-06",
+    "ftd_day": 17,
+    "catalyst": "Turnaround catalyst"
   },
   "IONQ": {
     "level": "ALERT",
@@ -292,11 +329,12 @@
     "friday_new_high": true,
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
-    "ftd_stage": "D+0 NEW HIGH"
+    "ftd_stage": "D+0 NEW HIGH",
+    "catalyst": "New high quantum computing"
   },
   "IREN": {
     "level": "ALERT",
-    "label": "FTD D+3 \u2014 trap thesis confirmed CLV=0 at high",
+    "label": "FTD D+2 \u2014 trap thesis confirmed CLV=0 at high",
     "read": "May 6 AH spike to $73.11 = gap-and-trap. Anchored VWAP $57.63. Today May 27: STRENGTH 3.21x at 12:02 (+7.61%, CLV 0.92) = buyers pushing. Then SELLING 4.3x at 12:26 (+8.51%, CLV 0.0) = close at LOW of bar on up day \u2014 trapped AH buyers selling into strength at breakeven. This is the trap thesis confirmed. Supply zone $68-73.11. Current ~$64-65 = below supply zone.",
     "date": "2026-05-28",
     "expires": "2026-06-05",
@@ -309,10 +347,11 @@
     "tier": "B2",
     "claude_signal": "WATCH",
     "claude_note": "Stop held $63.75 | Position alive: entry $62.75 | DELL +38% = $16.1B AI server revenue = all NVDA Blackwell | IREN $1.6B Dell Blackwell contract + $3.6B Microsoft datacenter | NVDA warrant $70 = institutional floor | VS today: 1W vs 2 SELLING \u2014 distribution present | Today: fresh 24hr LoD = new LoD dist calculation | Watch for VS-WEAKNESS near $63-65 = absorption signal | Rule C: break above $73.11 overnight high + DV 1.5x + CLV \u2265 0.3 = entry",
-    "ftd_day": 3,
+    "ftd_day": 2,
     "ftd_date": "2026-05-27",
     "ftd_stage": "D+3",
-    "ftd_note": "Stop $63.75 held | DELL +38% = AI demand confirmed | $3.6B Microsoft"
+    "ftd_note": "Stop $63.75 held | DELL +38% = AI demand confirmed | $3.6B Microsoft",
+    "catalyst": "Microsoft $3.6B datacenter deal"
   },
   "LITE": {
     "level": "ALERT",
@@ -333,7 +372,10 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "16.89x = highest ratio today | 5W 1D = dominant accumulation | Rule A candidate tomorrow | entry on pullback + VS-WEAKNESS | stop below today's low"
+    "claude_note": "16.89x = highest ratio today | 5W 1D = dominant accumulation | Rule A candidate tomorrow | entry on pullback + VS-WEAKNESS | stop below today's low",
+    "ftd_date": "2026-05-21",
+    "ftd_day": 6,
+    "catalyst": "Semis equipment breakout"
   },
   "MARA": {
     "level": "NEWS",
@@ -355,13 +397,14 @@
     "claude_signal": "WATCH",
     "claude_note": "Beat confirmed: $2.418B +28% YoY | EPS $0.80 | Q2 guide $0.93 | PT raises: Oppenheimer $250 | B. Riley $240 | Rosenblatt $240 | Yesterday: sell-the-news flat | Today: PT raises = potential reversal | VS-SELLING premarket yesterday = was warning | STRENGTH 3.76x at 12:31 + 4.07x at 15:25 = buyers returned | Rule A: Pre DV 1.5x+ above prior high | CLV \u2265 0.3 = entry | June 17 investor event = Stage 2",
     "ftd_day": 1,
-    "ftd_date": "2026-05-29",
+    "ftd_date": "2026-05-28",
     "ftd_stage": "D+1",
-    "ftd_note": "3 PT raises overnight | flat on beat = healthy base"
+    "ftd_note": "3 PT raises overnight | flat on beat = healthy base",
+    "catalyst": "Beat $2.418B +28% YoY"
   },
   "MU": {
     "level": "ALERT",
-    "label": "FTD D+2 \u2014 UBS PT $1625 DRAM +125% supercycle",
+    "label": "FTD D+1 \u2014 UBS PT $1625 DRAM +125% supercycle",
     "read": "HBM4 and DRAM for AI. UBS PT $535\u2192$1,625. +12% May 26 closed at high \u2014 full institutional absorption. 1-alpha DRAM manufacturing started in Virginia. DRAM prices +125% full year per Gartner.",
     "date": "2026-05-27",
     "expires": "2026-06-26",
@@ -371,14 +414,15 @@
     "claude_signal": "WATCH",
     "claude_note": "FTD D+2 | closed at high = no distribution | entry on pullback + VS-WEAKNESS | stop below May 27 low | DRAM cycle timing risk | \u26a1 FRIDAY NEW 52-WEEK HIGH",
     "friday_new_high": true,
-    "ftd_day": 2,
+    "ftd_day": 1,
     "ftd_date": "2026-05-28",
     "ftd_stage": "D+2",
-    "ftd_note": "UBS PT $1625 | new high Friday | 9B 0D this week"
+    "ftd_note": "UBS PT $1625 | new high Friday | 9B 0D this week",
+    "catalyst": "UBS PT $1625 DRAM supercycle"
   },
   "NBIS": {
     "level": "ALERT",
-    "label": "FTD D+2 \u2014 3 STRENGTH today, Situational Awareness confirmed",
+    "label": "FTD D+1 \u2014 3 STRENGTH today, Situational Awareness confirmed",
     "read": "Neocloud AI datacenter. Today May 27: WEAKNESS 11:31 (3.05x), WEAKNESS 11:31 \u2014 but also DIST 10:27 and DIST 13:28. 2W vs 2D mixed. DA Davidson downgrade + $122.8M insider selling still overhang.",
     "date": "2026-05-28",
     "expires": "2026-06-12",
@@ -387,16 +431,17 @@
     "tier": "A2",
     "claude_signal": "WATCH",
     "claude_note": "3 VS-STRENGTH today (5.2x, 3.69x, 6.0x) = institutional conviction | Situational Awareness 5.6% = highest conviction AI investor | 52-week high $240.89 = price discovery | Rule A: Pre DV 1.5x+ above prior high | CLV \u2265 0.3 = entry | DA Davidson downgrade = old thesis, Aschenbrenner = new thesis",
-    "ftd_day": 2,
+    "ftd_day": 1,
     "ftd_date": "2026-05-28",
     "ftd_stage": "D+2",
     "ftd_note": "3 STRENGTH Friday | Situational Awareness $13.7B AUM",
     "d0_note": "3 STRENGTH Friday | Situational Awareness $13.7B AUM | 52-week high price discovery",
-    "consolidation_state": "WATCHING"
+    "consolidation_state": "WATCHING",
+    "catalyst": "Situational Awareness $13.7B"
   },
   "NVDA": {
     "level": "ALERT",
-    "label": "The center of gravity \u2014 $91B Q2 guide",
+    "label": "FTD D+7 \u2014 $91B Q2 guide catalyst",
     "read": "Center of gravity. DIST 4.07x at open today \u2014 early hedging. Q2 $91B guide execution in progress. Every beat in the ecosystem (MRVL, SNOW) validates the thesis.",
     "date": "2026-05-20",
     "expires": "2026-08-20",
@@ -404,11 +449,14 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "HOLD",
-    "claude_note": "Market gravity | $91B Q2 guide = AI thesis intact | buy NVDA weakness with VS confirmation | do not chase strength"
+    "claude_note": "Market gravity | $91B Q2 guide = AI thesis intact | buy NVDA weakness with VS confirmation | do not chase strength",
+    "ftd_date": "2026-05-20",
+    "ftd_day": 7,
+    "catalyst": "$91B Q2 guide catalyst"
   },
   "ON": {
     "level": "ALERT",
-    "label": "FTD D+17 \u2014 mixed 3W 3D watch for resolution",
+    "label": "FTD D+18 \u2014 mixed 3W 3D watch for resolution",
     "read": "Power management chips AI datacenter. Today May 27: 3 WEAKNESS (11:50, 12:12, 15:00) vs SELLING 11:29, DIST 12:29, SELLING 15:23 (9.56x!) \u2014 9.56x at 15:23 is large selling print. Mixed signal. The 9.56x SELLING near close is notable \u2014 profit taking or distribution.",
     "date": "2026-05-05",
     "expires": "2026-06-04",
@@ -416,11 +464,14 @@
     "lane_b": true,
     "tier": "B2",
     "claude_signal": "WATCH",
-    "claude_note": "3W vs 3D mixed | 9.56x SELLING at close = large profit taking or distribution | wait for VS-WEAKNESS to dominate | stop below today's low"
+    "claude_note": "3W vs 3D mixed | 9.56x SELLING at close = large profit taking or distribution | wait for VS-WEAKNESS to dominate | stop below today's low",
+    "ftd_date": "2026-05-05",
+    "ftd_day": 18,
+    "catalyst": "Power mgmt AI catalyst"
   },
   "ONDS": {
     "level": "ALERT",
-    "label": "FTD D+2 \u2014 VWAP $10.26 reclaimed 3 STRENGTH",
+    "label": "FTD D+1 \u2014 VWAP $10.26 reclaimed 3 STRENGTH",
     "read": "May 14 D+0: Q1 $50.1M (10x YoY), $361.3M profit, guide $390M+. Today May 27: 3 consecutive VS-STRENGTH (10:51 3.92x +4.71%, 12:55 3.73x +7.63%, 13:34 4.92x +8.65%) \u2014 all buying into GREEN day. VWAP $10.26 reclaimed first time since D+0. Higher lows from $9.00 base. Omnisys acquisition complete. Insider selling May 19+22 overhang. Rule A tomorrow: prior high ~$10.63.",
     "date": "2026-05-14",
     "expires": "2026-06-13",
@@ -437,14 +488,15 @@
     "base_support": 9.0,
     "claude_signal": "WATCH",
     "claude_note": "VWAP $10.26 reclaimed today | 3 STRENGTH = momentum confirmed | Rule A tomorrow: Pre DV 1.5x+ above $10.63 | CLV \u2265 0.3 = entry | size small \u2014 insider selling overhang | supply: $11.21 \u2192 $12.12",
-    "ftd_day": 2,
+    "ftd_day": 1,
     "ftd_date": "2026-05-28",
     "ftd_stage": "D+2",
-    "ftd_note": "+21% Thu | STRENGTH 3.3x CLV=0.96 = clean"
+    "ftd_note": "+21% Thu | STRENGTH 3.3x CLV=0.96 = clean",
+    "catalyst": "Drone + defense catalyst"
   },
   "ORCL": {
     "level": "ALERT",
-    "label": "FTD D+33 BASING \u2014 3 consecutive conviction days, June 16",
+    "label": "FTD D+24 BASING \u2014 3 consecutive conviction days, June 16",
     "read": "Oracle AI cloud and database. D+32 from April 13 consolidating after May 13 new high. Today May 27: 10.03x VS-WEAKNESS at 14:13 (-1.75%, $12.8M) \u2014 highest conviction ORCL buy seen in months. 3 total WEAKNESS vs 1 DIST 1 SELLING. This is the tell. June 16 earnings = next binary catalyst. 10.87x VS-WEAKNESS on May 26 = two consecutive days of institutional loading. Oracle Cloud revenue growing 21% \u2014 enterprise AI workloads = secular tailwind.",
     "date": "2026-05-28",
     "expires": "2026-06-16",
@@ -454,7 +506,7 @@
     "claude_signal": "WATCH",
     "claude_note": "3 consecutive days: 10.87x May 26 + 10.03x May 27 + STRENGTH 3.47x May 28 | June 16 earnings = binary | institutions loading 3 weeks out | ORCL STRENGTH 6.47x at 13:50 today = afternoon conviction | Pre DV 1.5x+ = Rule A | CLV \u2265 0.3 = entry | Stop below today's low | June 16 = Stage 2 | \u26a1 FRIDAY NEW 52-WEEK HIGH",
     "friday_new_high": true,
-    "ftd_day": 33,
+    "ftd_day": 24,
     "ftd_date": "2026-04-26",
     "ftd_stage": "D+33 BASING",
     "ftd_note": "Rule A fired 9:35 Friday $212.62 | new high $224.22 +5.5% | June 16 binary",
@@ -462,7 +514,8 @@
     "d0_price": 212.62,
     "d0_clv": 0.97,
     "d0_note": "Rule A fired 9:35 | CLV 0.97 = textbook | 3 consecutive conviction days 10.87x + 10.03x + 3.47x | new high $224.22 +5.5%",
-    "consolidation_state": "BREAKING"
+    "consolidation_state": "BREAKING",
+    "catalyst": "Earnings beat + Oracle AI cloud \u2014 D+0 April 26"
   },
   "PLTR": {
     "level": "NEWS",
@@ -474,7 +527,7 @@
   },
   "POWL": {
     "level": "ALERT",
-    "label": "FTD D+17 \u2014 mixed VWAP $294.22 overhead",
+    "label": "FTD D+18 \u2014 mixed VWAP $294.22 overhead",
     "read": "Custom switchgear AI datacenter. Today: DIST 10:29, WEAKNESS 11:06, STRENGTH 12:27, SELLING 13:09, SELLING 14:22, SELLING 15:23 \u2014 mixed. VWAP $294.22 = overhead supply. Current $276-293 range. Extended D+17.",
     "date": "2026-05-05",
     "expires": "2026-06-04",
@@ -482,7 +535,10 @@
     "lane_b": true,
     "tier": "B2",
     "claude_signal": "WATCH",
-    "claude_note": "Extended D+17 | VWAP $294.22 resistance | mixed VS today | VS-WEAKNESS below $285 = entry | stop below $276"
+    "claude_note": "Extended D+17 | VWAP $294.22 resistance | mixed VS today | VS-WEAKNESS below $285 = entry | stop below $276",
+    "ftd_date": "2026-05-05",
+    "ftd_day": 18,
+    "catalyst": "Industrial power catalyst"
   },
   "QCOM": {
     "level": "NEWS",
@@ -499,7 +555,8 @@
     "ftd_note": "Dist denied | STRENGTH reversal Friday | new high",
     "d0_date": "2026-05-29",
     "d0_price": 245.08,
-    "d0_note": "Distribution thesis denied | -8% absorbed | STRENGTH reversal | new 52-week high Friday"
+    "d0_note": "Distribution thesis denied | -8% absorbed | STRENGTH reversal | new 52-week high Friday",
+    "catalyst": "Reversal confirmed new high"
   },
   "RGTI": {
     "level": "NEWS",
@@ -512,7 +569,7 @@
   },
   "RKLB": {
     "level": "ALERT",
-    "label": "FTD D+14 \u2014 STRENGTH then SELLING mixed",
+    "label": "FTD D+16 \u2014 STRENGTH then SELLING mixed",
     "read": "Space launch $2.2B backlog. Today: STRENGTH 6.01x at 12:13 (+2.43%) then SELLING twice. Mixed. $3B offering overhang. Neutron binary later 2026.",
     "date": "2026-05-07",
     "expires": "2026-06-06",
@@ -520,7 +577,10 @@
     "lane_b": true,
     "tier": "B1",
     "claude_signal": "WATCH",
-    "claude_note": "Mixed today | $3B offering overhang | Neutron = binary | size small | entry on pullback + VS-WEAKNESS"
+    "claude_note": "Mixed today | $3B offering overhang | Neutron = binary | size small | entry on pullback + VS-WEAKNESS",
+    "ftd_date": "2026-05-07",
+    "ftd_day": 16,
+    "catalyst": "Launch success + contracts"
   },
   "SNOW": {
     "level": "ALERT",
@@ -537,11 +597,12 @@
     "claude_note": "D+1 today \u2014 yesterday: SELLING 4.6x at open (CLV=0.05) = gap-and-trap | STRENGTH 3.3x mid-day = recovery buyers | SELLING 3.6x into close = distribution still present | Today: CLV at 9:35 = the only decision | CLV \u2265 0.3 = D+1 continuation entry | CLV < 0.3 = still trapped, stand aside | AH trap reference $241 | stop below today's open | \u26a1 FRIDAY NEW 52-WEEK HIGH",
     "friday_new_high": true,
     "ftd_day": 1,
-    "ftd_date": "2026-05-29",
+    "ftd_date": "2026-05-28",
     "ftd_stage": "D+1",
     "d0_high": 241.0,
     "d0_note": "Beat confirmed D+0 gap | 10:46 SELLING 4.6x CLV=0.05 = gap-and-trap | 11:02 STRENGTH recovery | D+1 watch CLV \u2265 0.7",
-    "consolidation_state": "WATCHING"
+    "consolidation_state": "WATCHING",
+    "catalyst": "Earnings beat +35% gap"
   },
   "SNDK": {
     "level": "ALERT",
@@ -561,11 +622,12 @@
     "d0_date": "2026-05-29",
     "d0_price": 1683.09,
     "d0_high": 1708.83,
-    "d0_note": "New 52-week high | NAND flash AI data center +645% YoY | pure play memory leader post WDC spinoff"
+    "d0_note": "New 52-week high | NAND flash AI data center +645% YoY | pure play memory leader post WDC spinoff",
+    "catalyst": "New 52-week high NAND AI"
   },
   "STX": {
     "level": "ALERT",
-    "label": "FTD D+20 \u2014 HAMR cold storage WEAKNESS today",
+    "label": "FTD D+22 \u2014 HAMR cold storage WEAKNESS today",
     "read": "HAMR cold storage AI datacenter. Today: SELLING 12:04, then WEAKNESS 3.33x at 14:27 (+3.86%). Late WEAKNESS on green day = strength buying. Extended D+20.",
     "date": "2026-04-28",
     "expires": "2026-07-28",
@@ -573,7 +635,10 @@
     "lane_b": true,
     "tier": "A2",
     "claude_signal": "WATCH",
-    "claude_note": "Extended D+20 | late WEAKNESS on green day | pullback + VS-WEAKNESS = entry | high leverage risk"
+    "claude_note": "Extended D+20 | late WEAKNESS on green day | pullback + VS-WEAKNESS = entry | high leverage risk",
+    "ftd_date": "2026-04-29",
+    "ftd_day": 22,
+    "catalyst": "HAMR storage breakout"
   },
   "TE": {
     "level": "NEWS",
@@ -586,7 +651,7 @@
   },
   "TER": {
     "level": "ALERT",
-    "label": "FTD D+7 \u2014 HIGHEST CONVICTION 5W 0D today",
+    "label": "FTD D+6 \u2014 HIGHEST CONVICTION 5W 0D today",
     "read": "Semiconductor test equipment \u2014 every NVDA chip must pass TER before shipping. Today May 27: 5 consecutive VS-WEAKNESS (10:41, 11:23, 13:52, 14:12 9.86x, 14:28 9.86x, 15:34) \u2014 5 WEAKNESS zero distribution all into -3% to -6% down day. Two back-to-back 9.86x spikes at 14:12 and 14:28 = largest institutional accumulation prints of the afternoon. This is the highest VS conviction in the watchlist today. Part of semis equipment sweep HIGH conviction.",
     "date": "2026-05-21",
     "expires": "2026-06-20",
@@ -594,11 +659,14 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "5W 0D = HIGHEST CONVICTION TODAY | dual 9.86x prints = institutional loading | Rule A priority tomorrow | Pre DV 1.5x+ = entry | stop below today's low | NVDA guide = test demand locked"
+    "claude_note": "5W 0D = HIGHEST CONVICTION TODAY | dual 9.86x prints = institutional loading | Rule A priority tomorrow | Pre DV 1.5x+ = entry | stop below today's low | NVDA guide = test demand locked",
+    "ftd_date": "2026-05-21",
+    "ftd_day": 6,
+    "catalyst": "Test equipment breakout"
   },
   "TSM": {
     "level": "ALERT",
-    "label": "FTD D+7 \u2014 STRENGTH 4.88x 2 STRENGTH today",
+    "label": "FTD D+6 \u2014 STRENGTH 4.88x 2 STRENGTH today",
     "read": "Makes every NVDA AMD Apple chip. Today: STRENGTH 4.88x at 13:59 (+1.75%) and STRENGTH 4.54x at 14:55 (+2.11%) \u2014 confidence buying into green day. Part of foundry thesis.",
     "date": "2026-05-21",
     "expires": "2026-06-20",
@@ -606,11 +674,14 @@
     "lane_b": true,
     "tier": "A1",
     "claude_signal": "WATCH",
-    "claude_note": "2 STRENGTH today | NVDA guide = revenue locked | entry on pullback + VS-WEAKNESS | stop below May 21 low"
+    "claude_note": "2 STRENGTH today | NVDA guide = revenue locked | entry on pullback + VS-WEAKNESS | stop below May 21 low",
+    "ftd_date": "2026-05-21",
+    "ftd_day": 6,
+    "catalyst": "AI chip demand breakout"
   },
   "WDC": {
     "level": "ALERT",
-    "label": "FTD D+3 \u2014 STRENGTH 7.3x + WEAKNESS today",
+    "label": "FTD D+2 \u2014 STRENGTH 7.3x + WEAKNESS today",
     "read": "Flash + HDD storage AI datacenter. Today: STRENGTH 7.3x at 11:12 (+1.02%) and STRENGTH 3.32x at 14:29 (+2.07%). Two strength spikes on green day. SNDK preferred as pure-play.",
     "date": "2026-05-21",
     "expires": "2026-06-20",
@@ -619,22 +690,24 @@
     "tier": "B2",
     "claude_signal": "WATCH",
     "claude_note": "2 STRENGTH today | SNDK preferred | entry on pullback + VS-WEAKNESS | stop below May 21 low",
-    "ftd_day": 3,
+    "ftd_day": 2,
     "ftd_date": "2026-05-27",
     "ftd_stage": "D+3",
-    "ftd_note": "2 STRENGTH this week | storage beneficiary"
+    "ftd_note": "2 STRENGTH this week | storage beneficiary",
+    "catalyst": "Storage VS-STRENGTH breakout"
   },
   "DRAM": {
     "level": "NEWS",
-    "label": "FTD D+2 \u2014 DIST dominant today",
+    "label": "FTD D+1 \u2014 DIST dominant today",
     "read": "Risk gauge. Today: 2 DIST vs 1 WEAKNESS. Distribution slight edge.",
     "tier": "C2",
     "claude_signal": "WATCH",
     "claude_note": "Risk gauge | 2D vs 1W today | watch alongside MARA COIN",
-    "ftd_day": 2,
+    "ftd_day": 1,
     "ftd_date": "2026-05-28",
     "ftd_stage": "D+2",
-    "ftd_note": "STRENGTH 3.24x close Friday | DRAM supercycle"
+    "ftd_note": "STRENGTH 3.24x close Friday | DRAM supercycle",
+    "catalyst": "DRAM supercycle UBS PT raise"
   },
   "RCAT": {
     "level": "ALERT",
@@ -652,9 +725,10 @@
     "claude_signal": "WATCH",
     "claude_note": "FTD D+0 \u2014 Trump drone funding catalyst today | NDAA Section 1709 = Chinese competitor ban = structural moat | M30 CLV 0.88 = clean bar, not a gap-and-trap | Rule A tomorrow: Pre DV 1.5x+ above $10.10 + CLV \u2265 0.3 = entry | LoD $9.68 = hard stop | 9% ADR = size at 25-30% normal | Jeff Sun LoD dist check: entry must be < 50% ATR above $9.68 | VS-WEAKNESS near prior high = accumulation | VS-DIST = supply heavy",
     "ftd_day": 1,
-    "ftd_date": "2026-05-29",
+    "ftd_date": "2026-05-28",
     "ftd_stage": "D+1",
-    "ftd_note": "+40% Thu | 10x red premarket Fri = gap-and-trap | stand aside"
+    "ftd_note": "+40% Thu | 10x red premarket Fri = gap-and-trap | stand aside",
+    "catalyst": "Trump drone funding +40%"
   },
   "MDB": {
     "level": "ALERT",
@@ -670,9 +744,10 @@
     "claude_note": "Gap-and-trap $413 AH high = overhead supply | RTH close ~$295 | Current ~$330 | Wait for VS-WEAKNESS at $330 area = accumulation | Rule C: break above $413 + DV 1.5x + CLV \u2265 0.3 = entry | stop below spike low | Director selling = overhang | Atlas +29% = thesis intact | \u26a1 FRIDAY NEW 52-WEEK HIGH",
     "friday_new_high": true,
     "ftd_day": 1,
-    "ftd_date": "2026-05-29",
+    "ftd_date": "2026-05-28",
     "ftd_stage": "D+1",
-    "ftd_note": "AH trap $413 | RTH close ~$295 | gap-and-trap | wait for VS-WEAKNESS at $330"
+    "ftd_note": "AH trap $413 | RTH close ~$295 | gap-and-trap | wait for VS-WEAKNESS at $330",
+    "catalyst": "EPS $1.32 beat AH trap $413"
   },
   "APP": {
     "level": "ALERT",
@@ -688,7 +763,8 @@
     "friday_new_high": true,
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
-    "ftd_stage": "D+0 NEW HIGH"
+    "ftd_stage": "D+0 NEW HIGH",
+    "catalyst": "New 52-week high adtech AI"
   },
   "CLSK": {
     "level": "ALERT",
@@ -700,7 +776,10 @@
     "label": "FTD D+0 \u2014 Bitcoin miner, AI infrastructure play",
     "read": "CleanSpark Bitcoin miner. AI data center expansion. Institutional accumulation thesis.",
     "claude_signal": "WATCH",
-    "claude_note": "Bitcoin miner + AI infrastructure | Pre DV 1.5x+ = entry | CLV \u2265 0.3"
+    "claude_note": "Bitcoin miner + AI infrastructure | Pre DV 1.5x+ = entry | CLV \u2265 0.3",
+    "ftd_date": "2026-05-29",
+    "ftd_day": 0,
+    "catalyst": "Bitcoin miner AI infrastructure"
   },
   "NTAP": {
     "level": "ALERT",
@@ -719,7 +798,8 @@
     "ftd_stage": "D+0 NEW HIGH",
     "d0_date": "2026-05-29",
     "d0_price": 142.4,
-    "d0_note": "Q4 FY2026 beat: revenue $1.95B vs $1.87B | AI data infrastructure | gapped +22% Friday | 52-week high $192.83"
+    "d0_note": "Q4 FY2026 beat: revenue $1.95B vs $1.87B | AI data infrastructure | gapped +22% Friday | 52-week high $192.83",
+    "catalyst": "Earnings beat +22% AI storage"
   },
   "PENG": {
     "level": "ALERT",
@@ -735,7 +815,8 @@
     "friday_new_high": true,
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
-    "ftd_stage": "D+0 NEW HIGH"
+    "ftd_stage": "D+0 NEW HIGH",
+    "catalyst": "New 52-week high"
   },
   "SMCI": {
     "level": "ALERT",
@@ -754,7 +835,8 @@
     "ftd_stage": "D+0 NEW HIGH",
     "d0_date": "2026-05-29",
     "d0_price": 41.3,
-    "d0_note": "Q3 FY2026 $10.24B +123% YoY | Dell +38% drag | Q4 guide $11-12.5B | AI server direct beneficiary"
+    "d0_note": "Q3 FY2026 $10.24B +123% YoY | Dell +38% drag | Q4 guide $11-12.5B | AI server direct beneficiary",
+    "catalyst": "Dell drag +AI servers new high"
   },
   "HOOD": {
     "level": "ALERT",
@@ -770,7 +852,8 @@
     "friday_new_high": true,
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
-    "ftd_stage": "D+0 NEW HIGH"
+    "ftd_stage": "D+0 NEW HIGH",
+    "catalyst": "New 52-week high retail boom"
   },
   "CSCO": {
     "watchlist": true,
@@ -788,6 +871,7 @@
     "d0_date": "2026-05-29",
     "d0_price": 121.43,
     "d0_high": 121.43,
-    "d0_note": "New 52-week high Friday $121.43 | enterprise AI networking | Splunk integration | clean breakout"
+    "d0_note": "New 52-week high Friday $121.43 | enterprise AI networking | Splunk integration | clean breakout",
+    "catalyst": "New 52-week high $121.43"
   }
 }
