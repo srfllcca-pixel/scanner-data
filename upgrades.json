@@ -105,7 +105,14 @@
     "lane_b": true,
     "tier": "C1",
     "claude_signal": "WATCH",
-    "claude_note": "5 WEAKNESS vs 2 DIST = institutions absorbing insider supply | parabolic still \u2014 wait for 20-30% pullback to $200-220 | stop below pullback day low"
+    "claude_note": "5 WEAKNESS vs 2 DIST = institutions absorbing insider supply | parabolic still \u2014 wait for 20-30% pullback to $200-220 | stop below pullback day low",
+    "d0_date": "2026-05-23",
+    "d0_high": 287.0,
+    "d0_clv": 0.71,
+    "d0_note": "Oracle 2.8GW + NBIS $2.6B catalyst | D+6 today | CLV 0.71 absorption day \u2014 closed upper 71% of range | 20B 20D FIGHTING but close says absorption",
+    "consolidation_state": "FIGHTING",
+    "last_clv": 0.71,
+    "clv_note": "Closed $281.45 with RTH high $287 | CLV 0.71 = buyers won the close despite -2.95% day"
   },
   "CIEN": {
     "level": "ALERT",
@@ -150,7 +157,9 @@
     "ftd_day": 9,
     "ftd_date": "2026-05-20",
     "ftd_stage": "D+9",
-    "ftd_note": "4B 0D Friday = cleanest accumulation | June 1 earnings binary"
+    "ftd_note": "4B 0D Friday = cleanest accumulation | June 1 earnings binary",
+    "d0_note": "4B 0D Friday = cleanest accumulation | 7.37x at 12:40 highest conviction | June 1 earnings binary Monday",
+    "consolidation_state": "COILING"
   },
   "CRWD": {
     "level": "ALERT",
@@ -165,7 +174,11 @@
     "friday_new_high": true,
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
-    "ftd_stage": "D+0 NEW HIGH"
+    "ftd_stage": "D+0 NEW HIGH",
+    "d0_date": "2026-05-29",
+    "d0_price": 674.87,
+    "d0_note": "New high on AI sector rally +8.3% | June 3 earnings binary | PT raised $775 from $500 | Gartner leader 7 consecutive years",
+    "ftd_note": "June 3 binary in 5 days \u2014 size small | CLV \u2265 0.7 required"
   },
   "CRWV": {
     "level": "ALERT",
@@ -197,7 +210,12 @@
     "ftd_day": 1,
     "ftd_date": "2026-05-29",
     "ftd_stage": "D+1 POST GAP",
-    "ftd_note": "Gap day LOD $402.27 = key support | Close $420 = gap reclaimed | VS-STRENGTH $40.6M at close"
+    "ftd_note": "Gap day LOD $402.27 = key support | Close $420 = gap reclaimed | VS-STRENGTH $40.6M at close",
+    "d0_high": 437.5,
+    "d0_clv": 0.71,
+    "d0_note": "Q1 FY2027 blowout $43.84B | gap day LOD $402.27 = key support | close $420 reclaimed gap open | VS-STRENGTH $40.6M into close",
+    "consolidation_state": "WATCHING",
+    "gap_day_lod": 402.27
   },
   "GEV": {
     "level": "ALERT",
@@ -372,7 +390,9 @@
     "ftd_day": 2,
     "ftd_date": "2026-05-28",
     "ftd_stage": "D+2",
-    "ftd_note": "3 STRENGTH Friday | Situational Awareness $13.7B AUM"
+    "ftd_note": "3 STRENGTH Friday | Situational Awareness $13.7B AUM",
+    "d0_note": "3 STRENGTH Friday | Situational Awareness $13.7B AUM | 52-week high price discovery",
+    "consolidation_state": "WATCHING"
   },
   "NVDA": {
     "level": "ALERT",
@@ -437,7 +457,12 @@
     "ftd_day": 33,
     "ftd_date": "2026-04-26",
     "ftd_stage": "D+33 BASING",
-    "ftd_note": "Rule A fired 9:35 Friday $212.62 | new high $224.22 +5.5% | June 16 binary"
+    "ftd_note": "Rule A fired 9:35 Friday $212.62 | new high $224.22 +5.5% | June 16 binary",
+    "d0_date": "2026-05-29",
+    "d0_price": 212.62,
+    "d0_clv": 0.97,
+    "d0_note": "Rule A fired 9:35 | CLV 0.97 = textbook | 3 consecutive conviction days 10.87x + 10.03x + 3.47x | new high $224.22 +5.5%",
+    "consolidation_state": "BREAKING"
   },
   "PLTR": {
     "level": "NEWS",
@@ -471,7 +496,10 @@
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
     "ftd_stage": "D+0 NEW HIGH",
-    "ftd_note": "Dist denied | STRENGTH reversal Friday | new high"
+    "ftd_note": "Dist denied | STRENGTH reversal Friday | new high",
+    "d0_date": "2026-05-29",
+    "d0_price": 245.08,
+    "d0_note": "Distribution thesis denied | -8% absorbed | STRENGTH reversal | new 52-week high Friday"
   },
   "RGTI": {
     "level": "NEWS",
@@ -510,7 +538,10 @@
     "friday_new_high": true,
     "ftd_day": 1,
     "ftd_date": "2026-05-29",
-    "ftd_stage": "D+1"
+    "ftd_stage": "D+1",
+    "d0_high": 241.0,
+    "d0_note": "Beat confirmed D+0 gap | 10:46 SELLING 4.6x CLV=0.05 = gap-and-trap | 11:02 STRENGTH recovery | D+1 watch CLV \u2265 0.7",
+    "consolidation_state": "WATCHING"
   },
   "SNDK": {
     "level": "ALERT",
@@ -526,7 +557,11 @@
     "friday_new_high": true,
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
-    "ftd_stage": "D+0 NEW HIGH"
+    "ftd_stage": "D+0 NEW HIGH",
+    "d0_date": "2026-05-29",
+    "d0_price": 1683.09,
+    "d0_high": 1708.83,
+    "d0_note": "New 52-week high | NAND flash AI data center +645% YoY | pure play memory leader post WDC spinoff"
   },
   "STX": {
     "level": "ALERT",
@@ -674,14 +709,17 @@
     "tier": "A1",
     "date": "2026-05-29",
     "expires": "2026-06-28",
-    "label": "FTD D+0 NEW HIGH \u2014 new 52-week high Friday, cloud storage AI",
+    "label": "FTD D+0 \u2014 NTAP earnings beat +22%, AI data infrastructure new high",
     "read": "NetApp cloud data storage. New 52-week high Friday. AI data infrastructure demand driving enterprise storage refresh cycle.",
     "claude_signal": "WATCH",
     "claude_note": "New 52-week high Friday = price discovery | Rule A: Pre DV 1.5x+ | CLV \u2265 0.3 = entry | \u26a1 FRIDAY NEW 52-WEEK HIGH",
     "friday_new_high": true,
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
-    "ftd_stage": "D+0 NEW HIGH"
+    "ftd_stage": "D+0 NEW HIGH",
+    "d0_date": "2026-05-29",
+    "d0_price": 142.4,
+    "d0_note": "Q4 FY2026 beat: revenue $1.95B vs $1.87B | AI data infrastructure | gapped +22% Friday | 52-week high $192.83"
   },
   "PENG": {
     "level": "ALERT",
@@ -713,7 +751,10 @@
     "friday_new_high": true,
     "ftd_day": 0,
     "ftd_date": "2026-05-29",
-    "ftd_stage": "D+0 NEW HIGH"
+    "ftd_stage": "D+0 NEW HIGH",
+    "d0_date": "2026-05-29",
+    "d0_price": 41.3,
+    "d0_note": "Q3 FY2026 $10.24B +123% YoY | Dell +38% drag | Q4 guide $11-12.5B | AI server direct beneficiary"
   },
   "HOOD": {
     "level": "ALERT",
@@ -743,6 +784,10 @@
     "label": "FTD D+0 NEW HIGH \u2014 new high Friday, enterprise networking AI",
     "read": "Cisco Systems new 52-week high Friday. AI networking infrastructure. Splunk integration driving enterprise AI observability.",
     "claude_signal": "WATCH",
-    "claude_note": "New high Friday | Enterprise AI networking | Pre DV 1.5x+ | CLV \u2265 0.7 near top of bar = entry"
+    "claude_note": "New high Friday | Enterprise AI networking | Pre DV 1.5x+ | CLV \u2265 0.7 near top of bar = entry",
+    "d0_date": "2026-05-29",
+    "d0_price": 121.43,
+    "d0_high": 121.43,
+    "d0_note": "New 52-week high Friday $121.43 | enterprise AI networking | Splunk integration | clean breakout"
   }
 }
